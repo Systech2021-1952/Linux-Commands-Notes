@@ -338,10 +338,8 @@ General Commands
 
 # 19. Containerization and Orchestration
 
-```
-Docker
-```
 
+`Docker`
 - docker – Docker command-line interface (CLI) for managing containers
 	- docker run <image> – Run a container from an image
 	- docker ps – List running containers
@@ -360,9 +358,7 @@ Docker
 - docker-compose logs – View logs from containers managed by docker-compose
 
 
-```
-Kubernetes (k8s)
-```
+`Kubernetes (k8s)`
 
 - kubectl – Command-line tool for interacting with Kubernetes clusters
     - **kubectl get pods** – List pods in the current namespace
@@ -379,13 +375,10 @@ Kubernetes (k8s)
 	- kubectl port-forward pod <pod_name> <local_port>:<remote_port> – Forward a port from a pod to localhost
 
 
-**Helm**
+`Helm`
 
-```
-- helm – Kubernetes package manager for deploying applications
-```
-
-	o helm install <release_name> <chart_name> – Install a Helm chart
+  helm – Kubernetes package manager for deploying applications
+    o helm install <release_name> <chart_name> – Install a Helm chart
 	o helm upgrade <release_name> <chart_name> – Upgrade a Helm release
 	o helm list – List all Helm releases
 	o helm delete <release_name> – Delete a Helm release

@@ -341,7 +341,7 @@ General Commands
 ```
 Docker
 ```
-```
+
  docker – Docker command-line interface (CLI) for managing containers
 	o docker run <image> – Run a container from an image
 	o docker ps – List running containers
@@ -358,12 +358,12 @@ Docker
  docker-compose up – Start up a multi-container environment
  docker-compose down – Stop and remove containers created by docker-compose
  docker-compose logs – View logs from containers managed by docker-compose
-```
+
 
 ```
 Kubernetes (k8s)
 ```
-```
+
  kubectl – Command-line tool for interacting with Kubernetes clusters
 	o **kubectl get pods** – List pods in the current namespace
 	o **kubectl get** (^) **nodes** – List nodes in the cluster
@@ -377,7 +377,7 @@ Kubernetes (k8s)
 	o kubectl scale deployment <deployment_name> -- replicas=<number> – Scale a deployment to the desired number of replicas
 	o kubectl rollout restart deployment <deployment_name> – Restart a deployment
 	o kubectl port-forward pod <pod_name> <local_port>:<remote_port> – Forward a port from a pod to localhost
-```
+
 
 **Helm**
 

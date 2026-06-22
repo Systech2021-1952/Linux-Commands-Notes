@@ -40,96 +40,96 @@
 
 # 3. Process Management
 
- **ps** – Report a snapshot of current processes
- **top** – Display Linux tasks
- **htop** – Interactive process viewer (advanced top)
- **kill** – Send a signal to a process, typically to terminate
- **killall** – Terminate processes by name
- **bg** – Resume a suspended job in the background
- **fg** – Bring a job to the foreground
- **jobs** – List active jobs
- **nice** – Run a program with modified scheduling priority
- **renice** – Alter priority of running processes
- **uptime** – Show how long the system has been running
- **time** – Measure program running time
+- **ps** – Report a snapshot of current processes
+- **top** – Display Linux tasks
+- **htop** – Interactive process viewer (advanced top)
+- **kill** – Send a signal to a process, typically to terminate
+- **killall** – Terminate processes by name
+- **bg** – Resume a suspended job in the background
+- **fg** – Bring a job to the foreground
+- **jobs** – List active jobs
+- **nice** – Run a program with modified scheduling priority
+- **renice** – Alter priority of running processes
+- **uptime** – Show how long the system has been running
+- **time** – Measure program running time
 
 # 4. Disk Management
 
- **df** – Report file system disk space usage
- **du** – Estimate file space usage
- **fdisk** – Partition table manipulator for Linux
- **lsblk** – List information about block devices
- **mount** – Mount a file system
- **umount** – Unmount a file system
- **parted** – A partition manipulation program
- **mkfs** – Create a file system
- **fsck** – File system consistency check and repair
- **blkid** – Locate/print block device attributes
+- **df** – Report file system disk space usage
+- **du** – Estimate file space usage
+- **fdisk** – Partition table manipulator for Linux
+- **lsblk** – List information about block devices
+- **mount** – Mount a file system
+- **umount** – Unmount a file system
+- **parted** – A partition manipulation program
+- **mkfs** – Create a file system
+- **fsck** – File system consistency check and repair
+- **blkid** – Locate/print block device attributes
 
 
 # 5. Networking
 
- **ifconfig** – Configure network interfaces
- **ip** – Show/manipulate routing, devices, and tunnels
- **ping** – Send ICMP Echo requests to network hosts
- **netstat** – Network statistics
- **ss** – Socket statistics (faster than netstat)
- **traceroute** – Trace the route packets take to a network host
- **nslookup** – Query Internet name servers interactively
- **dig** – DNS lookup utility
- **wget** – Non-interactive network downloader
- **curl** – Transfer data with URLs
- **scp** – Secure copy files between hosts
- **ssh** – Secure shell for remote login
- **ftp** – File Transfer Protocol client
+- **ifconfig** – Configure network interfaces
+- **ip** – Show/manipulate routing, devices, and tunnels
+- **ping** – Send ICMP Echo requests to network hosts
+- **netstat** – Network statistics
+- **ss** – Socket statistics (faster than netstat)
+- **traceroute** – Trace the route packets take to a network host
+- **nslookup** – Query Internet name servers interactively
+- **dig** – DNS lookup utility
+- **wget** – Non-interactive network downloader
+- **curl** – Transfer data with URLs
+- **scp** – Secure copy files between hosts
+- **ssh** – Secure shell for remote login
+- **ftp** – File Transfer Protocol client
 
 
 # 6. User and Group Management
 
- **useradd** – Add a user to the system
- **usermod** – Modify a user account
- **userdel** – Delete a user account
- **groupadd** – Add a group to the system
- **groupdel** – Delete a group
- **passwd** – Change user password
- **chage** – Change user password expiry information
- **whoami** – Print the current logged-in user
- **who** – Show who is logged in
- **w** – Show who is logged in and what they’re doing
- **id** – Display user and group information
- **groups** – Show user’s groups
+- **useradd** – Add a user to the system
+- **usermod** – Modify a user account
+- **userdel** – Delete a user account
+- **groupadd** – Add a group to the system
+- **groupdel** – Delete a group
+- **passwd** – Change user password
+- **chage** – Change user password expiry information
+- **whoami** – Print the current logged-in user
+- **who** – Show who is logged in
+- **w** – Show who is logged in and what they’re doing
+- **id** – Display user and group information
+- **groups** – Show user’s groups
 
 
 # 7. System Information and Monitoring
 
- **uname** – Print system information
- **hostname** – Show or set the system’s hostname
- **uptime** – How long the system has been running
- **dmesg** – Boot and system messages
- **free** – Display memory usage
- **top** – Display Linux tasks
- **vmstat** – Report virtual memory statistics
- lscpu – Display information about the CPU architecture
- lsusb – List USB devices
- lspci – List PCI devices
- lshw – List hardware configuration
+- **uname** – Print system information
+- **hostname** – Show or set the system’s hostname
+- **uptime** – How long the system has been running
+- **dmesg** – Boot and system messages
+- **free** – Display memory usage
+- **top** – Display Linux tasks
+- **vmstat** – Report virtual memory statistics
+- lscpu – Display information about the CPU architecture
+- lsusb – List USB devices
+- lspci – List PCI devices
+- lshw – List hardware configuration
 
 
 # 8. Archiving and Compression
 
- tar – Archive files
+- tar – Archive files
 	o tar - czf archive.tar.gz /path/to/directory – Compress files using gzip
 	o tar - xzf archive.tar.gz – Extract gzipped tarball
 	o tar - cf archive.tar /path/to/directory – Create a tarball
 	o tar - xf archive.tar – Extract tarball
- zip – Package and compress files into a ZIP archive
- unzip – Extract files from a ZIP archive
- gzip – Compress files using the gzip algorithm
- gunzip – Decompress files compressed with gzip
- bzip2 – Compress files using the bzip2 algorithm
- bunzip2 – Decompress files compressed with bzip
- xz – Compress files using the xz algorithm
- unxz – Decompress files compressed with xz
+- zip – Package and compress files into a ZIP archive
+- unzip – Extract files from a ZIP archive
+- gzip – Compress files using the gzip algorithm
+- gunzip – Decompress files compressed with gzip
+- bzip2 – Compress files using the bzip2 algorithm
+- bunzip2 – Decompress files compressed with bzip
+- xz – Compress files using the xz algorithm
+- unxz – Decompress files compressed with xz
 
 
 # 9. Package Management (Depends on Distribution)

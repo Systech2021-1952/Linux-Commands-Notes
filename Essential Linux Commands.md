@@ -342,7 +342,7 @@ General Commands
 Docker
 ```
 
- docker – Docker command-line interface (CLI) for managing containers
+- docker – Docker command-line interface (CLI) for managing containers
 	o docker run <image> – Run a container from an image
 	o docker ps – List running containers
 	o docker ps - a – List all containers, including stopped ones
@@ -355,16 +355,16 @@ Docker
 	o docker rmi <image_name> – Remove an image
 	o docker network ls – List Docker networks
 	o docker-compose – Manage multi-container Docker applications
- docker-compose up – Start up a multi-container environment
- docker-compose down – Stop and remove containers created by docker-compose
- docker-compose logs – View logs from containers managed by docker-compose
+- docker-compose up – Start up a multi-container environment
+- docker-compose down – Stop and remove containers created by docker-compose
+- docker-compose logs – View logs from containers managed by docker-compose
 
 
 ```
 Kubernetes (k8s)
 ```
 
- kubectl – Command-line tool for interacting with Kubernetes clusters
+- kubectl – Command-line tool for interacting with Kubernetes clusters
 	o **kubectl get pods** – List pods in the current namespace
 	o **kubectl get** (^) **nodes** – List nodes in the cluster
 	o **kubectl get services** – List services in the cluster

@@ -1,6 +1,6 @@
 
 # 1. File and Directory Management
-
+```
 ls – List directory contents
 cd – Change directory
 pwd – Print working directory
@@ -17,6 +17,7 @@ chmod – Change file permissions
 chown – Change file owner and group
 chgrp – Change group ownership
 stat – Display file or file system status
+```
 
 # 2. File Viewing and Editing
 

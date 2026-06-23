@@ -153,7 +153,8 @@ the system has been running • **dmesg**– Boot and system messages
 > • **lspci**– List PCI devices
 >
 > • **lshw**– List hardware configuration
->
+
+
 > **8.** **Archiving** **and** **Compression**
 >
 > • **tar**– Archive files

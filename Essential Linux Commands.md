@@ -130,11 +130,10 @@
 ### tar - Archiving Files
 
 ```bash
-tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
-tar -xzf archive.tar.gz - – Extract gzipped tarball
-tar -cf archive.tar /path/to/directory – Create a tarball
-tar -xf archive.tar – Extract tarball 
-```
+  tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
+  tar -xzf archive.tar.gz - – Extract gzipped tarball
+  tar -cf archive.tar /path/to/directory – Create a tarball
+  tar -xf archive.tar – Extract tarball 
 * zip – Package and compress files into a ZIP archive
 * unzip – Extract files from a ZIP archive
 * gzip – Compress files using the gzip algorithm
@@ -143,7 +142,6 @@ tar -xf archive.tar – Extract tarball
 * bunzip2 – Decompress files compressed with bzip2
 * xz – Compress files using the xz algorithm
 * unxz – Decompress files compressed with xz
-
 ---
 
 ## 9. Package Management (Depends on Distribution)

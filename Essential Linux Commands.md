@@ -156,9 +156,9 @@ the system has been running • **dmesg**– Boot and system messages
 
 
 > **8.** **Archiving** **and** **Compression**
->
+
 > • **tar**– Archive files
->
+
 > o tar -czf archive.tar.gz /path/to/directory – Compress files using
 > gzip
 >

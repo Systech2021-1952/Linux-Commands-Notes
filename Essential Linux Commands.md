@@ -126,10 +126,8 @@
 ---
 
 ## 8. Archiving and Compression
-
-### tar - Archiving Files
-
 ```bash
+* tar - Archiving Files
   tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
   tar -xzf archive.tar.gz - – Extract gzipped tarball
   tar -cf archive.tar /path/to/directory – Create a tarball

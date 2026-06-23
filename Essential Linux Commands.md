@@ -172,10 +172,10 @@ dnf update – Update installed packages
 dnf remove <package> – Remove a package 
 ```
 ## General Commands
-`rpm – RPM package manager`
+`rpm` – RPM package manager
     o rpm -i <package.rpm> – Install an RPM package
     o rpm -e <package> – Remove an RPM package
-- dpkg – Debian package manager
+ `dpkg` – Debian package manager
     o dpkg -i <package.deb> – Install a Debian package
     o dpkg -r <package> – Remove a Debian package
 

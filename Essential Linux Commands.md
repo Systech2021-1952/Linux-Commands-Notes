@@ -129,10 +129,12 @@
 
 ```
 - tar - Archiving Files
+
     - tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
     - tar -xzf archive.tar.gz - – Extract gzipped tarball
     - tar -cf archive.tar /path/to/directory – Create a tarball
-    - tar -xf archive.tar – Extract tarball 
+    - tar -xf archive.tar – Extract tarball
+
 - zip – Package and compress files into a ZIP archive
 - unzip – Extract files from a ZIP archive
 - gzip – Compress files using the gzip algorithm

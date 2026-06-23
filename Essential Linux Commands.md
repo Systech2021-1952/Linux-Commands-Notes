@@ -1,6 +1,4 @@
 # Essential Linux Commands
-<img src="./utposc20.png"
-style="width:8.26136in;height:11.69444in" />
 
 > **1.** **File** **and** **Directory** **Management**
 
@@ -28,6 +26,7 @@ ownership
 
 • **stat**– Display file or file system status
 
+
 > **2.** **File** **Viewing** **and** **Editing**
 
 • **cat**– Concatenate and display file content
@@ -48,9 +47,8 @@ Pattern scanning and processing language
 • **cut**– Remove sections from each line of files • **sort**– Sort
 lines of text files
 
-> Page \| 1
-
 • **uniq**– Report or omit repeated lines
+
 
 > **3.** **Process** **Management**
 
@@ -73,6 +71,7 @@ to the foreground
 • **uptime**– Show how long the system has been running • **time**–
 Measure program running time
 
+
 > **4.** **Disk** **Management**
 
 • **df**– Report file system disk space usage • **du**– Estimate file
@@ -89,14 +88,13 @@ system
 • **fsck**– File system consistency check and repair • **blkid**–
 Locate/print block device attributes
 
+
 > **5.** **Networking**
 
 • **ifconfig**– Configure network interfaces
 
 • **ip**– Show/manipulate routing, devices, and tunnels • **ping**– Send
 ICMP Echo requests to network hosts
-
-> Page \| 2
 
 • **netstat**– Network statistics
 
@@ -114,6 +112,7 @@ with URLs
 remote login
 
 • **ftp**– File Transfer Protocol client
+
 
 > **6.** **User** **and** **Group** **Management**
 
@@ -136,6 +135,7 @@ user and group information
 
 • **groups**– Show user’s groups
 
+
 > **7.** **System** **Information** **and** **Monitoring**
 
 • **uname**– Print system information
@@ -147,8 +147,6 @@ the system has been running • **dmesg**– Boot and system messages
 
 • **vmstat**– Report virtual memory statistics
 
-> Page \| 3
->
 > • **lscpu**– Display information about the CPU architecture •
 > **lsusb**– List USB devices
 >
@@ -181,6 +179,7 @@ the system has been running • **dmesg**– Boot and system messages
 >
 > • **unxz**– Decompress files compressed with xz
 
+
 **9.** **Package** **Management** **(Depends** **on** **Distribution)**
 **Debian-based** **(e.g.,** **Ubuntu)**
 
@@ -198,8 +197,6 @@ the system has been running • **dmesg**– Boot and system messages
 > \<package\> – Show package details
 
 **Red** **Hat-based** **(e.g.,** **CentOS,** **Fedora)**
-
-> Page \| 4
 >
 > • **yum**– Package manager for RPM-based systems o yum install
 > \<package\> – Install a package
@@ -253,7 +250,6 @@ the system has been running • **dmesg**– Boot and system messages
 >
 > o service \<service\> status – Check service status
 >
-> Page \| 5
 >
 > **10.** **Scheduling** **Tasks**
 
@@ -304,7 +300,7 @@ group password
 
 • **dd**– Low-level copying and backup of entire filesystems
 
-> Page \| 6
+> 
 >
 > o dd if=/dev/sda of=/path/to/backup.img – Backup a disk/partition
 >
@@ -354,7 +350,6 @@ routing
 >
 > o ip link – Show or manipulate network interfaces
 >
-> Page \| 7
 >
 > o ip route – Show or manipulate routing tables
 
@@ -408,7 +403,7 @@ backups)
 >
 > o grep -r 'pattern' /dir/ – Recursively search for a pattern
 >
-> Page \| 8
+> 
 
 • **sed**– Stream editor for filtering and transforming text
 
@@ -464,7 +459,7 @@ power)
 
 • **poweroff**– Power off the system
 
-> Page \| 9
+> 
 
 • **init**– Change the runlevel (old-style system manager) o init 0 –
 Shutdown
@@ -510,7 +505,7 @@ default permissions for new files
 • **setfacl**– Set access control lists (ACL) for file permissions •
 **getfacl**– Get access control lists (ACL) for file permissions
 
-> Page \| 10
+> 
 
 **19.** **Containerization** **and** **Orchestration** **Docker**
 
@@ -558,7 +553,7 @@ default permissions for new files
 **pods** – List pods in the current namespace **nodes** – List nodes in
 the cluster **services** – List services in the cluster
 
-> Page \| 11
+> 
 >
 > o **kubectl** **apply** **-f** **\<file\>.yaml** – Apply configuration
 > from a file (e.g., a deployment or pod configuration)
@@ -608,7 +603,7 @@ the cluster **services** – List services in the cluster
 
 > • **ansible**– Automation tool for configuration management
 >
-> Page \| 12
+> 
 >
 > o **ansible** **all** **-m** **ping** **–**Ping all hosts defined in
 > the inventory
@@ -659,7 +654,7 @@ the cluster **services** – List services in the cluster
 > o **puppet** **agent** **--test**– Test the Puppet agent (can be used
 > to run a one-off run)
 >
-> Page \| 13
+> 
 >
 > o **puppet** **resource**– Show the current state of resources (files,
 > services, etc.)
@@ -700,7 +695,7 @@ the cluster **services** – List services in the cluster
 >
 > o **aws** **configure** – Configure AWS CLI with your credentials
 >
-> Page \| 14
+> 
 >
 > o **aws** **s3** **cp** **file.txt** **s3://bucket-name/** – Copy a
 > file to an S3 bucket
@@ -746,7 +741,7 @@ the cluster **services** – List services in the cluster
 
 **23.** **Logging** **and** **Monitoring** **Prometheus**
 
-> Page \| 15
+> 
 >
 > • **prometheus**– Open-source system monitoring and alerting toolkit
 >
@@ -780,6 +775,6 @@ the cluster **services** – List services in the cluster
 >
 > (http://localhost:5601)
 >
-> Page \| 16
+> 
 
 

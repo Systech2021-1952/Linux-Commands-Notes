@@ -146,6 +146,7 @@
 ## 9. Package Management (Depends on Distribution)
 
 `## Debian-Based (e.g., Ubuntu)`
+-----
 
 ```
 - `apt-get` – APT package handling utility
@@ -158,6 +159,7 @@
     o apt-cache show <package> – Show package details
 ```
 `## Red Hat-Based  (e.g., CentOS, Fedora)` 
+-----
 ```
 yum– Package manager for RPM-based systems
 yum install <package> – Install a package
@@ -166,6 +168,7 @@ yum remove <package> -  Remove a package
 ```
 
 ### DNF – Next-generation package manager (Fedora, CentOS 8+)
+-----
 ```
 dnf install <package> – Install a package 
 dnf update – Update installed packages 
@@ -178,9 +181,7 @@ dnf remove <package> – Remove a package
  `dpkg – Debian package manager`
     - dpkg -i <package.deb> – Install a Debian package
     - dpkg -r <package> – Remove a Debian package
-
-
----
+-----
 
 ## 10. Service Management
 

@@ -127,8 +127,8 @@
 
 ## 8. Archiving and Compression
 
-```bash
-* `tar` - Archiving Files
+```
+** `tar` - Archiving Files
     tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
     tar -xzf archive.tar.gz - – Extract gzipped tarball
     tar -cf archive.tar /path/to/directory – Create a tarball
@@ -145,34 +145,40 @@
 
 ## 9. Package Management (Depends on Distribution)
 
-`### Debian-Based (e.g., Ubuntu)`
+`## Debian-Based (e.g., Ubuntu)`
 
-```bash
-- apt-get – APT package handling utility
+```
+- `apt-get` – APT package handling utility
     apt-get install <package> – Install a package
     apt-get update – Update package list 
     apt-get upgrade – Upgrade installed packages 
     apt-get remove <package>– Remove a package
-`apt-cache – Query APT cache`
+- `apt-cache` – Query APT cache
     o apt-cache search <package> – Search for a package
     o apt-cache show <package> – Show package details
 ```
-
-`### Red Hat-Based  (e.g., CentOS, Fedora)` 
-
-```bash
-yum install <package>
-yum update
-yum remove <package>
+`## Red Hat-Based  (e.g., CentOS, Fedora)` 
+```
+yum– Package manager for RPM-based systems
+yum install <package> – Install a package
+yum update – Update installed packages 
+yum remove <package> -  Remove a package
 ```
 
-### DNF
-
-```bash
-dnf install <package>
-dnf update
-dnf remove <package>
+### DNF – Next-generation package manager (Fedora, CentOS 8+)
 ```
+dnf install <package> – Install a package 
+dnf update – Update installed packages 
+dnf remove <package> – Remove a package 
+```
+## General Commands
+`rpm – RPM package manager`
+    o rpm -i <package.rpm> – Install an RPM package
+    o rpm -e <package> – Remove an RPM package
+- dpkg – Debian package manager
+    o dpkg -i <package.deb> – Install a Debian package
+    o dpkg -r <package> – Remove a Debian package
+
 
 ---
 

@@ -126,6 +126,7 @@
 ---
 
 ## 8. Archiving and Compression
+
 ```bash
 * tar - Archiving Files
   tar -czf archive.tar.gz /path/to/directory - Compress files using gzip
@@ -140,7 +141,7 @@
 * bunzip2 – Decompress files compressed with bzip2
 * xz – Compress files using the xz algorithm
 * unxz – Decompress files compressed with xz
----
+```
 
 ## 9. Package Management (Depends on Distribution)
 

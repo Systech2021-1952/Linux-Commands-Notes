@@ -145,16 +145,20 @@
 
 ## 9. Package Management (Depends on Distribution)
 
-### Debian-Based (e.g., Ubuntu)
+`### Debian-Based (e.g., Ubuntu)`
 
 ```bash
-apt-get install <package>
-apt-get update
-apt-get upgrade
-apt-get remove <package>
+- apt-get – APT package handling utility
+    apt-get install <package> – Install a package
+    apt-get update – Update package list 
+    apt-get upgrade – Upgrade installed packages 
+    apt-get remove <package>– Remove a package
+`apt-cache – Query APT cache`
+    o apt-cache search <package> – Search for a package
+    o apt-cache show <package> – Show package details
 ```
 
-### Red Hat-Based Systems
+`### Red Hat-Based  (e.g., CentOS, Fedora)` 
 
 ```bash
 yum install <package>

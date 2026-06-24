@@ -1,2 +1,2 @@
 # Linux-Commands-Notes
-Commands &amp; Notes about the linux 
+A Practical Guide for Beginners and Professionals 

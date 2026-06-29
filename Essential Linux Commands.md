@@ -82,6 +82,22 @@
 - **`ssh`** – Secure shell for remote login 
 - **`ftp`** – File Transfer Protocol client
 
+## **6. User and Group Management** 
+
+- **`useradd`** – Add a user to the system 
+- **`usermod`** – Modify a user account 
+- **`userdel`** – Delete a user account 
+- **`groupadd`** – Add a group to the system 
+- **`groupdel`** – Delete a group 
+- **`passwd`** – Change user password 
+- **`chage`** – Change user password expiry information 
+- **`whoami`** – Print the current logged-in user 
+- **`who`** – Show who is logged in 
+- **`w`** – Show who is logged in and what they’re doing 
+- **`id`** – Display user and group information 
+- **`groups`** – Show user’s groups 
+
+
 
 
 

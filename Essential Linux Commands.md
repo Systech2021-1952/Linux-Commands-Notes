@@ -106,6 +106,11 @@
 - **`free`** – Display memory usage 
 - **`top`** – Display Linux tasks 
 - **`vmstat`** – Report virtual memory statistics 
+- **`lscpu`** – Display information about the CPU architecture 
+- **`lsusb`** – List USB devices 
+- **`lspci`** – List PCI devices 
+- **`lshw`** – List hardware configuration 
+
 
 
 

@@ -3,7 +3,7 @@
 # 1. File and Directory Management
 
 - **`ls`** – List directory contents
-- **`cd`** – Change directory
+- - **`cd`** – Change directory
 - **`pwd`** – Print working directory
 - **`cp`** – Copy files and directories
 - **`mv`** – Move or rename files and directories
@@ -100,17 +100,11 @@
 ## **7. System Information and Monitoring** 
 
 - **`uname`** – Print system information 
-
 - **`hostname`** – Show or set the system’s hostname 
-
 - **`uptime`** – How long the system has been running 
-
 - **`dmesg`** – Boot and system messages 
-
 - **`free`** – Display memory usage 
-
 - **`top`** – Display Linux tasks 
-
 - **`vmstat`** – Report virtual memory statistics 
 
 

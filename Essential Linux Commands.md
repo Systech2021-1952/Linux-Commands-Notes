@@ -97,6 +97,22 @@
 - **`id`** – Display user and group information 
 - **`groups`** – Show user’s groups 
 
+## **7. System Information and Monitoring** 
+
+- **`uname`** – Print system information 
+
+- **`hostname`** – Show or set the system’s hostname 
+
+- **`uptime`** – How long the system has been running 
+
+- **`dmesg`** – Boot and system messages 
+
+- **`free`** – Display memory usage 
+
+- **`top`** – Display Linux tasks 
+
+- **`vmstat`** – Report virtual memory statistics 
+
 
 
 

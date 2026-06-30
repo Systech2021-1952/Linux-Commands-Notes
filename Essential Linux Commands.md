@@ -111,6 +111,20 @@
 - **`lspci`** – List PCI devices 
 - **`lshw`** – List hardware configuration 
 
+## **8. Archiving and Compression** 
+
+- **`tar`** – Archive files `o` tar -czf archive.tar.gz /path/to/directory – Compress files using gzip 
+
+`o` tar -xzf archive.tar.gz – Extract gzipped tarball `o` tar -cf archive.tar /path/to/directory – Create a tarball `o` tar -xf archive.tar – Extract tarball 
+
+- **`zip`** – Package and compress files into a ZIP archive 
+- **`unzip`** – Extract files from a ZIP archive 
+- **`gzip`** – Compress files using the gzip algorithm 
+- **`gunzip`** – Decompress files compressed with gzip 
+- **`bzip2`** – Compress files using the bzip2 algorithm 
+- **`bunzip2`** – Decompress files compressed with bzip2 
+- **`xz`** – Compress files using the xz algorithm 
+- **`unxz`** – Decompress files compressed with xz 
 
 
 

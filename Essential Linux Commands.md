@@ -3,7 +3,7 @@
 # 1. File and Directory Management
 
 - **`ls`** – List directory contents
-- - **`cd`** – Change directory
+- **`cd`** – Change directory
 - **`pwd`** – Print working directory
 - **`cp`** – Copy files and directories
 - **`mv`** – Move or rename files and directories

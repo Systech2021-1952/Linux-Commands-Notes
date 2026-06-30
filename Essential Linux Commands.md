@@ -115,9 +115,9 @@
 
 - **`tar`** – Archive files
       -  `o` tar -czf archive.tar.gz /path/to/directory – Compress files using gzip 
-          `o` tar -xzf archive.tar.gz – Extract gzipped tarball
-           `o` tar -cf archive.tar /path/to/directory – Create a tarball
-           `o` tar -xf archive.tar – Extract tarball 
+      -  `o` tar -xzf archive.tar.gz – Extract gzipped tarball
+      -  `o` tar -cf archive.tar /path/to/directory – Create a tarball
+      - `o` tar -xf archive.tar – Extract tarball 
 
 - **`zip`** – Package and compress files into a ZIP archive 
 - **`unzip`** – Extract files from a ZIP archive 

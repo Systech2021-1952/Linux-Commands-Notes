@@ -133,9 +133,9 @@
 
 ## **9. Package Management (Depends on Distribution)** 
 
-## **Debian-based (e.g., Ubuntu)**
+ **Debian-based (e.g., Ubuntu)**
 
-**`apt-get`** – APT package handling utility
+   **`apt-get`** – APT package handling utility
   
      apt-get install <package> – Install a package 
      apt-get update – Update package list 

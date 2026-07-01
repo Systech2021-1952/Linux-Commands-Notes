@@ -135,13 +135,18 @@
 ```## **Debian-based (e.g., Ubuntu)**``` 
 
 - **`apt-get`** – APT package handling utility 
-
-  ```apt-get install <package> – Install a package 
+     ```
+     apt-get install <package> – Install a package 
      apt-get update – Update package list 
      apt-get upgrade – Upgrade installed packages 
-     apt-get remove <package> – Remove a package ```
+     apt-get remove <package> – Remove a package
+     ```
 
- **`apt-cache`** – Query APT cache `o` apt-cache search <package> – Search for a package `o` apt-cache show <package> – Show package details 
+ **`apt-cache`** – Query APT cache 
+```
+`o` apt-cache search <package> – Search for a package
+`o` apt-cache show <package> – Show package details 
+```
 
 ## **Red Hat-based (e.g., CentOS, Fedora)** 
 

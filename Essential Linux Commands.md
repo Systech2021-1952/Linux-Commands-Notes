@@ -149,7 +149,7 @@
 `o` apt-cache show <package> – Show package details 
 ```
 
-``` **Red Hat-based (e.g., CentOS, Fedora)**``` 
+ **Red Hat-based (e.g., CentOS, Fedora)** 
 
 - **`yum`** – Package manager for RPM-based systems 
 ```

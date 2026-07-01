@@ -165,7 +165,7 @@
     dnf remove <package> – Remove a package 
 ```
 
-## General Commands 
+> General Commands 
 
 - **`rpm`** – RPM package manager
   

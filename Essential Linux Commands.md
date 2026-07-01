@@ -133,7 +133,7 @@
 
 ## **9. Package Management (Depends on Distribution)** 
 
- **Debian-based (e.g., Ubuntu)**
+ Debian-based (e.g., Ubuntu)
 
    **`apt-get`** – APT package handling utility
   

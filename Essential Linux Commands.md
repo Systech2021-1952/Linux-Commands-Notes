@@ -136,12 +136,12 @@
 ### Debian-based (e.g., Ubuntu)
 
   - **`apt-get`** APT package handling utility
-  
+  ```
      apt-get install <package> – Install a package 
      apt-get update – Update package list 
      apt-get upgrade – Upgrade installed packages 
      apt-get remove <package> – Remove a package
-     
+ ```  
 
 - **`apt-cache`**  Query APT cache 
 ```

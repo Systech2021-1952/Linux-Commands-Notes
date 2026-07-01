@@ -135,7 +135,7 @@
 
 ### Debian-based (e.g., Ubuntu)
 
-   **`apt-get`** APT package handling utility
+  - **`apt-get`** APT package handling utility
   
      apt-get install <package> – Install a package 
      apt-get update – Update package list 
@@ -143,7 +143,7 @@
      apt-get remove <package> – Remove a package
      
 
- **`apt-cache`**  Query APT cache 
+- **`apt-cache`**  Query APT cache 
 ```
 `o` apt-cache search <package> – Search for a package
 `o` apt-cache show <package> – Show package details 

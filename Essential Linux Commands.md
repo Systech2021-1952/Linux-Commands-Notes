@@ -144,7 +144,7 @@
      apt-get remove <package> – Remove a package
      ```
 
- **`apt-cache`** – Query APT cache 
+ **`apt-cache`** – Query APT cache 
 ```
 `o` apt-cache search <package> – Search for a package
 `o` apt-cache show <package> – Show package details 

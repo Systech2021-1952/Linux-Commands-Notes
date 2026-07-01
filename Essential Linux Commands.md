@@ -145,24 +145,24 @@
 
 - **`apt-cache`**  Query APT cache 
 ```
-`o` apt-cache search <package> – Search for a package
-`o` apt-cache show <package> – Show package details 
+   apt-cache search <package> – Search for a package
+   apt-cache show <package> – Show package details 
 ```
 
  ## Red Hat-based (e.g., CentOS, Fedora) 
 
 - **`yum`** – Package manager for RPM-based systems 
 ```
-   - yum install <package> – Install a package 
-   - yum update – Update installed packages 
-   - yum remove <package> – Remove a package 
+    yum install <package> – Install a package 
+    yum update – Update installed packages 
+    yum remove <package> – Remove a package 
 ```
 
 - **`dnf`** – Next-generation package manager (Fedora, CentOS 8+) 
 ```
-   - dnf install <package> – Install a package 
-   - dnf update – Update installed packages 
-   - dnf remove <package> – Remove a package 
+    dnf install <package> – Install a package 
+    dnf update – Update installed packages 
+    dnf remove <package> – Remove a package 
 ```
 
 ## General Commands 
@@ -170,15 +170,15 @@
 - **`rpm`** – RPM package manager
   
 ```
-   - rpm -i <package.rpm> – Install an RPM package 
-   - rpm -e <package> – Remove an RPM package 
+    rpm -i <package.rpm> – Install an RPM package 
+    rpm -e <package> – Remove an RPM package 
 ```
 
 - **`dpkg`** – Debian package manager
   
 ```
-   - dpkg -i <package.deb> – Install a Debian package 
-   - dpkg -r <package> – Remove a Debian package 
+    dpkg -i <package.deb> – Install a Debian package 
+    dpkg -r <package> – Remove a Debian package 
 ```
 
 ## **System Services and Daemon Management** 

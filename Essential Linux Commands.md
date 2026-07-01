@@ -130,7 +130,7 @@
 - **`xz`** – Compress files using the xz algorithm 
 - **`unxz`** – Decompress files compressed with xz
 
-- ## **9. Package Management (Depends on Distribution)** 
+## **9. Package Management (Depends on Distribution)** 
 
 ```## **Debian-based (e.g., Ubuntu)**``` 
 

@@ -128,7 +128,79 @@
 - **`bzip2`** – Compress files using the bzip2 algorithm 
 - **`bunzip2`** – Decompress files compressed with bzip2 
 - **`xz`** – Compress files using the xz algorithm 
-- **`unxz`** – Decompress files compressed with xz 
+- **`unxz`** – Decompress files compressed with xz
+
+- ## **9. Package Management (Depends on Distribution)** 
+
+```## **Debian-based (e.g., Ubuntu)**``` 
+
+- **`apt-get`** – APT package handling utility 
+
+   - apt-get install <package> – Install a package 
+
+`o` apt-get update – Update package list 
+
+- apt-get upgrade – Upgrade installed packages 
+
+- `o` apt-get remove <package> – Remove a package 
+
+ **`apt-cache`** – Query APT cache `o` apt-cache search <package> – Search for a package `o` apt-cache show <package> – Show package details 
+
+## **Red Hat-based (e.g., CentOS, Fedora)** 
+
+- **`yum`** – Package manager for RPM-based systems 
+
+   - yum install <package> – Install a package 
+
+   - yum update – Update installed packages 
+
+   - yum remove <package> – Remove a package 
+
+- **`dnf`** – Next-generation package manager (Fedora, CentOS 8+) 
+
+   - dnf install <package> – Install a package 
+
+   - dnf update – Update installed packages 
+
+   - dnf remove <package> – Remove a package 
+
+## **General Commands** 
+
+- **`rpm`** – RPM package manager 
+
+   - rpm -i <package.rpm> – Install an RPM package 
+
+   - `o` rpm -e <package> – Remove an RPM package 
+
+- **`dpkg`** – Debian package manager 
+
+   - dpkg -i <package.deb> – Install a Debian package 
+
+   - `o` dpkg -r <package> – Remove a Debian package 
+
+## **System Services and Daemon Management** 
+
+- **`systemctl`** – Control the systemd system and service manager `o` systemctl start <service> – Start a service 
+
+   - systemctl stop <service> – Stop a service 
+
+   - systemctl restart <service> – Restart a service 
+
+   - systemctl enable <service> – Enable a service to start on boot 
+
+   - systemctl disable <service> – Disable a service from starting on boot 
+
+   - systemctl status <service> – Check service status 
+
+- **`service`** – Older service management command (used in nonsystemd systems) 
+
+   - service <service> start – Start a service 
+
+   - service <service> stop – Stop a service 
+
+   - service <service> restart – Restart a service 
+
+   - service <service> status – Check service status 
 
 
 

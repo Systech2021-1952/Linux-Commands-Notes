@@ -148,37 +148,37 @@
 `o` apt-cache show <package> – Show package details 
 ```
 
-## **Red Hat-based (e.g., CentOS, Fedora)** 
+```## **Red Hat-based (e.g., CentOS, Fedora)**``` 
 
 - **`yum`** – Package manager for RPM-based systems 
-
+```
    - yum install <package> – Install a package 
-
    - yum update – Update installed packages 
-
    - yum remove <package> – Remove a package 
+```
 
 - **`dnf`** – Next-generation package manager (Fedora, CentOS 8+) 
-
+```
    - dnf install <package> – Install a package 
-
    - dnf update – Update installed packages 
-
    - dnf remove <package> – Remove a package 
+```
 
-## **General Commands** 
+```## **General Commands**``` 
 
-- **`rpm`** – RPM package manager 
-
+- **`rpm`** – RPM package manager
+  
+```
    - rpm -i <package.rpm> – Install an RPM package 
-
    - `o` rpm -e <package> – Remove an RPM package 
+```
 
-- **`dpkg`** – Debian package manager 
-
+- **`dpkg`** – Debian package manager
+  
+```
    - dpkg -i <package.deb> – Install a Debian package 
-
    - `o` dpkg -r <package> – Remove a Debian package 
+```
 
 ## **System Services and Daemon Management** 
 

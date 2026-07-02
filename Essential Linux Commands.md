@@ -184,25 +184,16 @@
 ## **System Services and Daemon Management** 
 
 - **`systemctl`** – Control the systemd system and service manager `o` systemctl start <service> – Start a service 
-
    - systemctl stop <service> – Stop a service 
-
    - systemctl restart <service> – Restart a service 
-
    - systemctl enable <service> – Enable a service to start on boot 
-
    - systemctl disable <service> – Disable a service from starting on boot 
-
    - systemctl status <service> – Check service status 
 
 - **`service`** – Older service management command (used in nonsystemd systems) 
-
    - service <service> start – Start a service 
-
    - service <service> stop – Stop a service 
-
    - service <service> restart – Restart a service 
-
    - service <service> status – Check service status 
 
 

@@ -206,6 +206,26 @@
    - service <service> status – Check service status 
 
 
+## **10. Scheduling Tasks** 
+
+- **`cron`** – Daemon for running scheduled commands 
+
+- `o` crontab -e – Edit cron jobs for the current user 
+
+   - crontab -l – List the current user’s cron jobs 
+
+   - crontab -r – Remove the current user's cron jobs 
+
+- **`at`** – Run commands at a specified time 
+
+   - at 09:00 – Schedule a command to run at 09:00 AM 
+
+- **`batch`** – Run commands when the system load is low 
+
+- **`sleep`** – Delay for a specified time 
+
+   - sleep 5s – Sleep for 5 seconds 
+
 
 
 

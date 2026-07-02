@@ -210,7 +210,7 @@
 
 - **`cron`** – Daemon for running scheduled commands 
 
-- `o` crontab -e – Edit cron jobs for the current user 
+- o crontab -e – Edit cron jobs for the current user 
 
    - crontab -l – List the current user’s cron jobs 
 

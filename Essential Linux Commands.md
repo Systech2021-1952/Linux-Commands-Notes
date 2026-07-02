@@ -209,7 +209,7 @@
 ## **10. Scheduling Tasks** 
 
 - **`cron`** – Daemon for running scheduled commands 
--  crontab -e – Edit cron jobs for the current user 
+   -  crontab -e – Edit cron jobs for the current user 
    - crontab -l – List the current user’s cron jobs 
    - crontab -r – Remove the current user's cron jobs 
 

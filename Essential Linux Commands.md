@@ -183,7 +183,8 @@
 
 ## **System Services and Daemon Management** 
 
-- **`systemctl`** – Control the systemd system and service manager `o` systemctl start <service> – Start a service 
+- **`systemctl`** – Control the systemd system and service manager
+   - systemctl start <service> – Start a service 
    - systemctl stop <service> – Stop a service 
    - systemctl restart <service> – Restart a service 
    - systemctl enable <service> – Enable a service to start on boot 

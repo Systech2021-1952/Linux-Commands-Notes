@@ -212,6 +212,20 @@
 - **`sleep`** – Delay for a specified time 
    - sleep 5s – Sleep for 5 seconds 
 
+## **11. File Permissions and Security** 
+
+- **`chmod`** – Change file permissions 
+- **`chown`** – Change file owner and group 
+- **`chgrp`** – Change the group ownership of a file 
+- **`umask`** – Set default permissions for new files 
+- **`setfacl`** – Set file access control lists (ACL) 
+- **`getfacl`** – Get file access control lists (ACL) 
+- **`sudo`** – Execute a command as another user (usually root) 
+- **`visudo`** – Edit the sudoers file safely 
+- **`passwd`** – Change a user’s password 
+- **`sudoers`** – Manage sudo access for users 
+- **`gpasswd`** – Administer group password 
+- **`ss`** – Display socket statistics (for secure network connections)
 
 
 

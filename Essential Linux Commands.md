@@ -226,6 +226,9 @@
 - **`sudoers`** – Manage sudo access for users 
 - **`gpasswd`** – Administer group password 
 - **`ss`** – Display socket statistics (for secure network connections)
+- dd if=/dev/sda of=/path/to/backup.img – Backup a disk/partition 
+- dd if=/path/to/backup.img of=/dev/sda – Restore a disk/partition 
+
 
 
 

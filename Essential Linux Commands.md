@@ -1,4 +1,4 @@
-[Essential Linux Commands.pdf](https://github.com/user-attachments/files/29669886/Essential.Linux.Commands.pdf)# Essential Linux Commands
+# Essential Linux Commands
 
 # 1. File and Directory Management
 

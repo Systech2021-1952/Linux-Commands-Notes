@@ -230,12 +230,12 @@
 ## **12. System Backup and Restore** 
 
 - **`rsync`** – Remote file and directory synchronization
-  >  - rsync -avz source/ destination/ – Synchronize files 
-  > - rsync -avz -e ssh source/ user@remote:/destination/ – Sync over SSH 
+    - rsync -avz source/ destination/ – Synchronize files 
+   - rsync -avz -e ssh source/ user@remote:/destination/ – Sync over SSH 
 - **`cpio`** – Copy files to and from archives 
 - **`dd`** – Low-level copying and backup of entire filesystems 
-  > - dd if=/dev/sda of=/path/to/backup.img – Backup a disk/partition 
-  > - dd if=/path/to/backup.img of=/dev/sda – Restore a disk/partition
+   - dd if=/dev/sda of=/path/to/backup.img – Backup a disk/partition 
+   - dd if=/path/to/backup.img of=/dev/sda – Restore a disk/partition
  
 
 

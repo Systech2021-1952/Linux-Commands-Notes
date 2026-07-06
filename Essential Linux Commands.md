@@ -236,9 +236,9 @@
 - **`dmesg`**  Print the kernel ring buffer messages (system boot and hardware-related messages) 
 - **`journalctl`**  Query and view logs from systemd’s journal 
 - **`strace`**  Trace system calls and signals 
-     > - strace <command> – Trace a command’s system calls 
+    > - strace <command> – Trace a command’s system calls 
 - **`lsof`**  List open files (useful for debugging)
-     > -  lsof <file> – Show processes using a specific file 
+    > -  lsof <file> – Show processes using a specific file 
 - **`vmstat`**  Report virtual memory statistics
 -  **`iostat`**  Report CPU and I/O statistics
 -  **`mpstat`**  Report CPU usage statistics 
@@ -246,7 +246,7 @@
 - **`free`**  Display memory usage 
 - **`uptime`**  How long the system has been running 
 - **`watch`**  Execute a program periodically, showing output
-     > - watch -n 1 free – Watch memory usage every second 
+    > - watch -n 1 free – Watch memory usage every second 
 - **`lshw`**  List hardware configuration 
 - **`htop`**  Interactive process viewer (better than top) 
 - **`netstat`**  Network statistics (deprecated in favor of ss) 

@@ -113,7 +113,7 @@
 
 ## **8. Archiving and Compression** 
 
-- **`tar`** – Archive files 
+- **`tar`**  Archive files 
   ```
       tar -czf archive.tar.gz /path/to/directory – Compress files using gzip 
       tar -xzf archive.tar.gz – Extract gzipped tarball
@@ -166,14 +166,14 @@
 
 ## General Commands 
 
-- **`rpm`** – RPM package manager
+- **`rpm`**  RPM package manager
   
 ```
     rpm -i <package.rpm> – Install an RPM package 
     rpm -e <package> – Remove an RPM package 
 ```
 
-- **`dpkg`** – Debian package manager
+- **`dpkg`**  Debian package manager
   
 ```
     dpkg -i <package.deb> – Install a Debian package 
@@ -182,7 +182,7 @@
 
 ## **System Services and Daemon Management** 
 
-- **`systemctl`** – Control the systemd system and service manager
+- **`systemctl`**  Control the systemd system and service manager
    - systemctl start <service> – Start a service 
    - systemctl stop <service> – Stop a service 
    - systemctl restart <service> – Restart a service 
@@ -190,7 +190,7 @@
    - systemctl disable <service> – Disable a service from starting on boot 
    - systemctl status <service> – Check service status 
 
-- **`service`** – Older service management command (used in nonsystemd systems) 
+- **`service`**  Older service management command (used in nonsystemd systems) 
    - service <service> start – Start a service 
    - service <service> stop – Stop a service 
    - service <service> restart – Restart a service 
@@ -199,63 +199,63 @@
 
 ## **10. Scheduling Tasks** 
 
-- **`cron`** – Daemon for running scheduled commands 
+- **`cron`**  Daemon for running scheduled commands 
    -  crontab -e – Edit cron jobs for the current user 
    - crontab -l – List the current user’s cron jobs 
    - crontab -r – Remove the current user's cron jobs 
 
-- **`at`** – Run commands at a specified time 
+- **`at`**  Run commands at a specified time 
    - at 09:00 – Schedule a command to run at 09:00 AM 
 
-- **`batch`** – Run commands when the system load is low 
-- **`sleep`** – Delay for a specified time 
+- **`batch`**  Run commands when the system load is low 
+- **`sleep`**  Delay for a specified time 
    - sleep 5s – Sleep for 5 seconds 
 
 ## **11. File Permissions and Security** 
 
-- **`chmod`** – Change file permissions 
-- **`chown`** – Change file owner and group 
-- **`chgrp`** – Change the group ownership of a file 
-- **`umask`** – Set default permissions for new files 
-- **`setfacl`** – Set file access control lists (ACL) 
-- **`getfacl`** – Get file access control lists (ACL) 
-- **`sudo`** – Execute a command as another user (usually root) 
-- **`visudo`** – Edit the sudoers file safely 
-- **`passwd`** – Change a user’s password 
-- **`sudoers`** – Manage sudo access for users 
-- **`gpasswd`** – Administer group password 
-- **`ss`** – Display socket statistics (for secure network connections)
+- **`chmod`**  Change file permissions 
+- **`chown`**  Change file owner and group 
+- **`chgrp`**  Change the group ownership of a file 
+- **`umask`**  Set default permissions for new files 
+- **`setfacl`**  Set file access control lists (ACL) 
+- **`getfacl`**  Get file access control lists (ACL) 
+- **`sudo`**  Execute a command as another user (usually root) 
+- **`visudo`**  Edit the sudoers file safely 
+- **`passwd`**  Change a user’s password 
+- **`sudoers`**  Manage sudo access for users 
+- **`gpasswd`**  Administer group password 
+- **`ss`**  Display socket statistics (for secure network connections)
 
 ## **12. System Backup and Restore** 
 
-- **`rsync`** – Remote file and directory synchronization
+- **`rsync`**  Remote file and directory synchronization
     - rsync - avz source/ destination/ – Synchronize files 
    - rsync - avz -e ssh source/ user@remote:/destination/ – Sync over SSH 
-- **`cpio`** – Copy files to and from archives 
-- **`dd`** – Low-level copying and backup of entire filesystems 
+- **`cpio`**  Copy files to and from archives 
+- **`dd`**  Low-level copying and backup of entire filesystems 
    - dd if=/dev/sda of=/path/to/backup.img – Backup a disk/partition 
    - dd if=/path/to/backup.img of=/dev/sda – Restore a disk/partition
 
 ## **13. System Diagnostics and Troubleshooting** 
 
-- **`dmesg`** – Print the kernel ring buffer messages (system boot and hardware-related messages) 
-- **`journalctl`** – Query and view logs from systemd’s journal 
-- **`strace`** – Trace system calls and signals 
+- **`dmesg`**  Print the kernel ring buffer messages (system boot and hardware-related messages) 
+- **`journalctl`**  Query and view logs from systemd’s journal 
+- **`strace`**  Trace system calls and signals 
      > - strace <command> – Trace a command’s system calls 
-- **`lsof`** – List open files (useful for debugging)
+- **`lsof`**  List open files (useful for debugging)
      > -  lsof <file> – Show processes using a specific file 
-- **`vmstat`** – Report virtual memory statistics
--  **`iostat`** – Report CPU and I/O statistics
--  **`mpstat`** – Report CPU usage statistics 
-- **`pidstat`** – Report statistics by process 
-- **`free`** – Display memory usage 
-- **`uptime`** – How long the system has been running 
-- **`watch`** – Execute a program periodically, showing output
+- **`vmstat`**  Report virtual memory statistics
+-  **`iostat`**  Report CPU and I/O statistics
+-  **`mpstat`**  Report CPU usage statistics 
+- **`pidstat`**  Report statistics by process 
+- **`free`**  Display memory usage 
+- **`uptime`**  How long the system has been running 
+- **`watch`**  Execute a program periodically, showing output
      > - watch -n 1 free – Watch memory usage every second 
-- **`lshw`** – List hardware configuration 
-- **`htop`** – Interactive process viewer (better than top) 
-- **`netstat`** – Network statistics (deprecated in favor of ss) 
-- **`ss`** – Show socket statistics (more efficient than netstat) 
+- **`lshw`**  List hardware configuration 
+- **`htop`**  Interactive process viewer (better than top) 
+- **`netstat`**  Network statistics (deprecated in favor of ss) 
+- **`ss`**  Show socket statistics (more efficient than netstat) 
  
 
 

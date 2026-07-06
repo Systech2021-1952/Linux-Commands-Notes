@@ -167,12 +167,12 @@
 ## General Commands 
 
 - **`rpm`**  RPM package manager
-    >  rpm -i <package.rpm> – Install an RPM package
-    >  rpm -e <package> – Remove an RPM package 
+    >  _ rpm -i <package.rpm> – Install an RPM package
+    >  _ rpm -e <package> – Remove an RPM package 
 
 - **`dpkg`**  Debian package manager
-    >  dpkg -i <package.deb> – Install a Debian package 
-    >  dpkg -r <package> – Remove a Debian package 
+    >  - dpkg -i <package.deb> – Install a Debian package 
+    >  - dpkg -r <package> – Remove a Debian package 
 
 
 ## **System Services and Daemon Management** 

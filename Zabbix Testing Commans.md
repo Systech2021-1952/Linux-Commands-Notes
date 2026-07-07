@@ -16,7 +16,7 @@ df -h
 
 
 ```
-add linux agent in zabbix server
+Add Suse linux agent in zabbix server
 
 check Zabbix version in zabbix server
 & 
@@ -24,14 +24,16 @@ check linux server agent
 
  cat /etc/os-release
 
+
+Install Zabbix agent in linux :
  zypper install zabbix-agent
 
+set zabbix server ip in linux 
  vi /etc/zabbix/zabbix_agentd.conf
- 	
+
  Server=YOUR_ZABBIX_SERVER_IP
 ServerActive=YOUR_ZABBIX_SERVER_IP
 Hostname=SUSE-SERVER
-
 
 ex:
 Server=192.168.1.10
@@ -42,7 +44,6 @@ systemctl enable zabbix-agent
 systemctl start zabbix-agent
 
 systemctl status zabbix-agent
-
 
 
 ```

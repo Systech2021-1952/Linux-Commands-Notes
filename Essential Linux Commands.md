@@ -259,28 +259,28 @@
 
 ## **14. Networking & Remote Management**
   
-- **`ifconfig`** – Configure network interfaces (older command, replaced by ip) 
-- **`ip`** – A more modern alternative for managing network interfaces and routing 
+- **`ifconfig`**  Configure network interfaces (older command, replaced by ip) 
+- **`ip`**  A more modern alternative for managing network interfaces and routing 
      - ip addr – Show IP addresses 
      - ip link – Show or manipulate network interfaces 
      - ip route – Show or manipulate routing tables
-- **`ss`** – Display socket statistics (useful for diagnosing network issues)
-- **`nmap`** – Network exploration tool (can be used for security auditing)
-- **`telnet`** – User interface to the TELNET protocol (less common nowadays)
+- **`ss`**  Display socket statistics (useful for diagnosing network issues)
+- **`nmap`**  Network exploration tool (can be used for security auditing)
+- **`telnet`**  User interface to the TELNET protocol (less common nowadays)
 - **`nc`** (Netcat) – Network utility for reading and writing from network connections
     - nc -l -p 1234 – Listen on port 1234
     - nc <host> <port> – Connect to a host and port
-- **`iptables`** – Administration tool for IPv4 packet filtering and NAT (Network Address Translation) 
-- **`firewalld`** – Frontend for managing firewall rules (used in some distros like Fedora and CentOS)
-- **`ufw`** – Uncomplicated firewall (front-end for iptables) 
+- **`iptables`**  Administration tool for IPv4 packet filtering and NAT (Network Address Translation) 
+- **`firewalld`**  Frontend for managing firewall rules (used in some distros like Fedora and CentOS)
+- **`ufw`**  Uncomplicated firewall (front-end for iptables) 
      - ufw enable – Enable firewall
      - ufw allow <port> – Allow traffic on a specific port
- - **`tcpdump`** – Command-line packet analyzer 
- - **`curl`** – Transfer data from or to a server using various protocols (HTTP, FTP, etc.)
- - **`wget`** – Download files from the web via HTTP, HTTPS, FTP
- - **`scp`** – Secure copy over SSH (used to copy files between systems) 
+ - **`tcpdump`**  Command-line packet analyzer 
+ - **`curl`**  Transfer data from or to a server using various protocols (HTTP, FTP, etc.)
+ - **`wget`**  Download files from the web via HTTP, HTTPS, FTP
+ - **`scp`**  Secure copy over SSH (used to copy files between systems) 
      - scp file.txt user@remote:/path/to/destination/ – Copy file to remote server 
- - **`rsync`** – Remote file and directory synchronization (often used for backups) 
+ - **`rsync`**  Remote file and directory synchronization (often used for backups) 
      - rsync -avz /local/path/ remote:/remote/path/ – Sync directories
  
 

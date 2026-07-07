@@ -257,8 +257,8 @@
 - **`netstat`**  Network statistics (deprecated in favor of ss) 
 - **`ss`**  Show socket statistics (more efficient than netstat)
 
-  **14. Networking & Remote Management** 
-
+## **14. Networking & Remote Management**
+  
 - **`ifconfig`** – Configure network interfaces (older command, replaced by ip) 
 - **`ip`** – A more modern alternative for managing network interfaces and routing 
      - ip addr – Show IP addresses 

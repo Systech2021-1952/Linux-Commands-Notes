@@ -286,7 +286,32 @@
        
  - **`rsync`**  Remote file and directory synchronization (often used for backups) 
      - rsync -avz /local/path/ remote:/remote/path/ – Sync directories
+
+
+ **15. Text Processing Utilities** 
  
+ **`grep`** – Search for patterns within files 
+    - grep 'pattern' file.txt – Search for a pattern in a file 
+    - grep -r 'pattern' /dir/ – Recursively search for a pattern 
+ **`sed`** – Stream editor for filtering and transforming text
+    - sed 's/old/new/g' file.txt – Replace old with new globally
+ **`awk`** – A powerful text processing language 
+    - awk '{print $1}' file.txt – Print the first column of each line in a file
+ **`cut`** – Remove sections from each line of a file 
+     - cut -d ':' -f 1 /etc/passwd – Print the first field of each line, delimited by ":" 
+ **`sort`** – Sort lines of text files
+    - sort file.txt – Sort file content in ascending order
+ **`uniq`** – Report or omit repeated lines in a file
+    - sort file.txt | uniq – Sort and remove duplicate lines
+  **`tee`** – Read from standard input and write to standard output and files
+   - echo "text" | tee file.txt – Write to file and show output on screen
+ **`tr`** – Translate or delete characters 
+   - echo "hello" | tr 'a-z' 'A-Z' – Convert lowercase to uppercase
+ **`paste`** – Merge lines of files
+    - paste file1.txt file2.txt – Combine lines of file1 and file2 side by side
+ **`wc`** – Word, line, character, and byte count
+    - wc -l file.txt – Count lines in a file 
+    - wc -w file.txt – Count words in a file
 
 
 

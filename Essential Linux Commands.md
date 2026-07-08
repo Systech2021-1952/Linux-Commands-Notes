@@ -288,7 +288,7 @@
      - rsync -avz /local/path/ remote:/remote/path/ – Sync directories
 
 
- **15. Text Processing Utilities** 
+ ## **15. Text Processing Utilities** 
  
 - **`grep`**  Search for patterns within files 
     - grep 'pattern' file.txt – Search for a pattern in a file 
@@ -314,7 +314,7 @@
     - wc -w file.txt – Count words in a file
 
 
-**16. System Shutdown and Reboot** 
+## **16. System Shutdown and Reboot** 
 
 - **`shutdown`** – Shut down the system
       - shutdown -h now – Immediately shut down

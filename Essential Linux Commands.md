@@ -320,7 +320,7 @@
       - shutdown -h now – Immediately shut down
       - shutdown -r now – Reboot the system
      - shutdown -h +10 – Shut down after 10 minutes
- -  - **`reboot`**  Reboot the system
+ -   **`reboot`**  Reboot the system
  - **`halt`**  Halt the system immediately (equivalent to turning off power)
  - **`poweroff`**  Power off the system 
 - **`init`**  Change the runlevel (old-style system manager) 

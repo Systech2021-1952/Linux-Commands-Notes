@@ -338,7 +338,10 @@
      - /etc/fstab – View and configure persistent mount points 
 - **`blkid`**  Display block device attributes
 - **`fsck`**  Check and repair a file system
-     - fsck /dev/sda1 – Check and repair /dev/sda1 
+     - fsck /dev/sda1 – Check and repair /dev/sda1
+ 
+
+  ## **18. Filesystem Permissions and Security** 
 
 
 

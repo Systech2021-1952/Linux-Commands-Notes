@@ -330,7 +330,7 @@
 
 ## **17. File System Mounting and Management** 
 
-- **`mount`** – Mount a file system 
+- **`mount`** – Mount a file system
       - mount /dev/sda1 /mnt – Mount partition to a directory 
 - **`umount`** – Unmount a file system
      - umount /mnt – Unmount the file system mounted at /mnt 

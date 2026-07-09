@@ -328,6 +328,18 @@
     -  init 6 – Reboot 
 
 
+## **17. File System Mounting and Management** 
+
+- **`mount`** – Mount a file system 
+      - mount /dev/sda1 /mnt – Mount partition to a directory 
+- **`umount`** – Unmount a file system
+     - umount /mnt – Unmount the file system mounted at /mnt 
+- **`fstab`** – File system table (configuration file for mounting file systems)
+     - /etc/fstab – View and configure persistent mount points 
+- **`blkid`** – Display block device attributes
+- **`fsck`** – Check and repair a file system
+     - fsck /dev/sda1 – Check and repair /dev/sda1 
+
 
 
 

@@ -369,8 +369,10 @@
      - **`docker logs <container_id>`** – View logs of a container 
      -  **`docker images`** – List available images 
      - **`docker rmi <image_name>`** – Remove an image 
-     -  **`docker network ls`** – List Docker networks 
+     -  **`docker network ls`** – List Docker networks
+       
      - **`docker-compose`** – Manage multi-container Docker applications
+       
          > - **`docker-compose up`** – Start up a multi-container environment 
          > - **`docker-compose down`** – Stop and remove containers created by docker-compose 
          > - **`docker-compose logs`** – View logs from containers managed by docker-compose 

@@ -379,4 +379,6 @@
 
 ## **Kubernetes (k8s)** 
 - **`kubectl`**  Command-line tool for interacting with Kubernetes clusters
-
+    - **`kubectl get pods`** – List pods in the current namespace 
+    - **`kubectl get nodes`** – List nodes in the cluster
+    - **`kubectl get services`** – List services in the cluster 

@@ -317,9 +317,9 @@
 ## **16. System Shutdown and Reboot** 
 
 - **`shutdown`**  Shut down the system
-      - shutdown -h now – Immediately shut down
-      - shutdown -r now – Reboot the system
-     - shutdown -h +10 – Shut down after 10 minutes
+    - shutdown -h now – Immediately shut down
+    - shutdown -r now – Reboot the system
+    - shutdown -h +10 – Shut down after 10 minutes
  -   **`reboot`**  Reboot the system
  - **`halt`**  Halt the system immediately (equivalent to turning off power)
  - **`poweroff`**  Power off the system 

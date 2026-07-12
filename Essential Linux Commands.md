@@ -377,4 +377,6 @@
          > - **`docker-compose down`** – Stop and remove containers created by docker-compose 
          > - **`docker-compose logs`** – View logs from containers managed by docker-compose 
 
+## **Kubernetes (k8s)** 
+
 

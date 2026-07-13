@@ -401,4 +401,4 @@
        - **`helm search <chart_name>`**  Search for a Helm chart
 
 **20. Automation and Configuration Management Ansible** 
- - **`ansible`** – Automation tool for configuration management
+ - **`ansible`**  Automation tool for configuration management

@@ -390,7 +390,9 @@
     - **`kubectl describe pod <pod_name>`** – Get detailed information about a pod
     - **`kubectl scale deployment <deployment_name> -- replicas=<number>`** – Scale a deployment to the desired number of replicas
     - **`kubectl rollout restart deployment <deployment_name>`** – Restart a deployment 
-    - **`kubectl port-forward pod <pod_name> <local_port>:<remote_port>`** – Forward a port from a pod to localhost **Helm**
+    - **`kubectl port-forward pod <pod_name> <local_port>:<remote_port>`** – Forward a port from a pod to localhost
+  
+**`Helm`**
     - **`helm`** – Kubernetes package manager for deploying applications
     – **`helm install <release_name> <chart_name>`** Install a Helm chart 
     – **`helm upgrade <release_name> <chart_name>`** Upgrade a Helm release

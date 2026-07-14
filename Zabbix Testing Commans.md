@@ -58,6 +58,6 @@ systemctl start zabbix-agent
 systemctl status zabbix-agent
 ```
 ----------
-## END
+## Completed
 
 

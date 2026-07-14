@@ -28,8 +28,7 @@
 ----------
 
 
-
-`````
+```
 Add Suse linux agent in zabbix server
 
 check Zabbix version in zabbix server
@@ -59,4 +58,6 @@ systemctl start zabbix-agent
 
 systemctl status zabbix-agent
 
-```
+
+
+

@@ -392,7 +392,7 @@
     - **`kubectl rollout restart deployment <deployment_name>`**  Restart a deployment 
     - **`kubectl port-forward pod <pod_name> <local_port>:<remote_port>`**  Forward a port from a pod to localhost
       
-**`Helm`**
+## **Helm**
   - **`helm`**  Kubernetes package manager for deploying applications
        - **`helm install <release_name> <chart_name>`** Install a Helm chart 
        - **`helm upgrade <release_name> <chart_name>`** Upgrade a Helm release

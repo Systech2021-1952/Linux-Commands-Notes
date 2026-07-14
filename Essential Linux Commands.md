@@ -413,7 +413,8 @@
       - **`ansible-playbook --extra-vars "key=value"`** Pass extra variables to a playbook 
 
 ## **Terraform**
-
+**`terraform`** – Infrastructure as code tool for provisioning and managing cloud resources
+  
 
 
 

@@ -25,8 +25,9 @@
 
 > df -h
 
+----------
 
-```
+`````
 Add Suse linux agent in zabbix server
 
 check Zabbix version in zabbix server

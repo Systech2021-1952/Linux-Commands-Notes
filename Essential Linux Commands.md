@@ -402,7 +402,7 @@
 
 ## **20. Automation and Configuration Management 
 
-# Ansible 
+## **Ansible** 
 
  - **`ansible`**  Automation tool for configuration management
       - **`ansible all -m ping`** Ping all hosts defined in the inventory 

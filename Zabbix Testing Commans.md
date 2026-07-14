@@ -57,5 +57,7 @@ systemctl enable zabbix-agent
 systemctl start zabbix-agent
 
 systemctl status zabbix-agent
+----------
+## END
 
 

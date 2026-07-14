@@ -12,7 +12,6 @@
 > systemctl start mysqld
 > systemctl status mysqld
 > df -h
-
 ----------
 
 

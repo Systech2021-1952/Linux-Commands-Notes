@@ -46,17 +46,17 @@ set zabbix server ip in linux
  Server=YOUR_ZABBIX_SERVER_IP
 ServerActive=YOUR_ZABBIX_SERVER_IP
 Hostname=SUSE-SERVER
+````
+> ex:
+> Server=192.168.1.10
+> ServerActive=192.168.1.10
+> Hostname=suse-prod-01
 
-ex:
-Server=192.168.1.10
-ServerActive=192.168.1.10
-Hostname=suse-prod-01
+> systemctl enable zabbix-agent
+> systemctl start zabbix-agent
 
-systemctl enable zabbix-agent
-systemctl start zabbix-agent
+> systemctl status zabbix-agent
 
-systemctl status zabbix-agent
-```
 ----------
 ## Completed
 

@@ -49,10 +49,13 @@ Hostname=SUSE-SERVER
 ````
 > ex:
 > Server=192.168.1.10
+
 > ServerActive=192.168.1.10
+
 > Hostname=suse-prod-01
 
 > systemctl enable zabbix-agent
+
 > systemctl start zabbix-agent
 
 > systemctl status zabbix-agent

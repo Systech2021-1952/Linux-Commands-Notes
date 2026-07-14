@@ -29,11 +29,11 @@
 
 
 ```
-Add Suse linux agent in zabbix server
+Add Suse linux agent in zabbix server :
 
-check Zabbix version in zabbix server
+check Zabbix version in zabbix server : 
 & 
-check linux server agent
+check linux server agent :
 
  cat /etc/os-release
 

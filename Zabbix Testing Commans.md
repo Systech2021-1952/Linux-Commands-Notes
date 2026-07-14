@@ -48,6 +48,7 @@ ServerActive=YOUR_ZABBIX_SERVER_IP
 Hostname=SUSE-SERVER
 ````
 > ex:
+> 
 > Server=192.168.1.10
 
 > ServerActive=192.168.1.10

@@ -420,6 +420,8 @@
        -  **`terraform validate`** – Validate the configuration files
        - **`terraform show`** – Show the current state of the infrastructure 
 
+## **Puppet**
+  - **`puppet`** – Configuration management tool
 
 
 

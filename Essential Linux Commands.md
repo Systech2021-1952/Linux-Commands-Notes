@@ -54,16 +54,16 @@
 
 ## **4. Disk Management** 
 
-- **`df`** – Report file system disk space usage 
-- **`du`** – Estimate file space usage 
-- **`fdisk`** – Partition table manipulator for Linux 
-- **`lsblk`** – List information about block devices 
-- **`mount`** – Mount a file system 
-- **`umount`** – Unmount a file system 
-- **`parted`** – A partition manipulation program 
-- **`mkfs`** – Create a file system 
-- **`fsck`** – File system consistency check and repair 
-- **`blkid`** – Locate/print block device attributes 
+- **`df`**  Report file system disk space usage 
+- **`du`**  Estimate file space usage 
+- **`fdisk`**  Partition table manipulator for Linux 
+- **`lsblk`**  List information about block devices 
+- **`mount`**  Mount a file system 
+- **`umount`**  Unmount a file system 
+- **`parted`**  A partition manipulation program 
+- **`mkfs`**  Create a file system 
+- **`fsck`**  File system consistency check and repair 
+- **`blkid`**  Locate/print block device attributes 
 
 
 ## **5. Networking** 

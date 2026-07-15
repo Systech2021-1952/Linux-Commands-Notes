@@ -75,7 +75,7 @@
 - **`ss`**  Socket statistics (faster than netstat) 
 - **`traceroute`**  Trace the route packets take to a network host 
 - **`nslookup`** Query Internet name servers interactively 
-- **`dig`** – DNS lookup utility 
+- **`dig`**  DNS lookup utility 
 - **`wget`**  Non-interactive network downloader 
 - **`curl`**  Transfer data with URLs 
 - **`scp`**  Secure copy files between hosts 
@@ -84,18 +84,18 @@
 
 ## **6. User and Group Management** 
 
-- **`useradd`** – Add a user to the system 
-- **`usermod`** – Modify a user account 
-- **`userdel`** – Delete a user account 
-- **`groupadd`** – Add a group to the system 
-- **`groupdel`** – Delete a group 
-- **`passwd`** – Change user password 
-- **`chage`** – Change user password expiry information 
-- **`whoami`** – Print the current logged-in user 
-- **`who`** – Show who is logged in 
-- **`w`** – Show who is logged in and what they’re doing 
-- **`id`** – Display user and group information 
-- **`groups`** – Show user’s groups 
+- **`useradd`**  Add a user to the system 
+- **`usermod`**  Modify a user account 
+- **`userdel`**  Delete a user account 
+- **`groupadd`**  Add a group to the system 
+- **`groupdel`**  Delete a group 
+- **`passwd`**  Change user password 
+- **`chage`**  Change user password expiry information 
+- **`whoami`**  Print the current logged-in user 
+- **`who`**  Show who is logged in 
+- **`w`**  Show who is logged in and what they’re doing 
+- **`id`**  Display user and group information 
+- **`groups`**  Show user’s groups 
 
 ## **7. System Information and Monitoring** 
 

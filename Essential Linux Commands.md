@@ -39,18 +39,18 @@
 
 - ## **3. Process Management** 
 
-- **`ps`** – Report a snapshot of current processes 
-- **`top`** – Display Linux tasks 
-- **`htop`** – Interactive process viewer (advanced top) 
-- **`kill`** – Send a signal to a process, typically to terminate 
-- **`killall`** – Terminate processes by name 
-- **`bg`** – Resume a suspended job in the background 
-- **`fg`** – Bring a job to the foreground 
-- **`jobs`** – List active jobs 
-- **`nice`** – Run a program with modified scheduling priority 
-- **`renice`** – Alter priority of running processes 
-- **`uptime`** – Show how long the system has been running 
-- **`time`** – Measure program running time 
+- **`ps`**  Report a snapshot of current processes 
+- **`top`**  Display Linux tasks 
+- **`htop`**  Interactive process viewer (advanced top) 
+- **`kill`**  Send a signal to a process, typically to terminate 
+- **`killall`**  Terminate processes by name 
+- **`bg`**  Resume a suspended job in the background 
+- **`fg`**  Bring a job to the foreground 
+- **`jobs`**  List active jobs 
+- **`nice`**  Run a program with modified scheduling priority 
+- **`renice`**  Alter priority of running processes 
+- **`uptime`**  Show how long the system has been running 
+- **`time`**  Measure program running time 
 
 ## **4. Disk Management** 
 

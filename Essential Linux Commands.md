@@ -422,7 +422,11 @@
 
 ## **Puppet**
   - **`puppet`**  Configuration management tool
-    
+    - **`puppet apply <manifest.pp>`** – Apply a Puppet manifest locally 
+    - **`puppet agent --test`** – Test the Puppet agent (can be used to run a one-off run) 
+    - **`puppet resource`** – Show the current state of resources (files, services, etc.) 
+
+
 
 
 

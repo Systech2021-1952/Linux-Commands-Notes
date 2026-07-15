@@ -68,19 +68,19 @@
 
 ## **5. Networking** 
 
-- **`ifconfig`** – Configure network interfaces 
-- **`ip`** – Show/manipulate routing, devices, and tunnels 
-- **`ping`** – Send ICMP Echo requests to network hosts 
-- **`netstat`** – Network statistics 
-- **`ss`** – Socket statistics (faster than netstat) 
-- **`traceroute`** – Trace the route packets take to a network host 
-- **`nslookup`** – Query Internet name servers interactively 
+- **`ifconfig`**  Configure network interfaces 
+- **`ip`**  Show/manipulate routing, devices, and tunnels 
+- **`ping`**  Send ICMP Echo requests to network hosts 
+- **`netstat`**  Network statistics 
+- **`ss`**  Socket statistics (faster than netstat) 
+- **`traceroute`**  Trace the route packets take to a network host 
+- **`nslookup`** Query Internet name servers interactively 
 - **`dig`** – DNS lookup utility 
-- **`wget`** – Non-interactive network downloader 
-- **`curl`** – Transfer data with URLs 
-- **`scp`** – Secure copy files between hosts 
-- **`ssh`** – Secure shell for remote login 
-- **`ftp`** – File Transfer Protocol client
+- **`wget`**  Non-interactive network downloader 
+- **`curl`**  Transfer data with URLs 
+- **`scp`**  Secure copy files between hosts 
+- **`ssh`**  Secure shell for remote login 
+- **`ftp`**  File Transfer Protocol client
 
 ## **6. User and Group Management** 
 

@@ -99,17 +99,17 @@
 
 ## **7. System Information and Monitoring** 
 
-- **`uname`** – Print system information 
-- **`hostname`** – Show or set the system’s hostname 
-- **`uptime`** – How long the system has been running 
-- **`dmesg`** – Boot and system messages 
-- **`free`** – Display memory usage 
-- **`top`** – Display Linux tasks 
-- **`vmstat`** – Report virtual memory statistics 
-- **`lscpu`** – Display information about the CPU architecture 
-- **`lsusb`** – List USB devices 
-- **`lspci`** – List PCI devices 
-- **`lshw`** – List hardware configuration 
+- **`uname`**  Print system information 
+- **`hostname`**  Show or set the system’s hostname 
+- **`uptime`**  How long the system has been running 
+- **`dmesg`**  Boot and system messages 
+- **`free`**  Display memory usage 
+- **`top`**  Display Linux tasks 
+- **`vmstat`**  Report virtual memory statistics 
+- **`lscpu`**  Display information about the CPU architecture 
+- **`lsusb`**  List USB devices 
+- **`lspci`**  List PCI devices 
+- **`lshw`**  List hardware configuration 
 
 ## **8. Archiving and Compression** 
 

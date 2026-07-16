@@ -439,4 +439,4 @@
    - **`gitlab-runner run`**  Run the GitLab Runner to process jobs 
 
 ## **GitHub Actions**
-
+- GitHub Actions uses YAML configuration files (typically located in .github/workflows/) 

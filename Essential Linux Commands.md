@@ -432,3 +432,5 @@
    - **`java -jar jenkins.war`**  Start Jenkins from a WAR file 
    - Access Jenkins through http://localhost:8080 by default 
 
+## **GitLab CI** 
+

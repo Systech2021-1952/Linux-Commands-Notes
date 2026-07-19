@@ -455,7 +455,7 @@
    - **`aws s3 sync`**  Sync directories with an S3 bucket
 
 ## **Azure CLI (Microsoft Azure)** 
- **`az`**  Command-line tool for managing Azure services 
+ - **`az`**  Command-line tool for managing Azure services 
   - **`az login`** – Log in to your Azure account 
   - **`az vm list`** – List all virtual machines
   -  **`az vm start --name <vm_name> --resource-group <resource_group>`** – Start an Azure VM 

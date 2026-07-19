@@ -469,7 +469,7 @@
     - **`gcloud compute instances stop <instance_name>`**  Stop a Google Cloud VM instance 
     - **`gcloud app browse`**  Open the current Google App Engine application in a browser      
 
-
+## **23. Logging and Monitoring** 
 
 
 

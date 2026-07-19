@@ -344,15 +344,15 @@
   ## **18. Filesystem Permissions and Security**
   
   - **`chmod`**  Change file permissions
-      > chmod 755 file.txt – Give read, write, and execute permissions to owner, and read-execute permissions to others 
+        > chmod 755 file.txt – Give read, write, and execute permissions to owner, and read-execute permissions to others 
   - **`chown`**  Change file owner and group 
-      > chown user:group file.txt – Change owner and group of a file 
+       > chown user:group file.txt – Change owner and group of a file 
   - **`chgrp`**  Change group ownership of a file 
-      > chgrp group file.txt – Change the group of a file 
- - **`umask`**  Set default permissions for new files
-     > umask 022 - Set default permissions for newly created files to 755 
- - **`setfacl`**  Set access control lists (ACL) for file permissions 
- - **`getfacl`**  Get access control lists (ACL) for file permissions 
+       > chgrp group file.txt – Change the group of a file 
+  - **`umask`**  Set default permissions for new files
+        > umask 022 - Set default permissions for newly created files to 755 
+  - **`setfacl`**  Set access control lists (ACL) for file permissions
+  - **`getfacl`**  Get access control lists (ACL) for file permissions 
 
 
 ## **19. Containerization and Orchestration** 

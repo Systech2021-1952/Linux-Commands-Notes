@@ -475,4 +475,6 @@
       - **`prometheus`**  Start Prometheus server (usually runs as a service in the background) 
       - **`prometheus --config.file=<config_file>`**  Start Prometheus with a specific config file 
 
-
+## **Grafana** 
+- **`grafana-cli`**  Command-line interface for managing Grafana plugins 
+     - **`grafana-cli plugins install <plugin-name>`**  Install a plugin in Grafana 

@@ -471,5 +471,8 @@
 
 ## **23. Logging and Monitoring** 
 ## **Prometheus** 
+  - **`prometheus`**  Open-source system monitoring and alerting toolkit
+      - **`prometheus`**  Start Prometheus server (usually runs as a service in the background) 
+      - **`prometheus --config.file=<config_file>`**  Start Prometheus with a specific config file 
 
 

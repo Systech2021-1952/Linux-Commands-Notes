@@ -484,7 +484,7 @@
 
 ## **ELK Stack (Elasticsearch, Logstash, Kibana)** 
 
-- **`elasticsearch`** – Search engine for logging and data analytics
+- **`elasticsearch`**  Search engine for logging and data analytics
      - **`curl -XGET`** 
        'localhost:9200/_cluster/health?pretty' – Get cluster health status 
 - **`logstash`**  Server-side data processing pipeline 

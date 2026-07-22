@@ -376,9 +376,9 @@
        
      - **`docker-compose`**  Manage multi-container Docker applications
        
-         > - **`docker-compose up`** – Start up a multi-container environment 
-         > - **`docker-compose down`** – Stop and remove containers created by docker-compose 
-         > - **`docker-compose logs`** – View logs from containers managed by docker-compose 
+         > - **`docker-compose up`**  Start up a multi-container environment 
+         > - **`docker-compose down`**  Stop and remove containers created by docker-compose 
+         > - **`docker-compose logs`**  View logs from containers managed by docker-compose 
 
 ## **Kubernetes (k8s)** 
 - **`kubectl`**  Command-line tool for interacting with Kubernetes clusters

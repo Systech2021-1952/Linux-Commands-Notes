@@ -1,6 +1,6 @@
 # Essential Linux Commands
 
-# < 1. File and Directory Management >
+# <ins> 1. File and Directory Management </ins >
 
 - **`ls`**  List directory contents 
 - **`cd`**  Change directory

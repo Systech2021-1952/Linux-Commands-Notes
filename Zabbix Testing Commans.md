@@ -34,13 +34,13 @@ set zabbix server ip in linux
 
 `````
 ex:
-Server=192.168.1.10
-ServerActive=192.168.1.10
-Hostname=suse-prod-01
+#Server=192.168.1.10
+#ServerActive=192.168.1.10
+#Hostname=suse-prod-01
 
-systemctl enable zabbix-agent
-systemctl start zabbix-agent
-systemctl status zabbix-agent
+> systemctl enable zabbix-agent
+> systemctl start zabbix-agent
+> systemctl status zabbix-agent
 `````
 
 
@@ -74,21 +74,6 @@ systemctl status zabbix-agent
 
 ----------
 
-`````
-> ex:
-> 
-> Server=192.168.1.10
->
-> ServerActive=192.168.1.10
->
-> Hostname=suse-prod-01
->
-> systemctl enable zabbix-agent
->
-> systemctl start zabbix-agent
->
-> systemctl status zabbix-agent
-`````
 
 
 ## Add Suse linux agent in zabbix server :

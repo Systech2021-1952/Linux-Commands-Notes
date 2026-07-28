@@ -15,6 +15,7 @@ check linux os version
 
 
 ## Add Suse linux agent in zabbix server :
+
 install zabix repo in linux agent :
 > sudo rpm -Uvh https://repo.zabbix.com/zabbix/7.4/stable/sles/15/x86_64/zabbix-release-latest-7.4.sles15.noarch.rpm
 > rpm -Uvh --nosignature https://repo.zabbix.com/zabbix/7.4/release/sles/15/noarch/zabbix-release-latest-7.4.sles15.noarch.rpm
@@ -22,10 +23,15 @@ install zabix repo in linux agent :
 Install Zabbix agent in linux :
 > zypper install zabbix-agent
 
+
+open zabbix file : 
+> cd /etc/zabbix
+> vi zabbix_agentd.conf
+
 set zabbix server ip in linux 
 > vi /etc/zabbix/zabbix_agentd.conf
 
-
+Add the IP & 
 > Server= YOUR_ZABBIX_SERVER_IP
 
 > ServerActive= YOUR_ZABBIX_SERVER_IP

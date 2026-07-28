@@ -1,5 +1,8 @@
 # Install Zabbix Agent In Linux Agent Pc
 
+Check the  Os version in zabbix server
+> cat /etc/os-release
+
 check the zabbix version in zabbix server
 > #zabbix_server --version
 
@@ -18,6 +21,10 @@ install zabix repo in linux agent :
 Install Zabbix agent in linux :
 > zypper install zabbix-agent
 
+
+
+
+----------
 
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >

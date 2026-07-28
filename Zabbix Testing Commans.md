@@ -1,4 +1,4 @@
-# Install Zabbix Agent In Linux 
+# Install Zabbix Agent In Linux Agent Pc
 check the zabbix version in zabbix server
 > #zabbix_server --version
 

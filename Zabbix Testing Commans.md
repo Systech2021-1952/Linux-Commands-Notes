@@ -1,10 +1,14 @@
 
 check the zabbix version in zabbix server
-> # zabbix_server --version
+> #zabbix_server --version
 
 
 Check the Os version in zabbix agent : 
-> # cat /etc/os-release
+> #cat /etc/os-release
+
+check linux agent os version
+> #hostnamectl
+
 
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >

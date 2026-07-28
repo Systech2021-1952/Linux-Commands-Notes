@@ -28,6 +28,24 @@ set zabbix server ip in linux
 > Server= YOUR_ZABBIX_SERVER_IP
 > ServerActive= YOUR_ZABBIX_SERVER_IP
 > Hostname= SUSE-SERVER (linux agent hostname)
+`````
+> ex:
+> 
+> Server=192.168.1.10
+>
+> ServerActive=192.168.1.10
+>
+> Hostname=suse-prod-01
+>
+> systemctl enable zabbix-agent
+>
+> systemctl start zabbix-agent
+>
+> systemctl status zabbix-agent
+`````
+
+
+
 
 ----------
 
@@ -54,7 +72,25 @@ set zabbix server ip in linux
 > systemctl status mysqld
 >
 > df -h
+
 ----------
+
+`````
+> ex:
+> 
+> Server=192.168.1.10
+>
+> ServerActive=192.168.1.10
+>
+> Hostname=suse-prod-01
+>
+> systemctl enable zabbix-agent
+>
+> systemctl start zabbix-agent
+>
+> systemctl status zabbix-agent
+`````
+
 
 ## Add Suse linux agent in zabbix server :
 
@@ -76,19 +112,7 @@ set zabbix server ip in linux
 > Hostname=SUSE-SERVER (linux agent hostname)
 ````
 ----------
-> ex:
-> 
-> Server=192.168.1.10
->
-> ServerActive=192.168.1.10
->
-> Hostname=suse-prod-01
->
-> systemctl enable zabbix-agent
->
-> systemctl start zabbix-agent
->
-> systemctl status zabbix-agent
+
 
 ----------
 ## Completed

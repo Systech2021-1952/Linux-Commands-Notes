@@ -6,10 +6,11 @@ Check the  Os version in zabbix server
 check the zabbix version in zabbix server
 > #zabbix_server --version
 
-Check the  Os version in linux agent : 
+
+Check the Os version in linux  : 
 > #cat /etc/os-release
 
-check linux agent os version
+check linux os version
 > #hostnamectl
 
 

@@ -15,6 +15,9 @@ install zabix repo in linux agent :
 > sudo rpm -Uvh https://repo.zabbix.com/zabbix/7.4/stable/sles/15/x86_64/zabbix-release-latest-7.4.sles15.noarch.rpm
 > rpm -Uvh --nosignature https://repo.zabbix.com/zabbix/7.4/release/sles/15/noarch/zabbix-release-latest-7.4.sles15.noarch.rpm
 
+Install Zabbix agent in linux :
+> zypper install zabbix-agent
+
 
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >

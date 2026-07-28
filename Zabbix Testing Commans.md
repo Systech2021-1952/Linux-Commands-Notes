@@ -48,6 +48,8 @@ ex:
 
 ----------
 
+# Testing Commands 
+
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >
 > vi cat -n /etc/zabbix/web/zabbix.conf.php
@@ -74,31 +76,6 @@ ex:
 
 ----------
 
-
-
-## Add Suse linux agent in zabbix server :
-
-check Zabbix version in zabbix server : 
-& 
-check linux server agent :
-
- cat /etc/os-release
-
-
-Install Zabbix agent in linux :
- zypper install zabbix-agent
-
-set zabbix server ip in linux 
- vi /etc/zabbix/zabbix_agentd.conf
-
-> Server=YOUR_ZABBIX_SERVER_IP
-> ServerActive=YOUR_ZABBIX_SERVER_IP
-> Hostname=SUSE-SERVER (linux agent hostname)
-````
-----------
-
-
-----------
 ## Completed
 
 

@@ -10,6 +10,12 @@ check linux agent os version
 > #hostnamectl
 
 
+## Add Suse linux agent in zabbix server :
+install zabix repo in linux agent :
+> sudo rpm -Uvh https://repo.zabbix.com/zabbix/7.4/stable/sles/15/x86_64/zabbix-release-latest-7.4.sles15.noarch.rpm
+> rpm -Uvh --nosignature https://repo.zabbix.com/zabbix/7.4/release/sles/15/noarch/zabbix-release-latest-7.4.sles15.noarch.rpm
+
+
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >
 > vi cat -n /etc/zabbix/web/zabbix.conf.php
@@ -35,9 +41,7 @@ check linux agent os version
 > df -h
 ----------
 
-
-```
-Add Suse linux agent in zabbix server :
+## Add Suse linux agent in zabbix server :
 
 check Zabbix version in zabbix server : 
 & 

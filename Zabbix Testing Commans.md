@@ -1,6 +1,6 @@
 Check the Os version in zabbix agent : 
-> cat /etc/os-release
->
+> # cat /etc/os-release
+
 > cat -n /etc/zabbix/web/zabbix.conf.php
 >
 > vi cat -n /etc/zabbix/web/zabbix.conf.php

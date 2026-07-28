@@ -4,14 +4,14 @@ Check the  Os version in zabbix server
 > cat /etc/os-release
 
 check the zabbix version in zabbix server
-> #zabbix_server --version
+> zabbix_server --version
 
 
 Check the Os version in linux  : 
-> #cat /etc/os-release
+> cat /etc/os-release
 
 check linux os version
-> #hostnamectl
+> hostnamectl
 
 
 ## Add Suse linux agent in zabbix server :

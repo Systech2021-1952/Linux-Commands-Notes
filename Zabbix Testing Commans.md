@@ -50,6 +50,7 @@ Esc :wq
 `````
 
 ## Restart the Services : 
+
 > systemctl enable zabbix-agent
 > systemctl start zabbix-agent
 > systemctl status zabbix-agent

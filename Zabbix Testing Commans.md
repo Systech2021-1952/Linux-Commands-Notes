@@ -25,8 +25,11 @@ Install Zabbix agent in linux :
 set zabbix server ip in linux 
 > vi /etc/zabbix/zabbix_agentd.conf
 
+
 > Server= YOUR_ZABBIX_SERVER_IP
+
 > ServerActive= YOUR_ZABBIX_SERVER_IP
+
 > Hostname= SUSE-SERVER (linux agent hostname)
 `````
 > ex:

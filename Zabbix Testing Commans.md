@@ -1,9 +1,9 @@
 # Install Zabbix Agent In Linux Agent Pc
+
 check the zabbix version in zabbix server
 > #zabbix_server --version
 
-
-Check the Os version in zabbix agent : 
+Check the  Os version in linux agent : 
 > #cat /etc/os-release
 
 check linux agent os version
@@ -52,9 +52,9 @@ Install Zabbix agent in linux :
 set zabbix server ip in linux 
  vi /etc/zabbix/zabbix_agentd.conf
 
- Server=YOUR_ZABBIX_SERVER_IP
-ServerActive=YOUR_ZABBIX_SERVER_IP
-Hostname=SUSE-SERVER
+> Server=YOUR_ZABBIX_SERVER_IP
+> ServerActive=YOUR_ZABBIX_SERVER_IP
+> Hostname=SUSE-SERVER (linux agent hostname)
 ````
 ----------
 > ex:

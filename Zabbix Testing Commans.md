@@ -1,6 +1,6 @@
 
 check the zabbix version in zabbix server
-# zabbix_server --version
+> # zabbix_server --version
 
 
 Check the Os version in zabbix agent : 

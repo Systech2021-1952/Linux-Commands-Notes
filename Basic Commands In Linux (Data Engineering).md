@@ -52,7 +52,7 @@
 
  = “hello” text file will be created.
 
-### Text file creation
+### - Text file creation
 
 - In the editor, you have to give “i” for inserting a text.
 

@@ -10,7 +10,7 @@ Version:
 
 - Username:
 `ubuntu@dheen:~\$ whoami`
-= uopuntu
+= ubuntu
 
 - (4) Clearing the screen:
 `ubuntu@dheen:~\$ clear`

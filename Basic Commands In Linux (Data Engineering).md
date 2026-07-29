@@ -34,25 +34,25 @@
 
 ## Creating Directory and Files in Linux
 
-(1) Make directory:
+### (1) Make directory:
 
 `ubuntu@dheen:~$ mkdir data`
 
  = Data file will be created.
 
-- (2) Entering into a directory:
+### (2) Entering into a directory:
 
 `ubuntu@dheen:~$ cd data/ `
 
  = We will be enter into ‘data’ file.
 
-- (3) Creating a text file:
+### (3) Creating a text file:
 
 `ubuntu@dheen:~/data$ vi hello `
 
  = “hello” text file will be created.
 
-### (3)Text file creation
+### Text file creation
 
 - In the editor, you have to give “i” for inserting a text.
 
@@ -95,6 +95,15 @@ vim = upgrading vi editor
 ## In data directory:
 
 ` hello.txt     hello1     hello.py     `
+
+- If we give ⇒ vi hello
+   - output ⇒ hello.txt hello1 hello.py
+
+- If we give ⇒ viP hello
+   - output ⇒ hello.txt hello.py
+    
+- If we give ⇒ VP hello
+   - output ⇒ hello.txt hello.py
 
 ## (6) Nano Text Editor:
 

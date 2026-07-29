@@ -36,42 +36,49 @@
 
 (1) Make directory:
 
-ubuntu@dheen:~\$ mkdir data
+`ubuntu@dheen:~$ mkdir data`
 
-- = Data file will be created.
+ = Data file will be created.
 
 - (2) Entering into a directory:
 
-- = We will be enter into ‘data’ file.
+`ubuntu@dheen:~$ cd data/ `
 
-- € Creating a text file:
+ = We will be enter into ‘data’ file.
 
-- = “hello” text file will be created.
+- (3) Creating a text file:
 
-## Text file creation
+`ubuntu@dheen:~/data$ vi hello `
 
-- = In the editor, you have to give “i” for inserting a text.
+ = “hello” text file will be created.
 
-- = Enter some text.
+### (3)Text file creation
 
-- = Give Escape button.
+- In the editor, you have to give “i” for inserting a text.
 
-- = Forsavingafile = :wq — save
+-  Enter some text.
 
-- (4) List of files:
+-  Give Escape button.
 
-ubuntu@dheen:~/data\$ 1s
+-  For saving a file =  :wq → save
+                  =  :b → quit
+
+### (4) List of files:
+
+` ubuntu@dheen:~/data$ 1s `
 
 = hello.txt.
 
 
-## (5) Quit file without saving:
+### (5) Quit file without saving:
 
 - In the editor — give Escape.
 
+  ` :q! `
+
 ## Installing a package: (Linux)
 
-ubuntu@dheen:~/data\$ sudo apt-get install vim
+` ubuntu@dheen:~/data$ sudo apt-get install vim `
 
 sudo = root user
 
@@ -87,6 +94,7 @@ vim = upgrading vi editor
 
 ## In data directory:
 
+` hello.txt     hello1     hello.py     `
 
 ## (6) Nano Text Editor:
 

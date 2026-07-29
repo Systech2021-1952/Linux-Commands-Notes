@@ -20,9 +20,8 @@
 
 ### (4) Clearing the screen:
   
-`ubuntu@dheen:~\$ clear`
+`ubuntu@dheen:~\$ clear` (ctrl +L)
 
-(ctrl +L)
 = Terminal will be cleared.
 
 ### (5) Viewing command history:

@@ -50,7 +50,7 @@
 
 `ubuntu@dheen:~/data$ vi hello `
 
- = “hello” text file will be created.
+ → “hello” text file will be created.
 
 ### - Text file creation
 

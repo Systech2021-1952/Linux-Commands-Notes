@@ -6,19 +6,19 @@
 
 = /home/upuntu
 
-Version:
+(2) Version:
 
 `ubuntu@dheen:~\$ uname -a`
 
 = version will appear
 
-- Username:
+ (3) Username:
   
 `ubuntu@dheen:~\$ whoami`
 
 = ubuntu
 
-- (4) Clearing the screen:
+(4) Clearing the screen:
   
 `ubuntu@dheen:~\$ clear`
 

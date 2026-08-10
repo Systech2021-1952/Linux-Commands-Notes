@@ -58,11 +58,11 @@ credentials or allow tampering
 > Lists cron directories to identify scheduled tasks and potential permission issues.
 
 ## 5. Environment Variables
-env
-Displays all environment variables. Sensitive values or insecure variables may expose escalation
-paths.
-echo $PATH
-Shows the command execution search order. Writable directories in PATH can allow command hijacking.
-LD_PRELOAD
-If allowed through sudo, this variable can force programs to load malicious shared libraries as
-root.
+` env `
+> Displays all environment variables. Sensitive values or insecure variables may expose escalation paths.
+` echo $PATH `
+> Shows the command execution search order. Writable directories in PATH can allow command hijacking.
+` LD_PRELOAD `
+> If allowed through sudo, this variable can force programs to load malicious shared libraries as root.
+
+

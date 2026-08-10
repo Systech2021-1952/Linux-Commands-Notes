@@ -48,6 +48,17 @@ credentials or allow tampering
 
 ## 4. Cron Jobs & Scheduled Tasks
 
+` crontab -l `
+> Displays cron jobs scheduled for the current user.
+
+` cat /etc/crontab `
+> Shows system-wide cron jobs. If a root cron job executes a writable script, it can be hijacked.
+
+` ls -la /etc/cron* `
+> Lists cron directories to identify scheduled tasks and potential permission issues.
+
+
+
 
 
 

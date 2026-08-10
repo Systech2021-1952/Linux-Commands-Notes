@@ -57,8 +57,7 @@ credentials or allow tampering
 ` ls -la /etc/cron* `
 > Lists cron directories to identify scheduled tasks and potential permission issues.
 
-
-
+## 5. Environment Variables
 
 
 

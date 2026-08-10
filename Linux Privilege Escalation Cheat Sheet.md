@@ -19,3 +19,10 @@
 ` sudo -l `
 > Lists commands the current user is allowed to run with  sudo . Misconfigured sudo rules are one of the most common privilege escalation vectors.  
 
+
+2. SUID / SGID Binaries
+
+
+
+
+

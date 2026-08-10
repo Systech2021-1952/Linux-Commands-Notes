@@ -22,6 +22,15 @@
 
 2. SUID / SGID Binaries
 
+` find / -perm -4000 -type f 2>/dev/null `
+> Finds files with the SUID bit set. These binaries run with the file owner’s privileges (often root)
+and are prime escalation targets.
+
+` find / -perm -2000 -type f 2>/dev/null `
+> Finds SGID binaries, which execute with the file’s group privileges rather than the user’s.
+
+` strings /path/to/suid_binary `
+> Extracts readable strings from a binary. This can reveal hardcoded paths, commands, or insecure function calls
 
 
 

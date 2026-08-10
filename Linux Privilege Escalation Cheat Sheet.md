@@ -46,7 +46,7 @@ escalation.
 > Checks permissions on system configuration files. Misconfigured permissions may expose
 credentials or allow tampering
 
-
+## 4. Cron Jobs & Scheduled Tasks
 
 
 

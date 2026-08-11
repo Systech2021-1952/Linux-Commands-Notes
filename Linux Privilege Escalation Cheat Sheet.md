@@ -68,16 +68,14 @@ credentials or allow tampering
 > Lists system users and shells. Useful for identifying interesting or misconfigured accounts.
 
 ` grep -R "password" / 2>/dev/null `
-> Recursively searches the filesystem for plaintext passwords stored in scripts or configuration
-files.
+> Recursively searches the filesystem for plaintext passwords stored in scripts or configuration files.
 
 ` history `
-> Displays command history. Often reveals passwords, tokens, or administrative actions entered
-previously.
+> Displays command history. Often reveals passwords, tokens, or administrative actions entered previously.
 
 ## 7. Kernel Exploits
 ` uname -r `
-
+> Displays the kernel version. This is used to match the system against known kernel vulnerabilities.
 
 
 

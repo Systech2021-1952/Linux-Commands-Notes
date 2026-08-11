@@ -80,7 +80,7 @@ files.
 > Displays command history. Often reveals passwords, tokens, or administrative actions entered
 previously.
 
-
+## 7. Kernel Exploits
 
 
 

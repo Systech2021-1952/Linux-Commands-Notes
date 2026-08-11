@@ -68,4 +68,32 @@ credentials or allow tampering
 ` LD_PRELOAD `
 > If allowed through sudo, this variable can force programs to load malicious shared libraries as root.
 
+## 6. Credentials & Sensitive Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

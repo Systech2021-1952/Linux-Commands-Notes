@@ -95,8 +95,8 @@ credentials or allow tampering
 ` linpeas.sh `
 > Automated enumeration script that highlights common privilege escalation vectors.
 
-
-
+` pspy64 `
+Monitors running processes without root privileges, useful for detecting cron jobs and background tasks.
 
 
 

@@ -3,7 +3,6 @@
 
 
 ## 1. System & User Enumeration
-
 ` id `
 > Shows your current user ID (UID), group ID (GID), and group memberships. This helps you understand what privileges you already have.
 
@@ -21,7 +20,6 @@
 
 
 ## 2. SUID / SGID Binaries
-
 ` find / -perm -4000 -type f 2>/dev/null `
 > Finds files with the SUID bit set. These binaries run with the file owner’s privileges (often root)
 and are prime escalation targets.
@@ -33,7 +31,6 @@ and are prime escalation targets.
 > Extracts readable strings from a binary. This can reveal hardcoded paths, commands, or insecure function calls
 
 ## 3. Writable Files & Directories
-
 ` find / -writable -type d 2>/dev/null `
 > Lists directories you can write to. Writable directories owned or used by root may allow script or
 file injection.
@@ -47,7 +44,6 @@ escalation.
 credentials or allow tampering
 
 ## 4. Cron Jobs & Scheduled Tasks
-
 ` crontab -l `
 > Displays cron jobs scheduled for the current user.
 
@@ -58,7 +54,6 @@ credentials or allow tampering
 > Lists cron directories to identify scheduled tasks and potential permission issues.
 
 ## 5. Environment Variables
-
 ` env `
 > Displays all environment variables. Sensitive values or insecure variables may expose escalation paths.
 

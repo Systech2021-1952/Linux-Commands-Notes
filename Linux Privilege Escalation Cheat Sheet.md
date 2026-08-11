@@ -75,6 +75,7 @@ credentials or allow tampering
 ` grep -R "password" / 2>/dev/null `
 > Recursively searches the filesystem for plaintext passwords stored in scripts or configuration
 files.
+
 ` history `
 > Displays command history. Often reveals passwords, tokens, or administrative actions entered
 previously.

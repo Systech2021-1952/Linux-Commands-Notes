@@ -92,7 +92,8 @@ credentials or allow tampering
 > Mounts the host filesystem inside a container and spawns a root shell, allowing full host compromise.
 
 ## 10. Automated Enumeration Tools
-
+` linpeas.sh `
+> Automated enumeration script that highlights common privilege escalation vectors.
 
 
 

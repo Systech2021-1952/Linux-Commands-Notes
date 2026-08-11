@@ -76,7 +76,7 @@ files.
 previously.
 
 ## 7. Kernel Exploits
-` uname `
+` uname -r `
 
 
 

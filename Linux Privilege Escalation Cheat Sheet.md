@@ -91,7 +91,7 @@ credentials or allow tampering
 ` docker run -v /:/mnt --rm -it alpine chroot /mnt sh `
 > Mounts the host filesystem inside a container and spawns a root shell, allowing full host compromise.
 
-
+## 10. Automated Enumeration Tools
 
 
 

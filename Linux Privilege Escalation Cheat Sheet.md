@@ -82,7 +82,7 @@ credentials or allow tampering
 
 ## 8. Linux Capabilities
 ` getcap -r / 2>/dev/null `
-
+Lists Linux capabilities assigned to binaries. Certain capabilities (e.g., cap_setuid ) can lead to root access without SUID.
 
 
 

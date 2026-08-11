@@ -80,8 +80,8 @@ credentials or allow tampering
 ` searchsploit linux kernel ` 
 > Searches Exploit-DB for kernel exploits related to the detected kernel version.
 
-
-
+## 8. Linux Capabilities
+` getcap -r / 2>/dev/null `
 
 
 

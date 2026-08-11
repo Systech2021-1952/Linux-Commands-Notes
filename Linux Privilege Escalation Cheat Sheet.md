@@ -77,8 +77,8 @@ credentials or allow tampering
 ` uname -r `
 > Displays the kernel version. This is used to match the system against known kernel vulnerabilities.
 
-| searchsploit linux kernel |
-
+` searchsploit linux kernel ` 
+Searches Exploit-DB for kernel exploits related to the detected kernel version.
 
 
 

@@ -69,6 +69,31 @@ credentials or allow tampering
 > If allowed through sudo, this variable can force programs to load malicious shared libraries as root.
 
 ## 6. Credentials & Sensitive Data
+` cat /etc/passwd `
+> Lists system users and shells. Useful for identifying interesting or misconfigured accounts.
+
+` grep -R "password" / 2>/dev/null `
+> Recursively searches the filesystem for plaintext passwords stored in scripts or configuration
+files.
+` history `
+> Displays command history. Often reveals passwords, tokens, or administrative actions entered
+previously.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -78,7 +78,7 @@ credentials or allow tampering
 > Displays the kernel version. This is used to match the system against known kernel vulnerabilities.
 
 ` searchsploit linux kernel ` 
-Searches Exploit-DB for kernel exploits related to the detected kernel version.
+> Searches Exploit-DB for kernel exploits related to the detected kernel version.
 
 
 

@@ -2,3 +2,5 @@
 
 
 ### 1. Present working directory:
+ubuntu@dheen:~$ pwd
+==> /home/ubuntu

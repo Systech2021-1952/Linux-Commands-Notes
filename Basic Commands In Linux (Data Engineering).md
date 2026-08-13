@@ -2,6 +2,6 @@
 
 
 ### 1. Present working directory:
-ubuntu@dheen:~$ pwd
+ubuntu@root:~$ pwd
 
 &rarr; /home/ubuntu

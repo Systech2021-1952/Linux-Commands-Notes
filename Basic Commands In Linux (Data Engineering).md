@@ -3,5 +3,4 @@
 
 ### 1. Present working directory:
 ubuntu@dheen:~$ pwd
-
-:arrow_right: /home/ubuntu
+&rarr; /home/ubuntu

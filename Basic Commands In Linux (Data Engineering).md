@@ -14,3 +14,4 @@ ubuntu@root:~$ uname -а
 
 
 ## 3. Username:
+` whoami `

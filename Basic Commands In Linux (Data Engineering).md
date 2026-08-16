@@ -11,3 +11,6 @@ ubuntu@root:~$ pwd
 ubuntu@root:~$ uname -а
 
 &rarr; version will appear
+
+
+## 3. Username:

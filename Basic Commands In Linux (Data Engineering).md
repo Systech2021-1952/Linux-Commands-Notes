@@ -7,7 +7,7 @@ ubuntu@root:~$ pwd
 &rarr; /home/ubuntu
 
 
-## Version:
+## 2. Version:
 ubuntu@root:~$ uname -а
 
 &rarr; version will appear

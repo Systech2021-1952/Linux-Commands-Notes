@@ -9,4 +9,5 @@ ubuntu@root:~$ pwd
 
 ## Version:
 ubuntu@root:~$ uname -а
+
 &rarr; version will appear

@@ -16,3 +16,5 @@ ubuntu@root:~$ uname -а
 ## 3. Username:
 ubuntu@dheen:~$ whoami 
 > ubuntu
+
+## 4. Clearing the screen:

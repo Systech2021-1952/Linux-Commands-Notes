@@ -18,3 +18,5 @@ ubuntu@root:~$ clear          (ctrl + l)
 > Terminal will be cleared.
 
 ## 5. Viewing command history:
+ubuntu@root:~$ history
+> Total history can be viewed.

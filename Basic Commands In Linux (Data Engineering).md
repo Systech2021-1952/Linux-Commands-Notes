@@ -5,11 +5,9 @@
 ubuntu@root:~$ pwd
 > /home/ubuntu
 
-
 ## 2. Version:
 ubuntu@root:~$ uname -а
 > version will appear
-
 
 ## 3. Username:
 ubuntu@root:~$ whoami 

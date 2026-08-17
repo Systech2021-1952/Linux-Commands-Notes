@@ -18,3 +18,4 @@ ubuntu@dheen:~$ whoami
 > ubuntu
 
 ## 4. Clearing the screen:
+ubuntu@dheen:~$ clear

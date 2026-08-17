@@ -14,9 +14,9 @@ ubuntu@root:~$ uname -а
 
 
 ## 3. Username:
-ubuntu@dheen:~$ whoami 
+ubuntu@root:~$ whoami 
 > ubuntu
 
 ## 4. Clearing the screen:
-ubuntu@dheen:~$ clear          (ctrl + l)
+ubuntu@root:~$ clear          (ctrl + l)
 > Terminal will be cleared.

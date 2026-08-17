@@ -19,3 +19,4 @@ ubuntu@dheen:~$ whoami
 
 ## 4. Clearing the screen:
 ubuntu@dheen:~$ clear
+&rarr; Terminal will be cleared.

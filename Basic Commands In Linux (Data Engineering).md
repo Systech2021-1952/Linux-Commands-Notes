@@ -16,3 +16,5 @@ ubuntu@root:~$ whoami
 ## 4. Clearing the screen:
 ubuntu@root:~$ clear          (ctrl + l)
 > Terminal will be cleared.
+
+## 5. Viewing command history:

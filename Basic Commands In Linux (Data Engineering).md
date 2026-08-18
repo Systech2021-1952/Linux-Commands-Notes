@@ -23,6 +23,18 @@ ubuntu@root:~$ history
 
 ## Creating Directory and Files in Linux
 
+### 1. Make directory:
+ubuntu@dheen:~$ mkdir data
+> Data file will be created.
+
+
+
+
+
+
+
+
+
 
 
 

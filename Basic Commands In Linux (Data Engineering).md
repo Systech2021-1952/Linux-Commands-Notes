@@ -43,3 +43,5 @@ ubuntu@dheen:~/data$ vi hello
 - Without saving a file ` :b → quit `
 
 ### 4. List of files:
+ubuntu@dheen:~/data$ 1s
+> hello.txt.

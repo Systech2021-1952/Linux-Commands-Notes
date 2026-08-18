@@ -31,9 +31,9 @@ ubuntu@dheen:~$ mkdir data
 ubuntu@dheen:~$ cd data/
 > We will be enter into 'data' file.
 
-
-
-
+### 3. Creating a text file:
+ubuntu@dheen:~/data$ vi hello
+> "hello" text file will be created.
 
 
 

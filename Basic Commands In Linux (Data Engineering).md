@@ -39,7 +39,7 @@ ubuntu@dheen:~/data$ vi hello
 - In the editor, you have to give "¡" for inserting a text.
 - Enter some text.
 - Give Escape button.
-- For saving a file → bw: → save
-                    → :b → quit
--
+- For saving a file → wq : → save
+- Without saving a file → :b → quit
+
 

@@ -27,9 +27,9 @@ ubuntu@root:~$ history
 ubuntu@dheen:~$ mkdir data
 > Data file will be created.
 
-
-
-
+### 2. Entering into a directory:
+ubuntu@dheen:~$ cd data/
+> We will be enter into 'data' file.
 
 
 

@@ -46,7 +46,6 @@ ubuntu@root:~/data$ vi hello
 ubuntu@root:~/data$ 1s
 > hello.txt.
 
-### 5. 
-Quit file without saving:
+### 5. Quit file without saving:
 - In the editor → give Escape.
 ` :q! `

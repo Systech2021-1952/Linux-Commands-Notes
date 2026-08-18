@@ -35,9 +35,11 @@ ubuntu@dheen:~$ cd data/
 ubuntu@dheen:~/data$ vi hello
 > "hello" text file will be created.
 
-
-
-
-
-
+### Text file creation
+- In the editor, you have to give "¡" for inserting a text.
+- Enter some text.
+- Give Escape button.
+- For saving a file → bw: → save
+                    → :b → quit
+-
 

@@ -48,4 +48,5 @@ ubuntu@root:~/data$ 1s
 
 ### 5. Quit file without saving:
 - In the editor → give Escape.
+  
 ` :q! `

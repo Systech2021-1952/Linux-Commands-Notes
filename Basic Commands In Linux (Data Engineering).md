@@ -24,15 +24,15 @@ ubuntu@root:~$ history
 ## Creating Directory and Files in Linux
 
 ### 1. Make directory:
-ubuntu@dheen:~$ mkdir data
+ubuntu@root:~$ mkdir data
 > Data file will be created.
 
 ### 2. Entering into a directory:
-ubuntu@dheen:~$ cd data/
+ubuntu@root:~$ cd data/
 > We will be enter into 'data' file.
 
 ### 3. Creating a text file:
-ubuntu@dheen:~/data$ vi hello
+ubuntu@root:~/data$ vi hello
 > "hello" text file will be created.
 
 ### Text file creation
@@ -43,5 +43,7 @@ ubuntu@dheen:~/data$ vi hello
 - Without saving a file ` :b → quit `
 
 ### 4. List of files:
-ubuntu@dheen:~/data$ 1s
+ubuntu@root:~/data$ 1s
 > hello.txt.
+
+### 5. 

@@ -72,5 +72,5 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 - If we give ⇒ vi hello
   
-      output ⇒ hello.txt hello1 hello.py
+  output ⇒ hello.txt hello1 hello.py
 

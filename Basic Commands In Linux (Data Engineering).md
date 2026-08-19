@@ -35,7 +35,7 @@ ubuntu@root:~$ cd data/
 ubuntu@root:~/data$ vi hello
 > "hello" text file will be created.
 
-### Text file creation
+- ### Text file creation
 - In the editor, you have to give "¡" for inserting a text.
 - Enter some text.
 - Give Escape button.
@@ -51,7 +51,7 @@ ubuntu@root:~/data$ 1s
   
 ` :q! `
 
-### Installing a package: (Linux)
+- ### Installing a package: (Linux)
 ubuntu@root:~/data$ sudo apt-get install vim
 
 `sudo` root user
@@ -60,6 +60,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ` vim ` upgrading vi editor
 
+- ### Auto-completing a command:
 
 
 

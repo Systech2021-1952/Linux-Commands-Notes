@@ -51,7 +51,7 @@ ubuntu@root:~/data$ 1s
   
 ` :q! `
 
-- ### Installing a package: (Linux)
+ ### Installing a package: (Linux)
 ubuntu@root:~/data$ sudo apt-get install vim
 
 `sudo` root user
@@ -60,9 +60,11 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ` vim ` upgrading vi editor
 
-- ### Auto-completing a command:
+### Auto-completing a command:
 
+- Press Tab for auto-complete a file.
 
+(If we create two or more files).
 
 
 

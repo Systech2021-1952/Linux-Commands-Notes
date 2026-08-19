@@ -67,7 +67,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 (If we create two or more files).
 
 
-### In data directory:
+## In data directory:
 ` hello.txt   hello1   hello.py `
 
 - If we give ⇒ vi hello

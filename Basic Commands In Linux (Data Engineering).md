@@ -53,6 +53,9 @@ ubuntu@root:~/data$ 1s
 
 ### Installing a package: (Linux)
 ubuntu@root:~/data$ sudo apt-get install vim
+sudo ⇒ root user
+apt-get ⇒ getting any application
+vim ⇒ upgrading vi editor
 
 
 

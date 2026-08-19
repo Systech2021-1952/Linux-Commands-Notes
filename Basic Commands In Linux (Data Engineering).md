@@ -68,7 +68,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 
 ### In data directory:
-` hello.txt hello1 hello.py `
+` hello.txt   hello1   hello.py `
 
 
 

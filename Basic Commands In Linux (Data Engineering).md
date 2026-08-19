@@ -81,3 +81,6 @@ ubuntu@root:~/data$ sudo apt-get install vim
 - If we give ⇒ VP hello
  
   output ⇒ hello.txt hello.py
+
+
+## 6. Nano Text Editor:

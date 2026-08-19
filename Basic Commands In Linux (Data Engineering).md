@@ -74,3 +74,10 @@ ubuntu@root:~/data$ sudo apt-get install vim
   
   output ⇒ hello.txt hello1 hello.py
 
+- If we give ⇒ viP hello
+
+  output ⇒ hello.txt hello.py
+
+- If we give ⇒ VP hello
+ 
+  output ⇒ hello.txt hello.py

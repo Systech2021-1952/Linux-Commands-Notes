@@ -50,3 +50,16 @@ ubuntu@root:~/data$ 1s
 - In the editor → give Escape.
   
 ` :q! `
+
+### Installing a package: (Linux)
+
+
+
+
+
+
+
+
+
+
+

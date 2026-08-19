@@ -51,7 +51,7 @@ ubuntu@root:~/data$ 1s
   
 ` :q! `
 
- ### Installing a package: (Linux)
+ ## Installing a package: (Linux)
 ubuntu@root:~/data$ sudo apt-get install vim
 
 `sudo` root user

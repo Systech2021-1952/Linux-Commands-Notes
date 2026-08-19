@@ -69,6 +69,8 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ### In data directory:
 ` hello.txt   hello1   hello.py `
+
 - If we give ⇒ vi hello
+  
       output ⇒ hello.txt hello1 hello.py
 

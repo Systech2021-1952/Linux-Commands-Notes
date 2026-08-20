@@ -128,3 +128,4 @@ ubuntu@dheen:~/data$ touch foo.txt
 ```
 ⇒ Total files be deleted.
 
+# Viewing and Copying a File

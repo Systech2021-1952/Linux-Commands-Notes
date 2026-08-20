@@ -103,11 +103,19 @@ ubuntu@dheen:~/data$ touch foo.txt
 
 ⇒ Htest.py hello.txt hello1 foo.txt test.txt
 
+## 8. File manipulation:
 
+- remove (deleting) a file:
+```
+1. ubuntu@dheen:~/data$ rm foo.txt
+```
+(After Is)
+⇒ Htest.pу hello.txt hello1 test.txt
 
-
-
-
+```
+2. ubuntu@dheen:~/data$ 1s *.txt
+```
+⇒ hello.txt test.txt
 
 
 

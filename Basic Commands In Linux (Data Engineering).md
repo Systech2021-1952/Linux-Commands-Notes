@@ -88,3 +88,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 ` ubuntu@dheen:~/data$ nano test.txt `
 
 ` ubuntu@dheen:~/data$ 1s `
+
+⇒ Htest.py hello.txt hello1 hello.ho test.txt
+
+> Nano editor is simple, easy to use.

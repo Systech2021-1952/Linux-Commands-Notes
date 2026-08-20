@@ -92,3 +92,23 @@ ubuntu@dheen:~/data$ 1s
 ⇒ Htest.py hello.txt hello1 hello.ho test.txt
 
 > Nano editor is simple, easy to use.
+
+##  7. Creating a dummy file:
+
+```
+ubuntu@dheen:~/data$ touch foo.txt
+```
+(After Is)
+n
+Htest.py hello.txt hello1 foo.txt test.txt
+
+
+
+
+
+
+
+
+
+
+

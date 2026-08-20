@@ -119,8 +119,12 @@ ubuntu@dheen:~/data$ touch foo.txt
 2. ubuntu@dheen:~/data$ 1s *.txt
 ```
 ⇒ hello.txt test.txt
-
-
-
-
+```
+ubuntu@dheen:~/data$ ls he*
+```
+hello.txt hello1
+```
+ubuntu@dheen:~/data$ rm *
+```
+Total files be deleted.
 

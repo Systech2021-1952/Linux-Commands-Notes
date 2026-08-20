@@ -99,8 +99,8 @@ ubuntu@dheen:~/data$ 1s
 ubuntu@dheen:~/data$ touch foo.txt
 ```
 (After Is)
-n
-Htest.py hello.txt hello1 foo.txt test.txt
+
+⇒ Htest.py hello.txt hello1 foo.txt test.txt
 
 
 

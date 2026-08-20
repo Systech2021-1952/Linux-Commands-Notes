@@ -109,7 +109,9 @@ ubuntu@dheen:~/data$ touch foo.txt
 ```
 1. ubuntu@dheen:~/data$ rm foo.txt
 ```
+
 (After Is)
+
 ⇒ Htest.pу hello.txt hello1 test.txt
 
 ```

@@ -85,10 +85,10 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ## 6. Nano Text Editor:
 ```
-ubuntu@dheen:~/data$ nano test.txt
+ubuntu@root:~/data$ nano test.txt
 ```
 ```
-ubuntu@dheen:~/data$ 1s 
+ubuntu@root:~/data$ 1s 
 ```
 ⇒ Htest.py hello.txt hello1 hello.ho test.txt
 
@@ -97,7 +97,7 @@ ubuntu@dheen:~/data$ 1s
 ##  7. Creating a dummy file:
 
 ```
-ubuntu@dheen:~/data$ touch foo.txt
+ubuntu@root:~/data$ touch foo.txt
 ```
 (After Is)
 
@@ -108,7 +108,7 @@ ubuntu@dheen:~/data$ touch foo.txt
 - ### remove (deleting) a file:
 
 ```
-1. ubuntu@dheen:~/data$ rm foo.txt
+1. ubuntu@root:~/data$ rm foo.txt
 ```
 
 (After Is)
@@ -116,15 +116,15 @@ ubuntu@dheen:~/data$ touch foo.txt
 ⇒ Htest.pу hello.txt hello1 test.txt
 
 ```
-2. ubuntu@dheen:~/data$ 1s *.txt
+2. ubuntu@root:~/data$ 1s *.txt
 ```
 ⇒ hello.txt test.txt
 ```
-3. ubuntu@dheen:~/data$ ls he*
+3. ubuntu@root:~/data$ ls he*
 ```
 ⇒ hello.txt hello1
 ```
-4. ubuntu@dheen:~/data$ rm *
+4. ubuntu@root:~/data$ rm *
 ```
 ⇒ Total files be deleted.
 

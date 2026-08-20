@@ -105,7 +105,7 @@ ubuntu@dheen:~/data$ touch foo.txt
 
 ## 8. File manipulation:
 
-- remove (deleting) a file:
+### - remove (deleting) a file:
 ```
 1. ubuntu@dheen:~/data$ rm foo.txt
 ```

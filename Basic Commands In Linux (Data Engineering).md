@@ -129,3 +129,21 @@ ubuntu@root:~/data$ touch foo.txt
 ⇒ Total files be deleted.
 
 # Viewing and Copying a File
+```
+ubuntu@dheen:~/data$ vi hello.txt
+```
+(hello.txt will some text is created).
+
+
+
+
+
+
+
+
+
+
+
+
+
+

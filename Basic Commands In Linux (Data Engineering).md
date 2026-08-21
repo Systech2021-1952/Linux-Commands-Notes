@@ -138,11 +138,10 @@ ubuntu@dheen:~/data$ vi hello.txt
 
 ⇒ This is a file that is created.
 
-
-
-
-
-
+### 2. Copying a file: (X)
+` ~/data$ cp hello.txt new-hello.txt ` // cp
+` ~/data$ 1s `
+⇒ hello.txt      new-hello.txt
 
 
 

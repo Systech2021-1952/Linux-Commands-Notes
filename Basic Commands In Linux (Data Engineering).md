@@ -148,8 +148,10 @@ ubuntu@dheen:~/data$ vi hello.txt
 ` ~/data$ mv hello.txt demo.txt ` // mv
 
 ` ~/data$ 1s `
+
 ⇒ demo.txt    new-hello.txt
-~/data$ cat demo.txt
+
+` ~/data$ cat demo.txt `
 
 ⇒ This is a file that is created.
 

@@ -150,6 +150,7 @@ ubuntu@dheen:~/data$ vi hello.txt
 ` ~/data$ 1s `
 ⇒ demo.txt    new-hello.txt
 ~/data$ cat demo.txt
+
 ⇒ This is a file that is created.
 
 

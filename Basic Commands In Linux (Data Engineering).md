@@ -171,9 +171,23 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
 ### 5. Printing texts in prompt:
 1. `~/data$ echo "dheen" ` // echo
+
 ⇒ dheen
 
 2. ` ~/data$ echo "dheen" >> nfile.txt ` // store in file
+
 (The text will be stored in file).
+
+3. ` ~/data$ echo "mohamed" >> nfile.txt `  // append in file
+
+` ~/data$ cat nfile.txt `
+⇒ This is a file that is created
+dheen
+mohamed
+
+
+
+
+
 
 

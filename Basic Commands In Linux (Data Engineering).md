@@ -134,7 +134,7 @@ ubuntu@dheen:~/data$ vi hello.txt
 ```
 (hello.txt will some text is created).
 ### 1. Displaying content in command prompt:
-```` ubuntu@dheen:~/data$ cat hello.txt ``` 
+``` ubuntu@dheen:~/data$ cat hello.txt ```
 
 
 

@@ -180,13 +180,13 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
 3. ` ~/data$ echo "mohamed" >> nfile.txt `  // append in file
 
-` ~/data$ cat nfile.txt `
+   ` ~/data$ cat nfile.txt `
 
-⇒ This is a file that is created
+  ⇒ This is a file that is created
 
-dheen
+    dheen
 
-mohamed
+    mohamed
 
 
 

@@ -162,6 +162,7 @@ ubuntu@dheen:~/data$ vi hello.txt
 `
 ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 `
+
 (After ls)
 
 ⇒ demo.txt    new-hello.txt    nfile.txt

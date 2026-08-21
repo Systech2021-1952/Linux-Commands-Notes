@@ -169,8 +169,8 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
 (Copies the text from one file to another).
 
-
-
+### 5. Printing texts in prompt:
+1. `~/data$ echo "dheen" `
 
 
 

@@ -144,7 +144,8 @@ ubuntu@dheen:~/data$ vi hello.txt
 ` ~/data$ 1s `
 ⇒ hello.txt      new-hello.txt
 
-
-
-
+### 3. Renaming a file:
+` ~/data$ mv hello.txt demo.txt ` // mv
+` ~/data$ 1s `
+⇒ demo.txt    new-hello.txt
 

@@ -184,9 +184,9 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
   ⇒ This is a file that is created
 
-    dheen
+  dheen
 
-    mohamed
+  mohamed
 
 
 

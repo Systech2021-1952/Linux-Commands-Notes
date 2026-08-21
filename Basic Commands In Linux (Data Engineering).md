@@ -156,7 +156,9 @@ ubuntu@dheen:~/data$ vi hello.txt
 ⇒ This is a file that is created.
 
 ### 4. Copying a file with 'cat' command:
+
 ` Append symbol (>>): `
+
 `
 ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 `

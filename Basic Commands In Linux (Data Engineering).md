@@ -195,6 +195,8 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 ⇒ untitled.pnb data print_time.py
 
    airflow data.log retal.txt
+   
+-----
 
 ### Shortcut for "home/ubuntu":
 ` ubuntu@dheen:~$ cd data/ `

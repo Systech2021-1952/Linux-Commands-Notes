@@ -205,7 +205,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
   
 :~/data $ cd.         N→ Home directory
 
-:~$ vi data.log  →cd~ 
+:~$ vi data.log  →cd ~ 
 
 
 

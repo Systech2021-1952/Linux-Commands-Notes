@@ -210,9 +210,13 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 Give "This is a log file" and save it.
 
 ⇒:~$ cd data/
+
 :~/data $ cd..
+
 :~$ cd data
+
 (home/ubuntu/data. log)
+
 "This is a log file"
 
 

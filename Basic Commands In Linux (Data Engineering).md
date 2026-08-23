@@ -219,4 +219,7 @@ Give "This is a log file" and save it.
 
 "This is a log file"
 
-
+`
+* →:~/data~ /data.log  (/~)
+"This is a log file".
+`

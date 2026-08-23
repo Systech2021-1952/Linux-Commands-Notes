@@ -198,6 +198,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
 ### Shortcut for "home/ubuntu":
 ` ubuntu@dheen:~$ cd data/ `
+
 ` ubuntu@dheen:~/data$ data.log `
 
 - No such file directory

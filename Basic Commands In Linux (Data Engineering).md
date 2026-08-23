@@ -193,6 +193,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 ` ubuntu@dheen:~$ 1s `
 
 ⇒ untitled.pnb data print_time.py
+
    airflow data.log retal.txt
 
 

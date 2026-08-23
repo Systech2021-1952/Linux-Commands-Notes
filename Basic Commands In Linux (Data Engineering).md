@@ -196,5 +196,14 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
    airflow data.log retal.txt
 
+### Shortcut for "home/ubuntu":
+` ubuntu@dheen:~$ cd data/ `
+` ubuntu@dheen:~/data$ data.log `
+
+- No such file directory
+:~/data $ cd.         N→ Home directory
+:~$ vi data.log       →cd~ 
+
+
 
 

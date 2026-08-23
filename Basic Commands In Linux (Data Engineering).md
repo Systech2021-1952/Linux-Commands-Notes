@@ -189,8 +189,10 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
   mohamed
 
 # File Navigation System 
-
-
+### 1. ls and cd commands:
+` ubuntu@dheen:~$ 1s `
+⇒ untitled.pnb    data      print_time.py
+airflow         data.log  retal.txt
 
 
 

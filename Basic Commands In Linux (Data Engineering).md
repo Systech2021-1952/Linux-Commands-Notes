@@ -223,3 +223,5 @@ Give "This is a log file" and save it.
 * → :~/data~ /data.log  (/~)
 "This is a log file".
 ```
+
+### 2. Creating nested Directory:

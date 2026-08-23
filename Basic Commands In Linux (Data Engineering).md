@@ -191,8 +191,8 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 # File Navigation System 
 ### 1. ls and cd commands:
 ` ubuntu@dheen:~$ 1s `
-⇒ untitled.pnb    data      print_time.py
-airflow         data.log  retal.txt
+⇒ untitled.pnb data print_time.py
+   airflow data.log retal.txt
 
 
 

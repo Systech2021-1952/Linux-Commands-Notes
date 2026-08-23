@@ -196,7 +196,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
    airflow data.log retal.txt
    
------
+---
 
 ### Shortcut for "home/ubuntu":
 ` ubuntu@dheen:~$ cd data/ `

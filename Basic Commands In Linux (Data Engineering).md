@@ -204,6 +204,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 - No such file directory
   
 :~/data $ cd.         N→ Home directory
+
 :~$ vi data.log       →cd~ 
 
 

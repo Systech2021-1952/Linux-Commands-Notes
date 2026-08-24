@@ -227,3 +227,24 @@ Give "This is a log file" and save it.
 ```
 
 ### 2. Creating nested Directory:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

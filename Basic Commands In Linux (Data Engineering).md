@@ -170,9 +170,9 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 (Copies the text from one file to another).
 
 ### 5. Printing texts in prompt:
-1. `~/data$ echo "dheen" ` // echo
+1. `~/data$ echo "root" ` // echo
 
-⇒ dheen
+⇒ root
 
 2. ` ~/data$ echo "dheen" >> nfile.txt ` // store in file
 

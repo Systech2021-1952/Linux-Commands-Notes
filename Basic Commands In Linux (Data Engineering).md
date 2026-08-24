@@ -130,11 +130,11 @@ ubuntu@root:~/data$ touch foo.txt
 
 # Viewing and Copying a File
 ```
-ubuntu@dheen:~/data$ vi hello.txt
+ubuntu@root:~/data$ vi hello.txt
 ```
 (hello.txt will some text is created).
 ### 1. Displaying content in command prompt:
-` ubuntu@dheen:~/data$ cat hello.txt ` // cat
+` ubuntu@root:~/data$ cat hello.txt ` // cat
 
 ⇒ This is a file that is created.
 
@@ -160,7 +160,7 @@ ubuntu@dheen:~/data$ vi hello.txt
 ` Append symbol (>>): `
 
 `
-ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
+ubuntu@root:~/data$ cat demo.txt >> nfile.txt
 `
 
 (After ls)
@@ -190,7 +190,7 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 
 # File Navigation System 
 ### 1. ls and cd commands:
-` ubuntu@dheen:~$ 1s `
+` ubuntu@root:~$ 1s `
 
 ⇒ untitled.pnb data print_time.py
 
@@ -199,9 +199,9 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 ---
 
 ### Shortcut for "home/ubuntu":
-` ubuntu@dheen:~$ cd data/ `
+` ubuntu@root:~$ cd data/ `
 
-` ubuntu@dheen:~/data$ data.log `
+` ubuntu@root:~/data$ data.log `
 
 - No such file directory
   

@@ -239,6 +239,7 @@ Give "This is a log file" and save it.
 
 ~$ cd abc/
 ~$1s
+
 ⇒ test
 
 

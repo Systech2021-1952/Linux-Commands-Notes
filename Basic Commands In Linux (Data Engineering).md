@@ -228,14 +228,18 @@ Give "This is a log file" and save it.
 
 ### 2. Creating nested Directory:
 
+- If we want to create directory (or) file in the file that doesn't exist (or) created
+- we have to create it one by one into a file.
+- Instead we use "-p".
 
+` ubuntu@dheen:~$ pwd `   /* //-p
+/home/ubuntu
 
+` ubuntu@dheen:~$ mkdir -p abc/test/demo `
 
-
-
-
-
-
+~$ cd abc/
+~$1s
+⇒ test
 
 
 

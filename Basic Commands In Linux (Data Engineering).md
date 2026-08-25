@@ -245,6 +245,7 @@ Give "This is a log file" and save it.
 ### 3. Going Back from a directory:
 
 ` ubuntu@dheen:~$ cd abc/test/demo `
+
 ` ubuntu@dheen:~$ pwd `
 
 /home/ubuntu/abc/test/demo

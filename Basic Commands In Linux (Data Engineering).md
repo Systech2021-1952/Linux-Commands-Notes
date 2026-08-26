@@ -244,13 +244,13 @@ Give "This is a log file" and save it.
 
 ### 3. Going Back from a directory:
 
-` ubuntu@dheen:~$ cd abc/test/demo `
+` ubuntu@root:~$ cd abc/test/demo `
 
-` ubuntu@dheen:~$ pwd `
+` ubuntu@root:~$ pwd `
 
 /home/ubuntu/abc/test/demo
 
-ubuntu@dheen:~$ cd ..   (home/ubuntu/abc/test)
+ubuntu@root:~$ cd ..   (home/ubuntu/abc/test)
 
 ubuntu@root:~$ cd../..   (home/ubuntu)
 

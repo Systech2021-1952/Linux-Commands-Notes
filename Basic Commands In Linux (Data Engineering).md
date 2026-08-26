@@ -252,7 +252,7 @@ Give "This is a log file" and save it.
 
 ubuntu@dheen:~$ cd ..   (home/ubuntu/abc/test)
 
-ubuntu@dheen:~$ cd../..   (home/ubuntu)
+ubuntu@root:~$ cd../..   (home/ubuntu)
 
 ubuntu@root:~$ cd -      (will go to previous cd command)
 

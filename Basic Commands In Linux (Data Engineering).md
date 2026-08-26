@@ -254,8 +254,18 @@ ubuntu@dheen:~$ cd ..   (home/ubuntu/abc/test)
 
 ubuntu@dheen:~$ cd../..   (home/ubuntu)
 
-ubuntu@dheen:~$ cd -      (will go to previous cd command)
+ubuntu@root:~$ cd -      (will go to previous cd command)
 
 /home/ubuntu/abc/test
+
+
+
+
+
+
+
+
+
+
 
 

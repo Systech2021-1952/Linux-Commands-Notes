@@ -232,10 +232,10 @@ Give "This is a log file" and save it.
 - we have to create it one by one into a file.
 - Instead we use "-p".
 
-` ubuntu@dheen:~$ pwd `   /* //-p
+` ubuntu@root:~$ pwd `   /* //-p
 /home/ubuntu
 
-` ubuntu@dheen:~$ mkdir -p abc/test/demo `
+` ubuntu@root:~$ mkdir -p abc/test/demo `
 
 ~$ cd abc/
 ~$1s

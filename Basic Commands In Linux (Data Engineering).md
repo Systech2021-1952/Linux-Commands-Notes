@@ -258,9 +258,10 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
 
 /home/ubuntu/abc/test
 
+### 5. Printing texts in prompt:
 
-
-
+1. data$ echo "dheen" // echo
+⇒ dheen
 
 
 

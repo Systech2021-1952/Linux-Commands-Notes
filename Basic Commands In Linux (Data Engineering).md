@@ -273,5 +273,7 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
 ~/data$ cat nfile.txt
 
 ⇒ This is a file that is created
+
 dheen
+
 mohamed

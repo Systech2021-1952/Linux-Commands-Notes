@@ -277,3 +277,5 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
 dheen
 
 mohamed
+
+# List Functionalities: (ls)

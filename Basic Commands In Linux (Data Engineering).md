@@ -268,6 +268,10 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
 
 (The text will be stored in file).
 
+3. /data$ echo "mohamed" >> nfile.txt // append in file
 
+~/data$ cat nfile.txt
 
-
+⇒ This is a file that is created
+dheen
+mohamed

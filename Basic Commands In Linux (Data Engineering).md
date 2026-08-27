@@ -264,9 +264,9 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
    
 ⇒ dheen
 
+2. ~/ data$ echo "dheen" >> nfile.txt // store in file
 
-
-
+(The text will be stored in file).
 
 
 

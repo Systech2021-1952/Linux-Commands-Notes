@@ -333,6 +333,8 @@ Note:
 | data.log | Log file (visible file) |
 | hadoop2-din | Directory (visible) |
 
+-----
+
 ### 4. .bashrc file usage
 
 

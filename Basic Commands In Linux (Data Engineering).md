@@ -281,7 +281,7 @@ groot
 # List Functionalities: (ls)
 
 ### 1. Basic ls command:
-` ubuntu@dheen:~$ ls `
+` ubuntu@root:~$ ls `
 
 ```
 abc data.log print_time.py

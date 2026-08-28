@@ -324,7 +324,14 @@ Note:
 - Without-a, hidden files are not shown.
 ```
 
-
+| Hidden files | Description |
+|-----|-----|
+| .bash_history | Bash command history |
+| .profile | User profile settings |
+| print_time.py | Python file (visible file) |
+| .bashrc | Bash configuration file |
+| data.log | Log file (visible file) |
+| hadoop2-din | Directory (visible) |
 
 
 

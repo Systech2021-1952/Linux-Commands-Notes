@@ -312,15 +312,17 @@ Output => total 885076
 
 (shows the hidden files)
 
-.   bash-history .profile   
+.  bash-history .profile   
 
 .. bashrc   data.log   print_time. py  hadoop2-din
 
 abc data
 
-
-
-
+```
+Note:
+- -a option shows hidden files (files starting with dot ".")
+- Without-a, hidden files are not shown.
+```
 
 
 

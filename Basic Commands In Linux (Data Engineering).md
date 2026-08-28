@@ -188,6 +188,7 @@ ubuntu@root:~/data$ cat demo.txt >> nfile.txt
 
   mohamed
 
+-----
 # File Navigation System 
 ### 1. ls and cd commands:
 ` ubuntu@root:~$ 1s `

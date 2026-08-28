@@ -283,10 +283,10 @@ groot
 ### 1. Basic ls command:
 ` ubuntu@dheen:~$ ls `
 
-`
+```
 abc data.log print_time.py
 airflow data hadoop2-din
-`
+```
 
 
 

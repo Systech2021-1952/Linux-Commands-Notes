@@ -298,7 +298,7 @@ airflow data hadoop2-din
 | -r | reverses the sorting order |
 | -S | sorts by file size (largest first) |
 
-` ubuntu@dheen:~$ ls -lstrS `
+` ubuntu@root:~$ ls -lstrS `
 
 
 

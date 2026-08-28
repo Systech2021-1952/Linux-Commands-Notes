@@ -310,8 +310,6 @@ Output => total 885076
 
 ` ubuntu@dheen:~$ ls -a `
 
-ubuntu@dheen:~$ ls -a
-
 (shows the hidden files)
 
 .   bash-history .profile   

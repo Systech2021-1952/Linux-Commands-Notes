@@ -299,6 +299,7 @@ airflow data hadoop2-din
 | -S | sorts by file size (largest first) |
 
 ` ubuntu@root:~$ ls -lstrS `
+
 Output => total 885076
 
 404908 -rw-r--r-- 1 ubuntu ubuntu 1414 May 31 abc

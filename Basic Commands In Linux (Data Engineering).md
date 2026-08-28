@@ -288,9 +288,15 @@ abc data.log print_time.py
 airflow data hadoop2-din
 ```
 
+### 2. Is options:
 
-
-
+|Option | Description |
+|-----|-----|
+| -1 | long list format |
+| -S | shows file size in blocks |
+| -t | sorts by modification time (newest first) |
+| -r | reverses the sorting order |
+| -S | sorts by file size (largest first) |
 
 
 

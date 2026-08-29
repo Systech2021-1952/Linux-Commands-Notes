@@ -363,3 +363,24 @@ airflow   data   hadoop
 ```
 
 2. List options:
+
+| Option | Description |
+|-----|-----|
+| -1 | long list format |
+| -S | shows file size in blocks |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -352,3 +352,13 @@ we will give environment variables in it.
 ` 2. ubuntu@dheen:~$ .bashrc `
 
 ### 5. List manipulations
+
+1. Basic Is command:
+
+` ubuntu@dheen :$ ls `
+```
+abc  data. log print_time.py
+
+airflow data hadoop
+```
+

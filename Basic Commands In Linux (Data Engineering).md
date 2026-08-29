@@ -368,7 +368,9 @@ airflow   data   hadoop
 |-----|-----|
 | -1 | long list format |
 | -S | shows file size in blocks |
-
+| -t | sorts by modification time (newest first) |
+| -r | reverses the sorting order |
+| -S | sorts by file size (largest first) |
 
 
 

@@ -357,8 +357,8 @@ we will give environment variables in it.
 
 ` ubuntu@dheen :$ ls `
 ```
-abc  data. log print_time.py
+abc  data. log   print_time.py
 
-airflow data hadoop
+airflow   data   hadoop
 ```
 

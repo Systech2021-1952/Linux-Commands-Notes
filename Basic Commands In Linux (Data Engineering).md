@@ -347,3 +347,5 @@ we will give environment variables in it.
 
 - Executing .bashrc file:
 
+` 1 ubuntu@dheen:~$ source .bashrc
+ 2 ubuntu@dheen:~$ .bashrc `

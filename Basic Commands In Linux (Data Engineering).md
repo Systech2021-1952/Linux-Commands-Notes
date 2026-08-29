@@ -350,3 +350,5 @@ we will give environment variables in it.
 ` 1. ubuntu@dheen:~$ source .bashrc `
 
 ` 2. ubuntu@dheen:~$ .bashrc `
+
+### 5. List manipulations

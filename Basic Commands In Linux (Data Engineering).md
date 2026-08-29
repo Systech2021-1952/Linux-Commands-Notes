@@ -345,5 +345,5 @@ we will give environment variables in it.
 
 ` ubuntu@dheen:~$ vi .bashrc `
 
-
+- Executing .bashrc file:
 

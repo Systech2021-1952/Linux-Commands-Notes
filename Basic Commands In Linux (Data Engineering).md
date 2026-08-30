@@ -161,13 +161,13 @@ ubuntu@root:~/data$ touch foo.txt
 
  Append symbol (>>): 
  
-` ubuntu@root:~/data$ cat demo.txt >> nfile.txt `
+ ` ubuntu@root:~/data$ cat demo.txt >> nfile.txt `
 
-(After ls)
+ (After ls)
 
-⇒ demo.txt    new-hello.txt    nfile.txt
+ ⇒ demo.txt    new-hello.txt    nfile.txt
 
-(Copies the text from one file to another).
+ (Copies the text from one file to another).
 
 
 ### 5. Printing texts in prompt:

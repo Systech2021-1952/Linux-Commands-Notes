@@ -131,9 +131,9 @@ ubuntu@root:~/data$ touch foo.txt
 -----
 
 # Viewing and Copying a File
-```
-ubuntu@root:~/data$ vi hello.txt
-```
+
+` ubuntu@root:~/data$ vi hello.txt `
+
 (hello.txt will some text is created).
 ### 1. Displaying content in command prompt:
 ` ubuntu@root:~/data$ cat hello.txt ` // cat

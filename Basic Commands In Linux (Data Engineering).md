@@ -21,7 +21,7 @@ ubuntu@root:~$ clear          (ctrl + l)
 ubuntu@root:~$ history
 > Total history can be viewed.
 
-- ## Creating Directory and Files in Linux
+ ## Creating Directory and Files in Linux
 
 ### 1. Make directory:
 ubuntu@root:~$ mkdir data

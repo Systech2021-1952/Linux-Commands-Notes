@@ -127,6 +127,7 @@ ubuntu@root:~/data$ touch foo.txt
 4. ubuntu@root:~/data$ rm *
 ```
 ⇒ Total files be deleted.
+
 -----
 
 # Viewing and Copying a File

@@ -212,7 +212,7 @@ ubuntu@root:~/data$ cat demo.txt >> nfile.txt
 
 :~$ vi data.log      →cd ~ 
 
-Give "This is a log file" and save it.
+Give ⇒  "This is a log file" and save it.
 
 ⇒:~$ cd data/
 

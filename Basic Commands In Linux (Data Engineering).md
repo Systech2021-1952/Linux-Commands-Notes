@@ -261,10 +261,12 @@ ubuntu@root:~$ cd -      (will go to previous cd command)
 
 ### 4. Copying a file with 'cat' command:
 
-Append symbol (>>):
-` ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt`
+Append symbol (>>) :
+` ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt `
+
 (After ls)
 ⇒ demo.txt new-hello.txt nfile.txt
+
 (Copies the text from one file to another).
 
 ### 5. Printing texts in prompt:

@@ -158,10 +158,9 @@ ubuntu@root:~/data$ touch foo.txt
 ⇒ This is a file that is created.
 
 ### 4. Copying a file with 'cat' command:
-
-   Append symbol (>>): 
+Append symbol (>>): 
  
- ` ubuntu@root:~/data$ cat demo.txt >> nfile.txt `
+` ubuntu@root:~/data$ cat demo.txt >> nfile.txt `
 
  (After ls)
 

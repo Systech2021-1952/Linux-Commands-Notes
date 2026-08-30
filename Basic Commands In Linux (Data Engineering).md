@@ -83,7 +83,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
   output ⇒ hello.txt hello.py
 
 
-## 6. Nano Text Editor:
+### 6. Nano Text Editor:
 ```
 ubuntu@root:~/data$ nano test.txt
 ```
@@ -94,7 +94,7 @@ ubuntu@root:~/data$ 1s
 
 > Nano editor is simple, easy to use.
 
-##  7. Creating a dummy file:
+###  7. Creating a dummy file:
 
 ```
 ubuntu@root:~/data$ touch foo.txt
@@ -103,7 +103,7 @@ ubuntu@root:~/data$ touch foo.txt
 
 ⇒ Htest.py hello.txt hello1 foo.txt test.txt
 
-## 8. File manipulation:
+### 8. File manipulation:
 
 - ### remove (deleting) a file:
 

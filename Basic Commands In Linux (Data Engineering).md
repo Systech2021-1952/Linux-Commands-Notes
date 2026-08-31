@@ -1,4 +1,4 @@
-# Basic Commands in Linux
+<img width="503" height="902" alt="image" src="https://github.com/user-attachments/assets/dcdf36e8-574f-4b6b-95d3-dde4b54a1a4d" /># Basic Commands in Linux
 
 
 ### 1. Present working directory:
@@ -384,8 +384,10 @@ airflow   data   hadoop
 ` ubuntu@dheen:~$ ls -lstrS `
 
 Output => total 885076
-
-
+`
+404908 -rw-r--r-- 1 ubuntu ubuntu 1414 May 31 abc
+189406 drwxr-xr-x 3 ubuntu ubuntu 501 Jun 10 logs
+`
 
 
 

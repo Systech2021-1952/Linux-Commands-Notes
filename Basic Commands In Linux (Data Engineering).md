@@ -381,9 +381,9 @@ airflow   data   hadoop
 | -r | reverses the sorting order |
 | -S | sorts by file size (largest first) |
 
+` ubuntu@dheen:~$ ls -lstrS `
 
-
-
+Output => total 885076
 
 
 

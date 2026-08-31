@@ -1,4 +1,4 @@
-<img width="503" height="902" alt="image" src="https://github.com/user-attachments/assets/dcdf36e8-574f-4b6b-95d3-dde4b54a1a4d" /># Basic Commands in Linux
+Commands in Linux
 
 
 ### 1. Present working directory:

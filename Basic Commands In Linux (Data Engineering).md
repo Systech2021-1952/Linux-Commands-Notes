@@ -408,7 +408,8 @@ Note:
 - Without-a, hidden files are not shown.
 ```
 
-
+| Hidden | files Description |
+|-----|-----|
 
 
 

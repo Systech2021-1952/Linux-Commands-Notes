@@ -394,7 +394,7 @@ Output => total 885076
 
 ` ubuntu@dheen:~$ ls -a `
 
-
+( shows the hidden files )
 
 
 

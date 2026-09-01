@@ -392,7 +392,7 @@ Output => total 885076
 
 3. Is -a (shows hidden files):
 
-
+` ubuntu@dheen:~$ ls -a `
 
 
 

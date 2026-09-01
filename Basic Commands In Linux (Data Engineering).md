@@ -390,7 +390,7 @@ Output => total 885076
 
 ` 189406 drwxr-xr-x 3 ubuntu ubuntu 501 Jun 10 logs `
 
-
+### 3. Is -a (shows hidden files):
 
 
 

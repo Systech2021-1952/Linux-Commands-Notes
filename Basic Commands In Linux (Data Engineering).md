@@ -421,11 +421,11 @@ Note:
 
 ⇒ In.bashrc file, if we install any Python on Java we will give environment variables in it.
 
-Opening .bashrc file:
+- Opening .bashrc file:
 
 ` ubuntu@dheen:~$ vi .bashrc `
 
-Executing .bashrc file:
+- Executing .bashrc file:
 
 > 1. ubuntu@dheen:~$ source .bashrc
 > 2. ubuntu@dheen:~$ .   .bashrc

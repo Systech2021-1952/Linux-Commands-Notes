@@ -425,7 +425,7 @@ Opening .bashrc file:
 
 ` ubuntu@dheen:~$ vi .bashrc `
 
-
+Executing .bashrc file:
 
 
 

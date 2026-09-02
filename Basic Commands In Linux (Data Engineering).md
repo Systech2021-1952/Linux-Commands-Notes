@@ -419,9 +419,9 @@ Note:
 
 4. .bashrc file usage
 
+⇒ In.bashrc file, if we install any Python on Java we will give environment variables in it.
 
-
-
+Opening .bashrc file:
 
 
 

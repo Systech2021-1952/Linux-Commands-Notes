@@ -5,7 +5,7 @@ Commands in Linux
 ubuntu@root:~$ pwd
 > /home/ubuntu
 
-### 2. Version:
+### 2. Version:e
 ubuntu@root:~$ uname -а
 > version will appear
 
@@ -427,5 +427,7 @@ Opening .bashrc file:
 
 Executing .bashrc file:
 
+> 1. ubuntu@dheen:~$ source .bashrc
+> 2. ubuntu@dheen:~$ .   .bashrc
 
 

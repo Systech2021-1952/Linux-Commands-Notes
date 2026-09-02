@@ -402,11 +402,11 @@ Output => total 885076
 abc data
 ```
 
-
+```bash
 Note:
 - -a option shows hidden files (files starting with dot ".")
 - Without-a, hidden files are not shown.
-| :--- |
+```
 
 | Hidden | files Description |
 |-----|-----|

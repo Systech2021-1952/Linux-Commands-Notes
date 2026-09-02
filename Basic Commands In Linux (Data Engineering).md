@@ -384,11 +384,9 @@ airflow   data   hadoop
 ` ubuntu@dheen:~$ ls -lstrS `
 
 Output => total 885076
+> 404908 -rw-r--r-- 1 ubuntu ubuntu 1414 May 31 abc 
+> 189406 drwxr-xr-x 3 ubuntu ubuntu 501 Jun 10 logs 
 
-
-| 404908 -rw-r--r-- 1 ubuntu ubuntu 1414 May 31 abc |
-| 189406 drwxr-xr-x 3 ubuntu ubuntu 501 Jun 10 logs |
-|-----|
 
 3. Is -a (shows hidden files):
 

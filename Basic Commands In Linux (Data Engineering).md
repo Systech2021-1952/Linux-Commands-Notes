@@ -435,7 +435,7 @@ Note:
 
 1. Basic Is command:
 
-
+` ubuntu@dheen :$ ls `
 
 
 

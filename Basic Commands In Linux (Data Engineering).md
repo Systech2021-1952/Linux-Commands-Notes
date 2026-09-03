@@ -431,4 +431,18 @@ Note:
 > 1. ubuntu@dheen:~$ source .bashrc
 > 2. ubuntu@dheen:~$ .   .bashrc
 
+5. List manipulations
+
+1. Basic Is command:
+
+
+
+
+
+
+
+
+
+
+
 

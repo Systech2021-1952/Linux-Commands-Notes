@@ -450,3 +450,4 @@ Note:
 | -r | reverses the sorting order |
 | -S | sorts by file size (largest first) |
 
+` ubuntu@dheen:~$ ls -lstrS `

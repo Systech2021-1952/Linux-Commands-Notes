@@ -451,3 +451,20 @@ Note:
 | -S | sorts by file size (largest first) |
 
 ` ubuntu@dheen:~$ ls -lstrS `
+
+Output => total 885076
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

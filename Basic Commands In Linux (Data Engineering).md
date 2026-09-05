@@ -476,10 +476,12 @@ List manipulations (cont.):
 
 → print_time.py
 
+2. ` :~$ ls data* `
 
+→ data.log    data
 
-
-
+. is a wildcard.
+. matches zero or more characters.
 
 
 

@@ -458,6 +458,39 @@ Output => total 885076
 
 > 189406 drwxr-xr-x 3 ubuntu ubuntu 501 Jun 10 logs
 
+3. ls -a (shows hidden files):
+
+` ubuntu@dheen:~$ ls -a `
+
+(shows the hidden files)
+
+> .    bash_history  .profile   print_time.py
+
+> ..   .bashrc      data. log   hadoop2-din 
+
+> abc  data         .  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

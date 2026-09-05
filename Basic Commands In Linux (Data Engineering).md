@@ -481,6 +481,7 @@ List manipulations (cont.):
 → data.log    data
 
 . is a wildcard.
+
 . matches zero or more characters.
 
 

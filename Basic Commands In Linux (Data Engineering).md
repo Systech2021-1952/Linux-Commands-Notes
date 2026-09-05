@@ -470,9 +470,10 @@ Output => total 885076
 
 > abc  data         .  
 
+List manipulations (cont.):
 
-
-
+1. ` :~$ ls * .py `
+2. 
 
 
 

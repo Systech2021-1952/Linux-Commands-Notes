@@ -482,9 +482,9 @@ List manipulations (cont.):
 
 
 | Note |
-|-----|----|
-| . is a wildcard. |
-| . matches zero or more characters. |
+|-----|
+| . is a wildcard |
+| . matches zero or more characters|
 
 
 

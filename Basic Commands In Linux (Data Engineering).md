@@ -480,11 +480,12 @@ List manipulations (cont.):
 
 → data.log    data
 
-Note
-|-----|----|
-. is a wildcard.
 
-. matches zero or more characters.
+| Note |
+|-----|----|
+| . is a wildcard. |
+
+| . matches zero or more characters. |
 
 
 

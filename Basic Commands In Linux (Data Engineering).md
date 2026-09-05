@@ -473,7 +473,9 @@ Output => total 885076
 List manipulations (cont.):
 
 1. ` :~$ ls * .py `
-2. 
+
+→ print_time.py
+
 
 
 

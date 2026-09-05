@@ -481,7 +481,7 @@ List manipulations (cont.):
 → data.log    data
 
 
-| Note |
+|Note |
 |-----|
 | . is a wildcard |
 | . matches zero or more characters|

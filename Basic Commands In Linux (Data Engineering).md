@@ -470,7 +470,7 @@ Output => total 885076
 
 > abc  data         .  
 
-List manipulations (cont.):
+### List manipulations (cont.):
 
 1. ` :~$ ls * .py `
 
@@ -486,7 +486,7 @@ List manipulations (cont.):
 | . is a wildcard |
 | . matches zero or more characters|
 
-
+### List manipulations (cont.):
 
 
 

@@ -494,7 +494,7 @@ Output => total 885076
 
 2. ` :~$ ls data* `
 
-
+⇒ data.log data
 
 
 

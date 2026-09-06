@@ -488,7 +488,7 @@ Output => total 885076
 
 ### List manipulations (cont.):
 
-
+1. ` :~$ ls*.py `
 
 
 

@@ -492,7 +492,7 @@ Output => total 885076
 
 ⇒ print_time.py
 
-
+2. ` :~$ ls data* `
 
 
 

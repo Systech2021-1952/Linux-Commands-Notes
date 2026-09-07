@@ -498,7 +498,7 @@ Output => total 885076
 
 | Hidden File / Item | Description |
 |-----|-----|
-
+| .bash_history | Bash command history 
 
 
 

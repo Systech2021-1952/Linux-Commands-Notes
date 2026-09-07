@@ -511,7 +511,7 @@ Output => total 885076
 
 ### 1. Create a file:
 ` :~$ echo "hello linux" >> original.txt ` # write content
-
+` :~$ cat original.txt ` # view content
 
 
 

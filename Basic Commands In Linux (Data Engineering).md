@@ -498,8 +498,9 @@ Output => total 885076
 
 | Hidden File / Item | Description |
 |-----|-----|
-| .bash_history | Bash command history 
-
+| .bash_history | Bash command history |
+| .profile | User profile settings |
+| print_time.py | Python file (visible file) |
 
 
 

@@ -509,7 +509,7 @@ Output => total 885076
 
 # Hardlink and Softlink
 
-
+### 1. Create a file:
 
 
 

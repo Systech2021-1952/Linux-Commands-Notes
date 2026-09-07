@@ -510,7 +510,7 @@ Output => total 885076
 # Hardlink and Softlink
 
 ### 1. Create a file:
-` :~$ echo "hello linux" >> original.txt `
+` :~$ echo "hello linux" >> original.txt ` # write content
 
 
 

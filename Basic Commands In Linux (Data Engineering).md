@@ -505,7 +505,9 @@ Output => total 885076
 | data.log | Log file (visible file) |
 | hadoop2-din | Directory (visible) |
 
+-----
 
+# Hardlink and Softlink
 
 
 

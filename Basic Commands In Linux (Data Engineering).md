@@ -501,6 +501,9 @@ Output => total 885076
 | .bash_history | Bash command history |
 | .profile | User profile settings |
 | print_time.py | Python file (visible file) |
+| .bashrc | Bash configuration file |
+| data.log | Log file (visible file) |
+hadoop2-din
 
 
 

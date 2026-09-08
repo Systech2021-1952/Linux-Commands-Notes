@@ -520,4 +520,4 @@ Output => total 885076
 
 →total 4
 
-
+4 -rw-r--r-- 1 ubuntu Jan 9 original.txt

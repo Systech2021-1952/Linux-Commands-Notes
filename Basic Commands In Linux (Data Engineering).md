@@ -524,7 +524,7 @@ Output => total 885076
 
 ### 2. Hardlink:
 
-
+` :~$ In original.txt team2-data.txt ` # create hardlink 
 
 
 

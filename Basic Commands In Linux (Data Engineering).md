@@ -516,7 +516,7 @@ Output => total 885076
 
 ⇒ hello linux
 
-
+` :~$ ls -1str ` # list with details
 
 
 

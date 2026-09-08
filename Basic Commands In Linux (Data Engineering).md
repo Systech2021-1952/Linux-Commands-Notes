@@ -526,7 +526,7 @@ Output => total 885076
 
 ` :~$ In original.txt team2-data.txt ` # create hardlink 
 
-` :~$ ls -lstr `                       # list with details
+` :~$ ls -lstr ` # list with details
 
 
 

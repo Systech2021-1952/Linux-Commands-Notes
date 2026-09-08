@@ -528,7 +528,7 @@ Output => total 885076
 
 ` :~$ ls -lstr ` # list with details
 
-
+→ Total 8
 
 
 

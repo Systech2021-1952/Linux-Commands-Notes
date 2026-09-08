@@ -530,7 +530,7 @@ Output => total 885076
 
 → Total 8
 
-
+4 -rw-r--r-- 2 ubuntu  ....... team2-data.txt
 
 
 

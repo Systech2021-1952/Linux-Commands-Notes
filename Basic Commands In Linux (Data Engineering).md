@@ -533,6 +533,9 @@ Output => total 885076
 4 -rw-r--r-- 2 ubuntu  ...... team2-data.txt
 4 -rw-r--r-- 2 ubuntu  ...... original.txt
 
+> If we update anything in "Original.txt", it applies (also) on "team2-data.txt".
+
+> If we delete one file, another file will exist.
 
 
 

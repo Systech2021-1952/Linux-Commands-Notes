@@ -518,6 +518,6 @@ Output => total 885076
 
 ` :~$ ls -1str ` # list with details
 
-
+→total 4
 
 

@@ -544,3 +544,4 @@ Output => total 885076
 
 ` :~$ ls -1str ` # list with details
 
+(In gitlab i deleted original file but copy file didn't get deleted)

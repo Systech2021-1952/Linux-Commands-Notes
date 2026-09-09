@@ -545,3 +545,23 @@ Output => total 885076
 ` :~$ ls -1str ` # list with details
 
 (In gitlab i deleted original file but copy file didn't get deleted)
+
+⇒ Total 4
+> 4 -rw-r--r-- 1 ubuntu  ...... original.txt
+>  0 1rwxrwxrwx 1 ubuntu ...... new-data.txt -> original.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

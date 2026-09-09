@@ -540,7 +540,7 @@ Output => total 885076
 
 ### 3. Softlink (Symbolic link):
 
-
+` :~$ ln-s original.txt new-data.txt ` # create softlink
 
 
 

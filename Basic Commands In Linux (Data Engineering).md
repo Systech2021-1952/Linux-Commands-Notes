@@ -538,7 +538,7 @@ Output => total 885076
 
 > If we delete one file, another file will exist.
 
-
+### 3. Softlink (Symbolic link):
 
 
 

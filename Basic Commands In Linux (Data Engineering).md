@@ -548,6 +548,7 @@ Output => total 885076
 
 ⇒ Total 4
 > 4 -rw-r--r-- 1 ubuntu  ...... original.txt
+
 >  0 1rwxrwxrwx 1 ubuntu ...... new-data.txt -> original.txt
 
 

@@ -542,5 +542,5 @@ Output => total 885076
 
 ` :~$ ln-s original.txt new-data.txt ` # create softlink
 
-
+` :~$ ls -1str ` # list with details
 

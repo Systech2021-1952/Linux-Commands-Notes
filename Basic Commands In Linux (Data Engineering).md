@@ -557,8 +557,13 @@ Important Notes:
 ★ Hardlink and Softlink are useful for backup, sharing files, and saving space.
 ```
 
-
-
+```
+Quick Summary :
+★ Hardlink → points to the same data (same inode).
+     Deleting one name does not delete the data.
+★ Softlink→ points to the path of the original file.
+     Deleting original file breaks the link.
+```
 
 
 

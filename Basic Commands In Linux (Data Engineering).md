@@ -551,7 +551,11 @@ Output => total 885076
 
 >  0 1rwxrwxrwx 1 ubuntu ...... new-data.txt -> original.txt
 
-
+```
+Important Notes:
+★ If we update in one file, it also update another but if we delete source file, child file also be deleted.
+★ Hardlink and Softlink are useful for backup, sharing files, and saving space.
+```
 
 
 

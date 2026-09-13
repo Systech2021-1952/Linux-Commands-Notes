@@ -566,11 +566,11 @@ Quick Summary :
 ```
 
 | Hardlink vs Softlink |
-|-----|-----|
 | Feature | Hardlink | Softlink |
 |-----|-----|
-
-
+|Inode|Same inode|Different inode|
+|Link Count|Increases|NO effect|
+|Size|Same as original|0 (shows Link only)|
 
 
 

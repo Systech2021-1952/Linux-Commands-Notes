@@ -565,7 +565,7 @@ Quick Summary :
      Deleting original file breaks the link.
 ```
 
-| Hardlink vs Softlink |
+
 
 | Feature | Hardlink | Softlink |
 

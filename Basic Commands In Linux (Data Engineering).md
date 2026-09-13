@@ -565,8 +565,6 @@ Quick Summary :
      Deleting original file breaks the link.
 ```
 
-
-
 | Feature | Hardlink | Softlink |
 |---|---|
 |Inode|Same inode|Different inode|

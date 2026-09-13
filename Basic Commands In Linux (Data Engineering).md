@@ -568,7 +568,7 @@ Quick Summary :
 | Hardlink vs Softlink |
 |-----|-----|
 | Feature | Hardlink | Softlink |
-
+|-----|-----|
 
 
 

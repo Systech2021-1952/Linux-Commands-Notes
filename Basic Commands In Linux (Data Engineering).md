@@ -104,9 +104,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 - ### remove (deleting) a file:
 
-```
-1. ubuntu@root:~/data$ rm foo.txt
-```
+` 1. ubuntu@root:~/data$ rm foo.txt `
 
 (After Is)
 

@@ -84,9 +84,9 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 
 ### 6. Nano Text Editor:
-```
-ubuntu@root:~/data$ nano test.txt
-```
+
+` ubuntu@root:~/data$ nano test.txt `
+
 ```
 ubuntu@root:~/data$ 1s 
 ```

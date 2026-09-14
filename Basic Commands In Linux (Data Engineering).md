@@ -95,9 +95,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ###  7. Creating a dummy file:
 
-```
-ubuntu@root:~/data$ touch foo.txt
-```
+` ubuntu@root:~/data$ touch foo.txt `
 (After Is)
 
 ⇒ Htest.py hello.txt hello1 foo.txt test.txt

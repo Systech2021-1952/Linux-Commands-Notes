@@ -115,6 +115,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 ⇒ hello.txt test.txt
 
 ` 3. ubuntu@root:~/data$ ls he* `
+
 ⇒ hello.txt hello1
 
 ` 4. ubuntu@root:~/data$ rm * `

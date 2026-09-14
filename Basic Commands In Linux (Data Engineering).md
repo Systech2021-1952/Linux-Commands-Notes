@@ -110,9 +110,7 @@ ubuntu@root:~/data$ sudo apt-get install vim
 
 ⇒ Htest.pу hello.txt hello1 test.txt
 
-```
-2. ubuntu@root:~/data$ 1s *.txt
-```
+` 2. ubuntu@root:~/data$ 1s *.txt `
 ⇒ hello.txt test.txt
 ```
 3. ubuntu@root:~/data$ ls he*

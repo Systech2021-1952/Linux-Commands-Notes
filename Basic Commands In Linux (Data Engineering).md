@@ -14,3 +14,8 @@
    ubuntu@dheen:~$ whoami
    ubuntu
    ```
+4. **Clearing the screen:**
+   ```bash
+   ubuntu@dheen:~$ clear
+   # Or use shortcut: (ctrl + L)
+   ```

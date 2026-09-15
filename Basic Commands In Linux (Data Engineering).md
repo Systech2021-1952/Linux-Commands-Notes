@@ -19,3 +19,7 @@
    ubuntu@dheen:~$ clear
    # Or use shortcut: (ctrl + L)
    ```
+5. **Viewing command history:**
+   ```bash
+   ubuntu@dheen:~$ history
+   ```

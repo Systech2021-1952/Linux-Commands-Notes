@@ -9,3 +9,8 @@
    ```bash
    ubuntu@dheen:~$ uname -a
    ```
+3. **Username:**
+   ```bash
+   ubuntu@dheen:~$ whoami
+   ubuntu
+   ```

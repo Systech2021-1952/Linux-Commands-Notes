@@ -45,7 +45,11 @@
    * **Saving a file:** Press `Esc`, then type `:wq` to save and quit.
    * **Quit without saving:** Press `Esc`, then type `:q!`
 
-
+4. **List of files:**
+   ```bash
+   ubuntu@dheen:~/data$ ls
+   hello.txt
+   ```S
 
 
 

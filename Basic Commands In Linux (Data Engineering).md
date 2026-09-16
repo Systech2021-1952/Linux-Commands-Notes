@@ -61,6 +61,7 @@
    * `vim`: upgrading the vi editor.
 
 **Auto-completing a command:** 
+
 Press `Tab` to auto-complete a file name.
 
 

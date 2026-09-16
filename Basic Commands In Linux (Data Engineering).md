@@ -49,8 +49,12 @@
    ```bash
    ubuntu@dheen:~/data$ ls
    hello.txt
-   ```S
-
+   ```
+   
+5. **Installing a package (Linux):**
+   ```bash
+   ubuntu@dheen:~/data$ sudo apt-get install vim
+   ```
 
 
 

@@ -56,7 +56,9 @@
    ubuntu@dheen:~/data$ sudo apt-get install vim
    ```
 
-
+   * `sudo`: root user privilege.
+   * `apt-get`: package manager for applications.
+   * `vim`: upgrading the vi editor.
 
 
 

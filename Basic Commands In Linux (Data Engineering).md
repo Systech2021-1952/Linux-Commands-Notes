@@ -27,9 +27,15 @@
 ---
 
 ## 2. Creating Directory and Files in Linux
+1. **Make directory:**
+   ```bash
+   ubuntu@dheen:~$ mkdir data
+   ```
 
-
-
+2. **Entering into a directory:**
+   ```bash
+   ubuntu@dheen:~$ cd data/
+   ```
 
 
 

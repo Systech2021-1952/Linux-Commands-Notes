@@ -25,3 +25,24 @@
    ```
 
 ---
+
+## 2. Creating Directory and Files in Linux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

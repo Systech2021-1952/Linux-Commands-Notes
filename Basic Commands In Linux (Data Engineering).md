@@ -62,7 +62,26 @@
 
 **Auto-completing a command:** 
 
-Press `Tab` to auto-complete a file name.
+- Press `Tab` to auto-complete a file name.
+- (If we create two or more files).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

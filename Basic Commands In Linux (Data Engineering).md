@@ -109,7 +109,7 @@
    ```
    . Total files be deleted.
 
-##  Viewing and Copying a File
+##  3. Viewing and Copying a File
 
 
 

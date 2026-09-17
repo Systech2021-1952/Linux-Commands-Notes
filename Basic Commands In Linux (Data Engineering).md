@@ -79,27 +79,13 @@
    ubuntu@dheen:~/data$ touch foo.txt
    ```
 
-8. **File manipulation:**
-   * **Remove (delete) a file:**
-     
-     ```bash
-1.  ubuntu@dheen:~/data$ rm foo.txt
-     ```
-     
-     **List specific extension:**
-     ```bash
-2.  ubuntu@dheen:~/data$ ls *.txt
-     ```
 
-     **List files starting with 'he':**
-     ```bash
- 4. ubuntu@dheen:~/data$ ls he*
-     ```
 
-     **Delete all files in current directory:**
-     ```bash
- 5.  ubuntu@dheen:~/data$ rm *
-     ```
+
+
+
+
+
 
 
 

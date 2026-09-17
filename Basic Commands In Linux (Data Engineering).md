@@ -86,7 +86,7 @@
  ```bash
  1.  ubuntu@dheen:~/data$ rm foo.txt
  ```
-
+(After Is)
 
 
 

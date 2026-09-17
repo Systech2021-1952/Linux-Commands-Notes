@@ -69,7 +69,10 @@
    ```bash
    ubuntu@dheen:~/data$ nano test.txt
    ```
-
+   ```
+   ubuntu@dheen:~/data$ 1s
+   ```
+   - Nano editor is simple, easy to use.
 
 
 

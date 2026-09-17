@@ -83,7 +83,7 @@
    
    * **Remove (delete) a file:**
 
-```bash
+     ```bash
    1.  ubuntu@dheen:~/data$ rm foo.txt
      ```
 

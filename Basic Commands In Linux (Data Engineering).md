@@ -79,6 +79,10 @@
    ubuntu@dheen:~/data$ touch foo.txt
    ```
 
+(After Is)
+
+`test.py`  `hello.txt`  `hello1`  `foo.txt`   `test.txt`
+
 8. **File manipulation:**
    
    * **Remove (delete) a file:**

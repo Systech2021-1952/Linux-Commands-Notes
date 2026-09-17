@@ -99,10 +99,10 @@
    ```
     `hello.txt`  `test.txt`
 
-     **List files starting with 'he':**
-     ```bash
+   ```bash
    3. ubuntu@dheen:~/data$ ls he*
-     ```
+   ```
+   `hello.txt`  `hello1`
      **Delete all files in current directory:**
      ```bash
    4.  ubuntu@dheen:~/data$ rm *

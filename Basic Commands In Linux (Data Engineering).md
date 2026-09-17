@@ -79,7 +79,8 @@
    ubuntu@dheen:~/data$ touch foo.txt
    ```
 
-
+8. **File manipulation:**
+   * **Remove (delete) a file:**
 
 
 

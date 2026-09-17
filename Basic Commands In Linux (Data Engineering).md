@@ -80,6 +80,7 @@
    ```
 
 8. **File manipulation:**
+   
    * **Remove (delete) a file:**
 
 

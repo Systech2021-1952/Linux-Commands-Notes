@@ -74,7 +74,10 @@
    ```
    - Nano editor is simple, easy to use.
 
-
+7. **Creating a dummy file (empty file):**
+   ```bash
+   ubuntu@dheen:~/data$ touch foo.txt
+   ```
 
 
 

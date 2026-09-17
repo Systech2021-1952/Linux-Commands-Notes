@@ -82,8 +82,9 @@
 8. **File manipulation:**
    * **Remove (delete) a file:**
      ```bash
-   1.  ubuntu@dheen:~/data$ rm foo.txt
+1.  ubuntu@dheen:~/data$ rm foo.txt
      ```
+     
      **List specific extension:**
      ```bash
    2.  ubuntu@dheen:~/data$ ls *.txt

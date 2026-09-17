@@ -94,7 +94,19 @@
 
     ` Htest.pу ` ` hello.txt ` ` hello1 `  ` test.txt `
 
+   ```bash
+   2.  ubuntu@dheen:~/data$ ls *.txt
+   ```
+    `hello.txt`  `test.txt`
 
+     **List files starting with 'he':**
+     ```bash
+   3. ubuntu@dheen:~/data$ ls he*
+     ```
+     **Delete all files in current directory:**
+     ```bash
+   4.  ubuntu@dheen:~/data$ rm *
+     ```
 
 
 

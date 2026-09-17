@@ -79,20 +79,20 @@
    ubuntu@dheen:~/data$ touch foo.txt
    ```
 
-   (After Is)
+    (After Is)
 
-   `test.py`  `hello.txt`  `hello1`  `foo.txt`   `test.txt`
+    `test.py`  `hello.txt`  `hello1`  `foo.txt`   `test.txt`
 
 8. **File manipulation:**
    
    * **Remove (delete) a file:**
 
- ```bash
- 1.  ubuntu@dheen:~/data$ rm foo.txt
- ```
-  (After Is)
+   ```bash
+   1.  ubuntu@dheen:~/data$ rm foo.txt
+   ```
+    (After Is)
 
-  ` Htest.pу ` ` hello.txt ` ` hello1 `  ` test.txt `
+    ` Htest.pу ` ` hello.txt ` ` hello1 `  ` test.txt `
 
 
 

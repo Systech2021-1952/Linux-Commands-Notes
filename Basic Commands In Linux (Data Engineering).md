@@ -61,11 +61,11 @@
    * `vim`: upgrading the vi editor.
 
    **Auto-completing a command:** 
-
      - Press `Tab` to auto-complete a file name.
      - (If we create two or more files).
 
 6. **Nano Text Editor:** Simple and easy to use.
+   
    ```bash
    ubuntu@dheen:~/data$ nano test.txt
    ```

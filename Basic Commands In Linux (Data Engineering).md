@@ -103,11 +103,11 @@
    3. ubuntu@dheen:~/data$ ls he*
    ```
    `hello.txt`  `hello1`
-     **Delete all files in current directory:**
-     ```bash
+   
+   ```bash
    4.  ubuntu@dheen:~/data$ rm *
-     ```
-
+   ```
+   . Total files be deleted.
 
 
 

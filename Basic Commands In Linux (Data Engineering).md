@@ -111,7 +111,29 @@
 
 ##  3. Viewing and Copying a File
 
+1. **Displaying content in command prompt:**
+   ```bash
+   ubuntu@dheen:~/data$ cat hello.txt
+   ```
+2. **Copying a file (`cp`):**
+   ```bash
+   ubuntu@dheen:~/data$ cp hello.txt new-hello.txt
+   ```
+3. **Renaming a file (`mv`):**
+   ```bash
+   ubuntu@dheen:~/data$ mv hello.txt demo.txt
+   ```
+4. **Copying a file with `cat` command (Append `>>`):**
+   ```bash
+   ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
+   ```
+5. **Printing texts in prompt (`echo`):**
+   ```bash
+   ubuntu@dheen:~/data$ echo "dheen"
+   ```
+   * **Store in file:** `echo "dheen" >> nfile.txt` (Appends text to the file)
 
+---
 
 
 

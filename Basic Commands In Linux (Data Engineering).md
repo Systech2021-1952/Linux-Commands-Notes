@@ -111,7 +111,9 @@
 
 ##  3. Viewing and Copying a File
 
- ``` ubuntu@dheen:~/data$ vi hello.txt ```
+ ```
+ ubuntu@dheen:~/data$ vi hello.txt
+ ```
 
  (hello.txt will some text is created).
 

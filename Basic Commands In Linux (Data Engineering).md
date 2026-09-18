@@ -152,7 +152,7 @@
 
     1. ` ~/data$ echo "dheen" `  // echo
 
-    dheen
+      dheen
     
     2.  ` ~/data$ echo "dheen" >> nfile.txt `  // store in file
 

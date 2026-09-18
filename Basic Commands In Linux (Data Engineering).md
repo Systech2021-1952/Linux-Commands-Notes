@@ -128,7 +128,7 @@
 
    ` ~/data$ 1s `
    
-4. **Copying a file with `cat` command : **
+4. **Copying a file with `cat` command :**
 
    ` (Append `>>`): `
    

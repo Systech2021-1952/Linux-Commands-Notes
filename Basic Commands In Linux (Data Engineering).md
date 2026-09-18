@@ -112,9 +112,10 @@
 ##  3. Viewing and Copying a File
 
 1. **Displaying content in command prompt:**
-   ```bash
-   ubuntu@dheen:~/data$ cat hello.txt
-   ```
+   
+  ` ubuntu@dheen:~/data$ cat hello.txt ` //cat
+  
+   
 2. **Copying a file (`cp`):**
    ```bash
    ubuntu@dheen:~/data$ cp hello.txt new-hello.txt

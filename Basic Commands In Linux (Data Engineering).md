@@ -140,7 +140,7 @@
       
    (Copies the text from one file to another).
    
-6. **Printing texts in prompt (`echo`):**
+5. **Printing texts in prompt (`echo`):**
    
    ubuntu@dheen:~/data$ echo "dheen"
    

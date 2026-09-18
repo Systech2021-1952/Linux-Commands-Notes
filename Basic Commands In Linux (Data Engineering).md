@@ -150,9 +150,9 @@
 
  5. **Printing texts in prompt (`echo`):**
 
-  1. ` ~/data$ echo "dheen" `  // echo
+    1. ` ~/data$ echo "dheen" `  // echo
 
-   dheen
+     dheen
     
    2.  ` ~/data$ echo "dheen" >> nfile.txt `  // store in file
 
@@ -162,10 +162,10 @@
 
     ` ~/data$ cat nfile.txt `
 
-    This is a file that is created
-
-    `dheen`
-    `mohamed` 
+     This is a file that is created
+   
+     `dheen`
+     `mohamed` 
 
 
 

@@ -130,7 +130,7 @@
   
     ` ~/data$ 1s ` 
    
-3. **Renaming a file (`mv`):**
+3. **Renaming a file (`mv`):**  //mv
    
    ` ubuntu@dheen:~/data$ mv hello.txt demo.txt `
 

@@ -138,7 +138,7 @@
    
 4. **Copying a file with `cat` command :**
 
-   ` (Append `>>`): `
+   ` Append (>>): `
    
    ` ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt `
 

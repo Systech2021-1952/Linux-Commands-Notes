@@ -113,7 +113,7 @@
 
 1. **Displaying content in command prompt:**
    
-  ` ubuntu@dheen:~/data$ cat hello.txt ` //cat
+    ` ubuntu@dheen:~/data$ cat hello.txt ` //cat
   
    
 2. **Copying a file (`cp`):**

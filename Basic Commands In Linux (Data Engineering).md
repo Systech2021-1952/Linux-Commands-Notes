@@ -118,9 +118,9 @@
    
 2. **Copying a file (`cp`):**
    
-  ` ubuntu@dheen:~/data$ cp hello.txt new-hello.txt `  // cp
+    ` ubuntu@dheen:~/data$ cp hello.txt new-hello.txt `  // cp
   
-  ` ~/data$ 1s ` 
+    ` ~/data$ 1s ` 
    
 3. **Renaming a file (`mv`):**
    

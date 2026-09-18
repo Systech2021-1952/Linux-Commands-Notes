@@ -148,7 +148,7 @@
       
    (Copies the text from one file to another).
 
-   5. **Printing texts in prompt (`echo`):**
+ 5. **Printing texts in prompt (`echo`):**
 
     1. ` ~/data$ echo "dheen" `  // echo
 

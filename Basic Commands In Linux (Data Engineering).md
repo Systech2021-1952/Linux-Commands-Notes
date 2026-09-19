@@ -159,7 +159,9 @@
 
 ## 4. File Navigation System
 
-
+1. **`ls` and `cd` commands:**
+   * Go to home directory shortcut: `cd ~` or just `cd`
+     
 
 
 

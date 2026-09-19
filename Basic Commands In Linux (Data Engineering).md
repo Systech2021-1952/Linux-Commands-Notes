@@ -162,7 +162,10 @@
 1. **`ls` and `cd` commands:**
    * Go to home directory shortcut: `cd ~` or just `cd`
      
-
+2. **Creating nested directories:** Use `-p` to create intermediate directories if they don't exist.
+   ```bash
+   ubuntu@dheen:~$ mkdir -p abc/test/demo
+   ```
 
 
 

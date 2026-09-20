@@ -179,7 +179,7 @@
 ## 5. List Functionalities (`ls`)
 
 
-
+1. **Basic `ls` command:** 
 
 
 

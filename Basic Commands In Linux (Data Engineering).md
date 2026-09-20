@@ -181,9 +181,9 @@
 
 1. **Basic `ls` command:** 
 
-`
+```
 ubuntu@dheen:~$ ls
-`
+```
 
 
 

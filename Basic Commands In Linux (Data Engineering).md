@@ -176,7 +176,7 @@
 
 ---
 
-
+## 5. List Functionalities (`ls`)
 
 
 

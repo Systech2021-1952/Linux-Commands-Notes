@@ -178,6 +178,21 @@ ubuntu@dheen:~$ cd data/
 ubuntu@dheen:~/data$ data.log  
 ```
 
+- No such file directory
+
+:~/data $ cd.            ( N → Home directory )   
+
+:~$ vi data.log          ( → cd~ )
+
+
+
+
+
+
+
+
+
+
 3. **Creating nested directories:** Use `-p` to create intermediate directories if they don't exist.
    ```bash
    ubuntu@dheen:~$ mkdir -p abc/test/demo

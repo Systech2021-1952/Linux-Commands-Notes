@@ -170,7 +170,7 @@
    
 ## Shortcut for "home/ubuntu":
    
-   ```
+```
 ubuntu@dheen:~$ cd data/
 ```
 
@@ -182,7 +182,24 @@ ubuntu@dheen:~/data$ data.log
 
 :~/data $ cd.            ( N → Home directory )   
 
-:~$ vi data.log          ( → cd~ )
+:~$ vi data.log          ( → cd ~ )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

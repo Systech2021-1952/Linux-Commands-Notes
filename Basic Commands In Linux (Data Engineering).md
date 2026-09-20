@@ -160,14 +160,30 @@
 ## 4. File Navigation System
 
 1. **`ls` and `cd` commands:**
-   * Go to home directory shortcut: `cd ~` or just `cd`
-     
-2. **Creating nested directories:** Use `-p` to create intermediate directories if they don't exist.
+
+   ```
+   ubuntu@dheen:~$ 1s
+   ```
+   ` untitled.pnb `   ` data `   ` print_time.py `
+ 
+   ` airflow `   ` data.log `   ` retal.txt `
+   
+## Shortcut for "home/ubuntu":
+   
+   ```
+ubuntu@dheen:~$ cd data/
+```
+
+```
+ubuntu@dheen:~/data$ data.log  
+```
+
+3. **Creating nested directories:** Use `-p` to create intermediate directories if they don't exist.
    ```bash
    ubuntu@dheen:~$ mkdir -p abc/test/demo
    ```
 
-3. **Going Back from a directory:**
+4. **Going Back from a directory:**
    ```bash
    ubuntu@dheen:~$ cd ../..
    # Goes to the previous cd command history path:

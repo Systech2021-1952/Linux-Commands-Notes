@@ -184,7 +184,7 @@ ubuntu@dheen:~/data$ data.log
 
 :~$ vi data.log          ( → cd ~ )
 
-
+Give "This is a log file" and save it
 
 
 

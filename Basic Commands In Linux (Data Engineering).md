@@ -243,6 +243,8 @@ ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
 ```
 (After ls)
 
+` demo.txt `   ` new-hello.txt `   ` nfile.txt `
+(Copies the text from one file to another).
 
 
 

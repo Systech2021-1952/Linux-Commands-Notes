@@ -238,6 +238,13 @@ ubuntu@dheen:~$ pwd
 
 Append symbol (>>):
 
+```
+ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
+```
+(After ls)
+
+
+
 
 
 

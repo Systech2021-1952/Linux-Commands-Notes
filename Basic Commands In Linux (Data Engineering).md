@@ -226,6 +226,18 @@ ubuntu@dheen:~$ pwd
 ```
 /home/ubuntu/abc/test/demo
 
+> ubuntu@dheen:~$ cd ..       (home/ubuntu/abc/test)
+
+> ubuntu@dheen:~$ cd../..     (home/ubuntu)
+
+> buntu@dheen:~$ cd -     (will go to previous cd command)
+
+/home/ubuntu/abc/test
+
+
+
+
+
 
 
 

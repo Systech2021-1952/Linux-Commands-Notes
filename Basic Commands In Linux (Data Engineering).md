@@ -232,7 +232,7 @@ ubuntu@dheen:~$ pwd
 
 > buntu@dheen:~$ cd -     (will go to previous cd command)
 
-/home/ubuntu/abc/test
+> /home/ubuntu/abc/test
 
 
 

@@ -221,10 +221,10 @@ Give "This is a log file" and save it
 ubuntu@dheen:~$ cd abc/test/demo
 ```
 
-
-
-
-
+```
+ubuntu@dheen:~$ pwd
+```
+/home/ubuntu/abc/test/demo
 
 
 

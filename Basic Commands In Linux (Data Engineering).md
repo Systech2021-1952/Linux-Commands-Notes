@@ -159,7 +159,7 @@
 
 ## 4. File Navigation System
 
-1. **`ls` and `cd` commands:**
+### 1. **`ls` and `cd` commands:**
 
    ```
    ubuntu@dheen:~$ 1s
@@ -196,7 +196,7 @@ Give "This is a log file" and save it
 
 "This is a log file"
 
-## 2. Creating nested Directory:
+### 2. Creating nested Directory:
 
 - If we want to create directory (or) file in the
    file that doesn't exist (or) created
@@ -215,7 +215,7 @@ Give "This is a log file" and save it
 
 ⇒ test
 
-## 3. Going Back from a directory:
+### 3. Going Back from a directory:
 
 ```
 ubuntu@dheen:~$ cd abc/test/demo
@@ -234,7 +234,7 @@ ubuntu@dheen:~$ pwd
 
 > /home/ubuntu/abc/test
 
-## 4. Copying a file with 'cat' command:
+### 4. Copying a file with 'cat' command:
 
 Append symbol (>>):
 

@@ -205,15 +205,15 @@ Give "This is a log file" and save it
 
 ` ubuntu@dheen:~$ pwd `   /* //-p
 
+/home/ubuntu
 
+` ubuntu@dheen:~$ mkdir -p abc/test/demo `
 
+~$ cd abc/
 
+~$1s
 
-
-
-
-
-
+⇒ test
 
 
 

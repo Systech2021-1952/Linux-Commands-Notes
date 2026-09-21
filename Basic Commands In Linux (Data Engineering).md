@@ -234,9 +234,9 @@ ubuntu@dheen:~$ pwd
 
 > /home/ubuntu/abc/test
 
+## 4. Copying a file with 'cat' command:
 
-
-
+Append symbol (>>):
 
 
 

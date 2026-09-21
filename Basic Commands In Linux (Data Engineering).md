@@ -217,6 +217,9 @@ Give "This is a log file" and save it
 
 ## 3. Going Back from a directory:
 
+```
+ubuntu@dheen:~$ cd abc/test/demo
+```
 
 
 
@@ -225,21 +228,6 @@ Give "This is a log file" and save it
 
 
 
-
-
-3. **Creating nested directories:** Use `-p` to create intermediate directories if they don't exist.
-   ```bash
-   ubuntu@dheen:~$ mkdir -p abc/test/demo
-   ```
-
-4. **Going Back from a directory:**
-   ```bash
-   ubuntu@dheen:~$ cd ../..
-   # Goes to the previous cd command history path:
-   ubuntu@dheen:~$ cd - 
-   ```
-
----
 
 ## 5. List Functionalities (`ls`)
 

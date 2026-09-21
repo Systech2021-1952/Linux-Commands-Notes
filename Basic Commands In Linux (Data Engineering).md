@@ -203,6 +203,13 @@ Give "This is a log file" and save it
 - we have to create it one by one into a file.
 - Instead we use "-p".
 
+` ubuntu@dheen:~$ pwd `   /* //-p
+
+
+
+
+
+
 
 
 

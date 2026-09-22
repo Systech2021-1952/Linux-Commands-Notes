@@ -20,3 +20,8 @@ ubuntu
 ubuntu@dheen:~$ clear
 # Terminal will be cleared (Shortcut: Ctrl + L)
 ```
+**5. Viewing command history:**
+```bash
+ubuntu@dheen:~$ history
+# Total history can be viewed.
+```

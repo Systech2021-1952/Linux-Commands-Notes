@@ -15,3 +15,8 @@ ubuntu@dheen:~$ uname -a
 ubuntu@dheen:~$ whoami
 ubuntu
 ```
+**4. Clearing the screen:**
+```bash
+ubuntu@dheen:~$ clear
+# Terminal will be cleared (Shortcut: Ctrl + L)
+```

@@ -5,3 +5,8 @@
 ubuntu@dheen:~$ pwd
 /home/ubuntu
 ```
+**2. Version:**
+```bash
+ubuntu@dheen:~$ uname -a
+# version will appear
+```

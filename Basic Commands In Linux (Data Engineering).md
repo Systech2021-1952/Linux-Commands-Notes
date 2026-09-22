@@ -10,3 +10,8 @@ ubuntu@dheen:~$ pwd
 ubuntu@dheen:~$ uname -a
 # version will appear
 ```
+**3. Username:**
+```bash
+ubuntu@dheen:~$ whoami
+ubuntu
+```

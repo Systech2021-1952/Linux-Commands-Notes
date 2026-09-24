@@ -40,14 +40,6 @@ ubuntu@dheen:~$ cd data/
 ```bash
 ubuntu@dheen:~/data$ vi hello
 ```
-* **Text file creation steps:**
-  * Press `i` to insert text.
-  * Enter your text.
-  * Press `Esc` to exit insert mode.
-  * For saving and quitting: `:wq`
-  * Quit without saving: `:q!`
-
-
 
 
 

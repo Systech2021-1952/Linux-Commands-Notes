@@ -41,7 +41,7 @@ ubuntu@dheen:~$ cd data/
 ubuntu@dheen:~/data$ vi hello
 ```
 * **In the editor:** Press `i` for inserting text.
-*  * **Saving a file:** Press `Esc`, then type `:wq` to save and quit.
+* **Saving a file:** Press `Esc`, then type `:wq` to save and quit.
 * **Quit without saving:** Press `Esc`, then type `:q!`
 
 

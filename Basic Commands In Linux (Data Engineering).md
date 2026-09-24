@@ -25,3 +25,5 @@ ubuntu@dheen:~$ clear
 ubuntu@dheen:~$ history
 # Total history can be viewed.
 ```
+
+# Creating Directory and Files in Linux

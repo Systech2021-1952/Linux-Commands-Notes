@@ -48,6 +48,7 @@ ubuntu@dheen:~/data$ vi hello
 *  Give Escape button.
 * **Saving a file:** Press `Esc`, then type `:wq` to save and quit.
 * **Quit without saving:** Press `Esc`, then type `:q!`
+
 **4. **List of files:**
    ```bash
    ubuntu@dheen:~/data$ ls

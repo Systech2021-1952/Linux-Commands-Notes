@@ -39,6 +39,7 @@ ubuntu@dheen:~$ cd data/
 **3. Creating a text file (vi editor):**
 ```bash
 ubuntu@dheen:~/data$ vi hello
+"hello" text file will be created.
 ```
 * **In the editor:** Press `i` for inserting text.
 * **Saving a file:** Press `Esc`, then type `:wq` to save and quit.

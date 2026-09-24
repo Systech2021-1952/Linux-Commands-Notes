@@ -32,4 +32,7 @@ ubuntu@dheen:~$ history
 ```bash
 ubuntu@dheen:~$ mkdir data
 ```
-
+**2. Entering into a directory:**
+```bash
+ubuntu@dheen:~$ cd data/
+```

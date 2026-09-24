@@ -46,3 +46,35 @@ ubuntu@dheen:~/data$ vi hello
   * Press `Esc` to exit insert mode.
   * For saving and quitting: `:wq`
   * Quit without saving: `:q!`
+**3. Creating a text file (vi editor):**
+```bash
+ubuntu@dheen:~/data$ vi hello
+```
+* **Text file creation steps:**
+  * Press `i` to insert text.
+  * Enter your text.
+  * Press `Esc` to exit insert mode.
+  * For saving and quitting: `:wq`
+  * Quit without saving: `:q!`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

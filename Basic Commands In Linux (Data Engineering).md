@@ -31,17 +31,17 @@ ubuntu@dheen:~$ history
 **1. Make directory:**
 ```bash
 ubuntu@dheen:~$ mkdir data
-Data file will be created.
+# Data file will be created.
 ```
 **2. Entering into a directory:**
 ```bash
 ubuntu@dheen:~$ cd data/
-We will be enter into 'data' file.
+# We will be enter into 'data' file.
 ```
 **3. Creating a text file (vi editor):**
 ```bash
 ubuntu@dheen:~/data$ vi hello
-"hello" text file will be created.
+# "hello" text file will be created.
 ```
 * **In the editor:** Press `i` for inserting text.
 * **Saving a file:** Press `Esc`, then type `:wq` to save and quit.

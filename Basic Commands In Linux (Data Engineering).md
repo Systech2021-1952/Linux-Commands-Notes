@@ -56,6 +56,19 @@ ubuntu@dheen:~/data$ vi hello
   * Press `Esc` to exit insert mode.
   * For saving and quitting: `:wq`
   * Quit without saving: `:q!`
+**5. Installing a package:**
+```bash
+ubuntu@dheen:~/data$ sudo apt-get install vim
+# sudo: root user
+# apt-get: getting any application
+# vim: upgrading vi editor
+```
+
+
+
+
+
+
 
 
 

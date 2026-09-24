@@ -46,23 +46,7 @@ ubuntu@dheen:~/data$ vi hello
   * Press `Esc` to exit insert mode.
   * For saving and quitting: `:wq`
   * Quit without saving: `:q!`
-**3. Creating a text file (vi editor):**
-```bash
-ubuntu@dheen:~/data$ vi hello
-```
-* **Text file creation steps:**
-  * Press `i` to insert text.
-  * Enter your text.
-  * Press `Esc` to exit insert mode.
-  * For saving and quitting: `:wq`
-  * Quit without saving: `:q!`
-**5. Installing a package:**
-```bash
-ubuntu@dheen:~/data$ sudo apt-get install vim
-# sudo: root user
-# apt-get: getting any application
-# vim: upgrading vi editor
-```
+
 
 
 

@@ -107,7 +107,10 @@ ubuntu@dheen:~/data$ vi hello
    ```bash
    ubuntu@dheen:~/data$ cp hello.txt new-hello.txt
    ```
-
+3. **Renaming a file (`mv`):**
+   ```bash
+   ubuntu@dheen:~/data$ mv hello.txt demo.txt
+   ```
 
 
 

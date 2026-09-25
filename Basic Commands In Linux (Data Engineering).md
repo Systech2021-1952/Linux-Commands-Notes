@@ -54,7 +54,7 @@ ubuntu@dheen:~/data$ vi hello
    ubuntu@dheen:~/data$ ls
    hello.txt
    ```
-5. **Installing a package (Linux):**
+**5. Installing a package (Linux):**
    ```bash
    ubuntu@dheen:~/data$ sudo apt-get install vim
    ```

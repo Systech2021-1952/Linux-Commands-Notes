@@ -103,7 +103,10 @@ ubuntu@dheen:~/data$ vi hello
    ```bash
    ubuntu@dheen:~/data$ cat hello.txt
    ```
-
+2. **Copying a file (`cp`):**
+   ```bash
+   ubuntu@dheen:~/data$ cp hello.txt new-hello.txt
+   ```
 
 
 

@@ -99,7 +99,10 @@ ubuntu@dheen:~/data$ vi hello
      ```
 ---
 ## 3. Viewing and Copying a File
-
+1. **Displaying content in command prompt:**
+   ```bash
+   ubuntu@dheen:~/data$ cat hello.txt
+   ```
 
 
 

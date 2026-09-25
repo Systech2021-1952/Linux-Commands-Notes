@@ -115,8 +115,12 @@ ubuntu@dheen:~/data$ vi hello
    ```bash
    ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
    ```
-
-
+5. **Printing texts in prompt (`echo`):**
+   ```bash
+   ubuntu@dheen:~/data$ echo "dheen"
+   ```
+   * **Store in file:** `echo "dheen" >> nfile.txt` (Appends text to the file)
+---
 
 
 

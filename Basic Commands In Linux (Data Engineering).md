@@ -54,7 +54,17 @@ ubuntu@dheen:~/data$ vi hello
    ubuntu@dheen:~/data$ ls
    hello.txt
    ```
+5. **Installing a package (Linux):**
+   ```bash
+   ubuntu@dheen:~/data$ sudo apt-get install vim
+   ```
+   * `sudo`: root user privilege.
+   * `apt-get`: package manager for applications.
+   * `vim`: upgrading the vi editor.
 
+ **Auto-completing a command:** 
+ - Press `Tab` to auto-complete a file name.
+ - (If we create two or more files)
 
 
 

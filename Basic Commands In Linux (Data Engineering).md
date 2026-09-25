@@ -111,7 +111,10 @@ ubuntu@dheen:~/data$ vi hello
    ```bash
    ubuntu@dheen:~/data$ mv hello.txt demo.txt
    ```
-
+4. **Copying a file with `cat` command (Append `>>`):**
+   ```bash
+   ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
+   ```
 
 
 

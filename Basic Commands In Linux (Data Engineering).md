@@ -97,7 +97,8 @@ ubuntu@dheen:~/data$ vi hello
      ```bash
    4.  ubuntu@dheen:~/data$ rm *
      ```
-
+---
+## 3. Viewing and Copying a File
 
 
 

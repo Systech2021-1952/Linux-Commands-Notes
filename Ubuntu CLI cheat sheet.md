@@ -13,7 +13,11 @@
 ### 2. System monitoring and management
 
 `top` Displays real-time system processes.
+
 `htop` An interactive process viewer (needs installation).
+
 `df -h` Shows disk usage in a human-readable format.
+
 `free -m` Displays free and used memory in MB.
+
 `kill <process id>` Terminates a process.

@@ -122,7 +122,8 @@ ubuntu@dheen:~/data$ vi hello
    * **Store in file:** `echo "dheen" >> nfile.txt` (Appends text to the file)
 ---
 ## 4. File Navigation System
-
+1. **`ls` and `cd` commands:**
+   * Go to home directory shortcut: `cd ~` or just `cd`
 
 
 

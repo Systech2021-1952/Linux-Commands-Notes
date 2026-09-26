@@ -1,6 +1,6 @@
 # Ubuntu CLI cheat sheet
 ## System
-System information
+### System information
 
 `uname -a` Displays all system information.
 

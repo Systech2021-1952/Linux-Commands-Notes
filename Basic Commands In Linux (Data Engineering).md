@@ -128,7 +128,12 @@ ubuntu@dheen:~/data$ vi hello
    ```bash
    ubuntu@dheen:~$ mkdir -p abc/test/demo
    ```
-
+3. **Going Back from a directory:**
+   ```bash
+   ubuntu@dheen:~$ cd ../..
+   # Goes to the previous cd command history path:
+   ubuntu@dheen:~$ cd - 
+   ```
 
 
 

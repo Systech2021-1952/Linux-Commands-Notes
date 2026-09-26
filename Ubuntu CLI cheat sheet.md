@@ -20,3 +20,5 @@
 `free -m` Displays free and used memory in MB.
 
 `kill <process id>` Terminates a process.
+
+### 3. Running commands

@@ -9,3 +9,5 @@
 `lscpu` Lists CPU architecture information.
 
 `timedatectl status` Shows system time.
+
+### 2. System monitoring and management

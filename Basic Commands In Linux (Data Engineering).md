@@ -134,7 +134,14 @@ ubuntu@dheen:~/data$ vi hello
    # Goes to the previous cd command history path:
    ubuntu@dheen:~$ cd - 
    ```
-
+4. Copying a file with 'cat' command:
+Append symbol (>>):
+```bash
+ubuntu@dheen:~/data$ cat demo.txt >> nfile.txt
+```
+(After ls)
+⇒ demo.txt new-hello.txt nfile.txt
+(Copies the text from one file to another).
 
 
 

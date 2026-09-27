@@ -45,7 +45,7 @@
 
 `crontab -e` Edits cron jobs for the current user.
 
-
+`rontab -l` Lists cron jobs for the current user.
 
 
 

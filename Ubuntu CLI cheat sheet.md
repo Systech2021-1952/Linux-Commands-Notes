@@ -43,7 +43,7 @@
 
 ### 5. Cron jobs and scheduling
 
-
+`crontab -e` Edits cron jobs for the current user.
 
 
 

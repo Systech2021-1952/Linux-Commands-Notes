@@ -11,7 +11,10 @@
 * `df -h` - Shows disk usage in a human-readable format.
 * `free -m` - Displays free and used memory in MB.
 * `kill <process id>` - Terminates a process.
-
+### Running commands
+* `<command> &` - Runs command in the background.
+* `jobs` - Displays background commands.
+* `fg <command number>` - Brings command to the foreground.
 
 
 

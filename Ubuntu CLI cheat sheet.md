@@ -16,7 +16,9 @@
 * `jobs` - Displays background commands.
 * `fg <command number>` - Brings command to the foreground.
 ### Service management
-
+* `sudo systemctl start <service>` - Starts a service.
+* `sudo systemctl stop <service>` - Stops a service.
+* `sudo systemctl status <service>` - Checks the status of a service.
 
 
 

@@ -1,51 +1,166 @@
-# Ubuntu CLI cheat sheet
-- ## 1. System
-### 1. System information
- `uname -a` Displays all system information.
+# Canonical Ubuntu CLI Cheat Sheet
+## System
 
- `hostnamectl` Shows current hostname and related details.
 
- `lscpu` Lists CPU architecture information.
 
- `timedatectl status` Shows system time.
 
-### 2. System monitoring and management
 
-`top` Displays real-time system processes.
 
-`htop` An interactive process viewer (needs installation).
 
-`df -h` Shows disk usage in a human-readable format.
 
-`free -m` Displays free and used memory in MB.
 
-`kill <process id>` Terminates a process.
 
-### 3. Running commands
-`<command>`& Runs command in the background.
 
-`jobs` Displays background commands.
 
-`fg <command number>` Brings command to the foreground.
 
-### 4. Service management
-`sudo systemctl start <service>` Starts a service.
 
-`sudo systemctl stop <service>` Stops a service.
 
-`sudo systemctl status <service>` Checks the status of a service.
 
-`sudo systemctl reload <service>` Reloads a service’s configuration without interrupting its operation.
 
-`journalctl -f` Follows the journal, showing new log messages in real time.
 
-`journalctl -u <unit_name>` Displays logs for a specific systemd unit.
 
-### 5. Cron jobs and scheduling
 
-`crontab -e` Edits cron jobs for the current user.
 
-`rontab -l` Lists cron jobs for the current user.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

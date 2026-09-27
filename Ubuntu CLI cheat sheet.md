@@ -14,12 +14,14 @@
 ### Running commands
 * `<command> &` - Runs command in the background.
 * `jobs` - Displays background commands.
-* `fg <command number>` - Brings command to the foreground.
+* `fg <command number>` - Brings command to the foreground.e
 ### Service management
 * `sudo systemctl start <service>` - Starts a service.
 * `sudo systemctl stop <service>` - Stops a service.
 * `sudo systemctl status <service>` - Checks the status of a service.
-
+* `sudo systemctl reload <service>` - Reloads a service's configuration without interrupting its operation.
+* `journalctl -f` - Follows the journal, showing new log messages in real time.
+* `journalctl -u <unit_name>` - Displays logs for a specific systemd unit.
 
 
 

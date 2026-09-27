@@ -22,6 +22,9 @@
 * `sudo systemctl reload <service>` - Reloads a service's configuration without interrupting its operation.
 * `journalctl -f` - Follows the journal, showing new log messages in real time.
 * `journalctl -u <unit_name>` - Displays logs for a specific systemd unit.
+### Cron jobs and scheduling
+* `crontab -e` - Edits cron jobs for the current user.
+* `crontab -l` - Lists cron jobs for the current user.
 
 
 

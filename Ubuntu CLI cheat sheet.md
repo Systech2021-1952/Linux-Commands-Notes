@@ -8,7 +8,7 @@
 ### System monitoring and management
 * `top` - Displays real-time system processes.
 * `htop` - An interactive process viewer (needs installation).
-* `df -h` - Shows disk usage in a human-readable format.
+* `df -h` - Shows disk usage in a human-readable format.e
 * `free -m` - Displays free and used memory in MB.
 * `kill <process id>` - Terminates a process.
 ### Running commands
@@ -28,7 +28,7 @@
 ---
 ## Files
 ### File management
-
+* `ls` - Lists files and directories.
 
 
 

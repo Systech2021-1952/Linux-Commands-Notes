@@ -22,3 +22,6 @@
 `kill <process id>` Terminates a process.
 
 ### 3. Running commands
+`<command>`& Runs command in the background.
+`jobs` Displays background commands.
+`fg <command number>` Brings command to the foreground.

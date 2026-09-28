@@ -32,6 +32,7 @@
 * `touch <filename>` - Creates an empty file or updates the last accessed date.
 * `cp <source> <destination>` - Copies files from source to destination.
 * `mv <source> <destination>` - Moves files or renames them.
+* `rm <filename>` - Deletes a file.
 
 
 

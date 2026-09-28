@@ -38,7 +38,7 @@
 * `cd <directory>` - Changes the current directory.
 * `mkdir <dirname>` - Creates a new directory.
 ### File permissions and ownership
-
+* `chmod [who] [+/-] [permissions] <file>` - Changes file permissions.
 
 
 

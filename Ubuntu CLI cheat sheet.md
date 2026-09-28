@@ -42,7 +42,7 @@
 * `chmod u+x <file>` - Makes a file executable by its owner.
 * `chown [user]:[group] <file>` - Changes file owner and group.
 ### Searching and finding
-
+* `find [directory] -name <search_pattern>` - Finds files and directories.
 
 
 

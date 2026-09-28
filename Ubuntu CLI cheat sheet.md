@@ -40,6 +40,7 @@
 ### File permissions and ownership
 * `chmod [who] [+/-] [permissions] <file>` - Changes file permissions.
 * `chmod u+x <file>` - Makes a file executable by its owner.
+* `chown [user]:[group] <file>` - Changes file owner and group.
 
 
 

@@ -46,6 +46,7 @@
 * `grep <search_pattern> <file>` - Searches for a pattern in files.
 ### Archiving and compression
 * `tar -czvf <name.tar.gz> [files]` - Compresses files into a tar.gz archive.
+* `tar xvf <name.tar.[gz|bz|xz]> [destination]` - Extracts a compressed tar archive.
 
 
 

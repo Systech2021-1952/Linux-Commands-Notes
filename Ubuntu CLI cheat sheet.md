@@ -37,7 +37,7 @@
 * `pwd` - Displays the current directory path.
 * `cd <directory>` - Changes the current directory.
 * `mkdir <dirname>` - Creates a new directory.
-
+### File permissions and ownership
 
 
 

@@ -39,7 +39,7 @@
 * `mkdir <dirname>` - Creates a new directory.
 ### File permissions and ownership
 * `chmod [who] [+/-] [permissions] <file>` - Changes file permissions.
-
+* `chmod u+x <file>` - Makes a file executable by its owner.
 
 
 

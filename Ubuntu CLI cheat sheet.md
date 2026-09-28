@@ -45,7 +45,7 @@
 * `find [directory] -name <search_pattern>` - Finds files and directories.
 * `grep <search_pattern> <file>` - Searches for a pattern in files.
 ### Archiving and compression
-
+* `tar -czvf <name.tar.gz> [files]` - Compresses files into a tar.gz archive.
 
 
 

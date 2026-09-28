@@ -44,7 +44,7 @@
 ### Searching and finding
 * `find [directory] -name <search_pattern>` - Finds files and directories.
 * `grep <search_pattern> <file>` - Searches for a pattern in files.
-
+### Archiving and compression
 
 
 

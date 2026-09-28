@@ -35,7 +35,7 @@
 * `rm <filename>` - Deletes a file.
 ### Directory navigation
 * `pwd` - Displays the current directory path.
-
+* `cd <directory>` - Changes the current directory.
 
 
 

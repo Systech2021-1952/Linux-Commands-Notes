@@ -29,7 +29,7 @@
 ## Files
 ### File management
 * `ls` - Lists files and directories.
-
+* `touch <filename>` - Creates an empty file or updates the last accessed date.
 
 
 

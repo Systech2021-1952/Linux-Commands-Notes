@@ -33,8 +33,7 @@
 * `cp <source> <destination>` - Copies files from source to destination.
 * `mv <source> <destination>` - Moves files or renames them.
 * `rm <filename>` - Deletes a file.
-
-
+### Directory navigation
 
 
 

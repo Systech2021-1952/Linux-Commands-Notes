@@ -49,7 +49,7 @@
 * `tar xvf <name.tar.[gz|bz|xz]> [destination]` - Extracts a compressed tar archive.
 ### Text editing and processing
 * `nano <file>` - Opens a file in the Nano text editor.
-
+* `cat <file>` - Displays the contents of a file.
 
 
 

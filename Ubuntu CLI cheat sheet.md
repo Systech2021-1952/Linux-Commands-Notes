@@ -51,7 +51,7 @@
 * `nano <file>` - Opens a file in the Nano text editor.
 * `cat <file>` - Displays the contents of a file.
 * `less <file>` - Displays the paginated content of a file.
-
+* `head <file>` - Shows the first few lines of a file.
 
 
 

@@ -59,7 +59,7 @@
 ### Package management (APT)
 * `sudo apt install <package>` - Installs a package.
 * `sudo apt install --reinstall <package>` - Reinstalls a broken package.
-
+* `apt search <package>` - Searches for APT packages.
 
 
 

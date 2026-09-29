@@ -57,7 +57,7 @@
 ---
 ## Packages
 ### Package management (APT)
-
+* `sudo apt install <package>` - Installs a package.
 
 
 

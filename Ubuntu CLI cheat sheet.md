@@ -50,7 +50,7 @@
 ### Text editing and processing
 * `nano <file>` - Opens a file in the Nano text editor.
 * `cat <file>` - Displays the contents of a file.
-
+* `less <file>` - Displays the paginated content of a file.
 
 
 

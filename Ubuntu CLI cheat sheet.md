@@ -52,7 +52,7 @@
 * `cat <file>` - Displays the contents of a file.
 * `less <file>` - Displays the paginated content of a file.
 * `head <file>` - Shows the first few lines of a file.
-
+* `tail <file>` - Shows the last few lines of a file.
 
 
 

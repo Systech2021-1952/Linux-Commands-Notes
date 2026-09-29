@@ -53,6 +53,7 @@
 * `less <file>` - Displays the paginated content of a file.
 * `head <file>` - Shows the first few lines of a file.
 * `tail <file>` - Shows the last few lines of a file.
+* `awk '{print}' <file>` - Prints every line in a file.
 
 
 

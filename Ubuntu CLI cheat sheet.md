@@ -11,7 +11,7 @@
 * `df -h` - Shows disk usage in a human-readable format.e
 * `free -m` - Displays free and used memory in MB.
 * `kill <process id>` - Terminates a process.
-### Running commands
+### Running commandse
 * `<command> &` - Runs command in the background.
 * `jobs` - Displays background commands.
 * `fg <command number>` - Brings command to the foreground.e
@@ -60,7 +60,7 @@
 * `sudo apt install <package>` - Installs a package.
 * `sudo apt install --reinstall <package>` - Reinstalls a broken package.
 * `apt search <package>` - Searches for APT packages.
-
+* `apt-cache policy <package>` - Lists available package versions.
 
 
 

@@ -69,7 +69,7 @@
 * `snap find <package>` - Search for Snap packages.
 * `sudo snap install <snap_name>` - Installs a Snap package.
 * `sudo snap remove <snap_name>` - Removes a Snap package.
-
+* `sudo snap refresh` - Updates all installed Snap packages.
 
 
 

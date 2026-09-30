@@ -71,6 +71,7 @@
 * `sudo snap remove <snap_name>` - Removes a Snap package.
 * `sudo snap refresh` - Updates all installed Snap packages.
 * `snap list` - Lists all installed Snap packages.
+* `snap info <snap_name>` - Displays information about a Snap package.
 
 
 

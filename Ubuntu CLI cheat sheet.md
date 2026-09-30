@@ -63,7 +63,8 @@
 * `apt-cache policy <package>` - Lists available package versions.
 * `sudo apt update` - Updates package lists.
 * `sudo apt upgrade` - Upgrades all upgradable packages.
-
+* `sudo apt remove <package>` - Removes a package.
+* 
 
 
 

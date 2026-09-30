@@ -65,7 +65,7 @@
 * `sudo apt upgrade` - Upgrades all upgradable packages.
 * `sudo apt remove <package>` - Removes a package.
 * `sudo apt purge <package>` - Removes a package and all its configuration files.
-
+### Package management (Snap)
 
 
 

@@ -67,7 +67,7 @@
 * `sudo apt purge <package>` - Removes a package and all its configuration files.
 ### Package management (Snap)
 * `snap find <package>` - Search for Snap packages.
-
+* `sudo snap install <snap_name>` - Installs a Snap package.
 
 
 

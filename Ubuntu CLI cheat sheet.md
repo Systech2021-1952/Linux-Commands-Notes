@@ -70,7 +70,7 @@
 * `sudo snap install <snap_name>` - Installs a Snap package.
 * `sudo snap remove <snap_name>` - Removes a Snap package.
 * `sudo snap refresh` - Updates all installed Snap packages.
-
+* `snap list` - Lists all installed Snap packages.
 
 
 

@@ -62,7 +62,7 @@
 * `apt search <package>` - Searches for APT packages.
 * `apt-cache policy <package>` - Lists available package versions.
 * `sudo apt update` - Updates package lists.
-
+* `sudo apt upgrade` - Upgrades all upgradable packages.
 
 
 

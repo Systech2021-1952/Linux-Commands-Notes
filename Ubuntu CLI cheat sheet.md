@@ -74,7 +74,7 @@
 * `snap info <snap_name>` - Displays information about a Snap package.
 ---
 ## Users and Groups
-
+### User management
 
 
 

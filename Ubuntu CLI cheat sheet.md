@@ -84,7 +84,7 @@
 * `sudo passwd -u <username>` - Unlocks a user password.
 * `sudo chage <username>` - Sets user password expiration date.
 ### Group management
-
+* `id [username]` - Displays user and group IDs.
 
 
 

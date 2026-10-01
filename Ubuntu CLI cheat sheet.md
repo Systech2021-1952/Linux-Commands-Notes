@@ -91,7 +91,7 @@
 ---
 ## Networking
 ### Networking
-
+* `ip addr show` - Displays network interfaces and IP addresses.
 
 
 

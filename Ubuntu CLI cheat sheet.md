@@ -75,7 +75,7 @@
 ---
 ## Users and Groups
 ### User management
-
+* `w` - Shows which users are logged in.
 
 
 

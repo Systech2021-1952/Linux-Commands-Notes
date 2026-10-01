@@ -79,7 +79,7 @@
 * `sudo adduser <username>` - Creates a new user.
 * `sudo deluser <username>` - Deletes a user.
 * `sudo passwd <username>` - Sets or changes the password for a user.
-
+* `su <username>` - Switches user.
 
 
 

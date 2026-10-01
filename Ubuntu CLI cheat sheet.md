@@ -85,7 +85,7 @@
 * `sudo chage <username>` - Sets user password expiration date.
 ### Group management
 * `id [username]` - Displays user and group IDs.
-
+* `groups [username]` - Shows the groups a user belongs to.
 
 
 

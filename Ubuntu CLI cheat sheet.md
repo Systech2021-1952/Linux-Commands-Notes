@@ -78,7 +78,7 @@
 * `w` - Shows which users are logged in.
 * `sudo adduser <username>` - Creates a new user.
 * `sudo deluser <username>` - Deletes a user.
-
+* `sudo passwd <username>` - Sets or changes the password for a user.
 
 
 

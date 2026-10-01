@@ -87,7 +87,7 @@
 * `id [username]` - Displays user and group IDs.
 * `groups [username]` - Shows the groups a user belongs to.
 * `sudo addgroup <groupname>` - Creates a new group.
-
+* `sudo delgroup <groupname>` - Deletes a group.
 
 
 

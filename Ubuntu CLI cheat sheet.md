@@ -80,7 +80,7 @@
 * `sudo deluser <username>` - Deletes a user.
 * `sudo passwd <username>` - Sets or changes the password for a user.
 * `su <username>` - Switches user.
-
+* `sudo passwd -l <username>` - Locks a user account.
 
 
 

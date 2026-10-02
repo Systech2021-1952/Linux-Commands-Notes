@@ -95,7 +95,7 @@
 * `ip -s link` - Shows network statistics.
 * `ss -l` - Shows listening sockets.
 * `ping <host>` - Pings a host and outputs results.
-
+### Netplan configuration (read more at netplan.io)
 
 
 

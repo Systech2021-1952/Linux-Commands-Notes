@@ -93,7 +93,7 @@
 ### Networking
 * `ip addr show` - Displays network interfaces and IP addresses.
 * `ip -s link` - Shows network statistics.
-
+* `ss -l` - Shows listening sockets.
 
 
 

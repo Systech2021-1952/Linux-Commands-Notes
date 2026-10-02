@@ -97,7 +97,7 @@
 * `ping <host>` - Pings a host and outputs results.
 ### Netplan configuration (read more at netplan.io)
 * `cat /etc/netplan/*.yaml` - Displays the current Netplan configuration.
-
+* `sudo netplan try` - Tests a new configuration for a set period of time.
 
 
 

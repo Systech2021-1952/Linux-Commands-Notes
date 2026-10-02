@@ -99,7 +99,7 @@
 * `cat /etc/netplan/*.yaml` - Displays the current Netplan configuration.
 * `sudo netplan try` - Tests a new configuration for a set period of time.
 * `sudo netplan apply` - Applies the current Netplan configuration.
-
+### Firewall management
 
 
 

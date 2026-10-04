@@ -105,7 +105,7 @@
 * `sudo ufw disable` - Disables the firewall.
 * `sudo ufw allow <port/service>` - Allows traffic on a specific port or service.
 * `sudo ufw deny <port/service>` - Denies traffic on a specific port or service.
-
+* `sudo ufw delete allow/deny <port/service>` - Deletes an existing rule.
 
 
 

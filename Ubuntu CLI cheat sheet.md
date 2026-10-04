@@ -108,7 +108,7 @@
 * `sudo ufw delete allow/deny <port/service>` - Deletes an existing rule.
 ### SSH and remote access
 * `ssh <user@host>` - Connects to a remote host via SSH.
-
+* `scp <source> <user@host>:<destination>` - Securely copies files between hosts.
 
 
 

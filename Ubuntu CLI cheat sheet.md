@@ -102,7 +102,7 @@
 ### Firewall management
 * `sudo ufw status` - Displays the status of the firewall.
 * `sudo ufw enable` - Enables the firewall.
-
+* `sudo ufw disable` - Disables the firewall.
 
 
 

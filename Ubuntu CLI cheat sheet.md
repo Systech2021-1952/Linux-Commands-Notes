@@ -101,7 +101,7 @@
 * `sudo netplan apply` - Applies the current Netplan configuration.
 ### Firewall management
 * `sudo ufw status` - Displays the status of the firewall.
-
+* `sudo ufw enable` - Enables the firewall.
 
 
 

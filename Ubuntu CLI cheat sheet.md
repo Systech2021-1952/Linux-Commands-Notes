@@ -103,7 +103,7 @@
 * `sudo ufw status` - Displays the status of the firewall.
 * `sudo ufw enable` - Enables the firewall.
 * `sudo ufw disable` - Disables the firewall.
-
+* `sudo ufw allow <port/service>` - Allows traffic on a specific port or service.
 
 
 

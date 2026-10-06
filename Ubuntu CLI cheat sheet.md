@@ -116,7 +116,7 @@ Visit canonical.com/lxd for more information.
 * `lxd init` - initializes LXD before first use
   
 ### Creating instances
-
+* `lxc init ubuntu:24.04 <container name>` - Creates lxc system container (without starting it).
 
 
 

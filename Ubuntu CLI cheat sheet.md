@@ -118,7 +118,7 @@ Visit canonical.com/lxd for more information.
 ### Creating instances
 * `lxc init ubuntu:24.04 <container name>` - Creates lxc system container (without starting it).
 * `lxc launch ubuntu:24.04 <container name>` - Creates and starts a lxc system container.
-
+* `lxc launch ubuntu:24.04 <vm name> --vm` - Creates and starts a virtual machine.
 
 
 

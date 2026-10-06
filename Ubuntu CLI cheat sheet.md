@@ -121,7 +121,7 @@ Visit canonical.com/lxd for more information.
 * `lxc launch ubuntu:24.04 <vm name> --vm` - Creates and starts a virtual machine.
 
 ### Managing instances
-
+* `lxc list` - Lists instances.
 
 
 

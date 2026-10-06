@@ -111,7 +111,9 @@
 * `scp <source> <user@host>:<destination>` - Securely copies files between hosts.
 ---
 ## LXD
-
+LXD is a modern, secure and powerful tool that provides a unified experience for running and managing containers or virtual machines. 
+Visit canonical.com/lxd for more information.
+* `lxd init` - initializes LXD before first use
 
 
 

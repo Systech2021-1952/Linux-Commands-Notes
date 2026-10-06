@@ -120,7 +120,7 @@ Visit canonical.com/lxd for more information.
 * `lxc launch ubuntu:24.04 <container name>` - Creates and starts a lxc system container.
 * `lxc launch ubuntu:24.04 <vm name> --vm` - Creates and starts a virtual machine.
 
-
+### Managing instances
 
 
 

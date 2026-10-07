@@ -125,7 +125,7 @@ Visit canonical.com/lxd for more information.
 * `lxc info <instance>` - Shows status information about an instance.
 * `lxc start <instance>` - Starts an instance.
 * `lxc stop <instance> [--force]` - Stops an instance.
-
+* `lxc delete <instance> [--force | --interactive]` - Deletes an instance.
 
 
 

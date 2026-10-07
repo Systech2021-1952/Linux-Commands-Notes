@@ -123,8 +123,8 @@ Visit canonical.com/lxd for more information.
 ### Managing instances
 * `lxc list` - Lists instances.
 * `lxc info <instance>` - Shows status information about an instance.
-
-
+* `lxc start <instance>` - Starts an instance.
+* `lxc stop <instance> [--force]` - Stops an instance.
 
 
 

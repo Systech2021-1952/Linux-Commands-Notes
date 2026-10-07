@@ -134,7 +134,7 @@ Visit canonical.com/lxd for more information.
 * `lxc file pull <instance>/<instance_filepath> <local_filepath>` - Pulls a file from an instance.
 * `lxc file push <local_filepath> <instance>/<instance_filepath>` - Pushes a file to an instance.
 
-
+### Using projects
 
 
 

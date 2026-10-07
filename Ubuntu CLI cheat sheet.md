@@ -129,7 +129,7 @@ Visit canonical.com/lxd for more information.
 
 ### Accessing instances
 * `lxc exec <instance> <command>` - Runs a command inside an instance.
-
+* `lxc exec <instance> -- bash` - Gets shell access to an instance (if bash is installed).
 
 
 

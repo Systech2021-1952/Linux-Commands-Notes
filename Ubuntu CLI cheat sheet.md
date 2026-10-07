@@ -131,7 +131,7 @@ Visit canonical.com/lxd for more information.
 * `lxc exec <instance> <command>` - Runs a command inside an instance.
 * `lxc exec <instance> -- bash` - Gets shell access to an instance (if bash is installed).
 * `lxc console <instance> [flags]` - Gets console access to an instance.
-
+* `lxc file pull <instance>/<instance_filepath> <local_filepath>` - Pulls a file from an instance.
 
 
 

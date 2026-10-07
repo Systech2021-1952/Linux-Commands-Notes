@@ -127,8 +127,8 @@ Visit canonical.com/lxd for more information.
 * `lxc stop <instance> [--force]` - Stops an instance.
 * `lxc delete <instance> [--force | --interactive]` - Deletes an instance.
 
-
-
+### Accessing instances
+* `lxc exec <instance> <command>` - Runs a command inside an instance.
 
 
 

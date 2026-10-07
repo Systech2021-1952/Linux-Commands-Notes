@@ -135,7 +135,7 @@ Visit canonical.com/lxd for more information.
 * `lxc file push <local_filepath> <instance>/<instance_filepath>` - Pushes a file to an instance.
 
 ### Using projects
-
+* `lxc project create <project> [--config <option>]` - Creates a project.
 
 
 

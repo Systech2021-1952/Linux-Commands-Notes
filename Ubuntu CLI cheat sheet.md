@@ -136,7 +136,7 @@ Visit canonical.com/lxd for more information.
 
 ### Using projects
 * `lxc project create <project> [--config <option>]` - Creates a project.
-
+* `lxc project set <project> <option>` - Configures a project.
 
 
 

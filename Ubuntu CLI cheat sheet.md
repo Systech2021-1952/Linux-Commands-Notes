@@ -139,7 +139,7 @@ Visit canonical.com/lxd for more information.
 * `lxc project set <project> <option>` - Configures a project.
 * `lxc project switch <project>` - Switches to a project.
 ---
-
+## Ubuntu Pro
 
 
 

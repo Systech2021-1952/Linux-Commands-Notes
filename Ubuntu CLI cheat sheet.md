@@ -142,7 +142,7 @@ Visit canonical.com/lxd for more information.
 ## Ubuntu Pro
 Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long Term Support (LTS) commitment and adding management and compliance tooling. Visit ubuntu.com/pro to register for free on up to five machines.
 
-
+### Activating Ubuntu Pro
 
 
 

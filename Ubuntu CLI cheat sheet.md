@@ -148,7 +148,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 ### Managing services
 * `sudo pro status` - Displays the status of all Ubuntu Pro services.
 * `sudo pro enable <service>` - Enables a specific Ubuntu Pro service, like ESM, FIPS, or Livepatch.
-
+* `sudo pro disable <service>` - Disables a specific Ubuntu Pro service.
 
 
 

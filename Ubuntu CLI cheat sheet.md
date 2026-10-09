@@ -146,7 +146,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 * `sudo pro attach <token>` - Attaches your machine to Ubuntu Pro using a specific token. This token is provided when you subscribe to Ubuntu Pro.
 
 ### Managing services
-
+* `sudo pro status` - Displays the status of all Ubuntu Pro services.
 
 
 

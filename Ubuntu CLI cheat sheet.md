@@ -143,7 +143,7 @@ Visit canonical.com/lxd for more information.
 Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long Term Support (LTS) commitment and adding management and compliance tooling. Visit ubuntu.com/pro to register for free on up to five machines.
 
 ### Activating Ubuntu Pro
-
+* `sudo pro attach <token>` - Attaches your machine to Ubuntu Pro using a specific token. This token is provided when you subscribe to Ubuntu Pro.
 
 
 

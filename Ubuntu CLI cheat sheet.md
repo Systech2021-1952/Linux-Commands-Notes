@@ -151,7 +151,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 * `sudo pro disable <service>` - Disables a specific Ubuntu Pro service.
 
 ### Extended Security Maintenance (ESM)
-
+* `sudo pro enable esm-infra` - Activates Extended Security Maintenance for infrastructure packages, providing security updates beyond the standard release cycle.
 
 
 

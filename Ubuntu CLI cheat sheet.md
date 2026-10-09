@@ -155,9 +155,10 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 * `sudo pro enable esm-apps` - Activates ESM for applications, extending security coverage for specific applications.
 
 ### Livepatch service
+* `sudo pro enable livepatch` - Enables the Livepatch service, which applies critical kernel patches without rebooting.
 
 
-
+### FIPS mode
 
 
 

@@ -159,7 +159,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 
 
 ### FIPS mode
-
+* `sudo pro enable fips` - Enables FIPS (Federal Information Processing Standards) mode, enforcing strict cryptographic standards and practices.
 
 
 

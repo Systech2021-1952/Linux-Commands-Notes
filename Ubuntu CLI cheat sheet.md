@@ -163,7 +163,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 ### Updating configuration
 * `sudo pro refresh` - Refreshes the Ubuntu Pro state to ensure the latest configuration and services are in place.
 
-
+### Detaching Ubuntu Pro
 
 
 

@@ -164,7 +164,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 * `sudo pro refresh` - Refreshes the Ubuntu Pro state to ensure the latest configuration and services are in place.
 
 ### Detaching Ubuntu Pro
-
+* `sudo pro detach` - Detaches the machine from Ubuntu Pro, disabling all services.
 
 
 

@@ -161,7 +161,7 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 * `sudo pro enable fips` - Enables FIPS (Federal Information Processing Standards) mode, enforcing strict cryptographic standards and practices.
 
 ### Updating configuration
-
+* `sudo pro refresh` - Refreshes the Ubuntu Pro state to ensure the latest configuration and services are in place.
 
 
 

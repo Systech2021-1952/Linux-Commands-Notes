@@ -157,11 +157,10 @@ Ubuntu Pro delivers up to 12 years of security coverage, expanding Ubuntu's Long
 ### Livepatch service
 * `sudo pro enable livepatch` - Enables the Livepatch service, which applies critical kernel patches without rebooting.
 
-
 ### FIPS mode
 * `sudo pro enable fips` - Enables FIPS (Federal Information Processing Standards) mode, enforcing strict cryptographic standards and practices.
 
-
+### Updating configuration
 
 
 
